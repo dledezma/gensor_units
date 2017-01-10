@@ -3,13 +3,13 @@
 
 Each folder is named after a Transcription Factor (TF), it contains five tab delimited files that include all the information of the GENSOR Unit of the indicated TF. The five files point to each other through IDs.
 
-## A) objects.txt
+## a) objects.txt
 Lists all the objects included in the GENSOR Unit and their type of object (Gene, RNA, Protein, Simple Molecule, Complex). Names of objects are unique and are used as object ID. Columns are:  
 &nbsp; [1] Object name, also used as ID within files.  
 &nbsp; [2] Object type. Can be Gene, RNA, Protein, Complex or Simple Molecule.  
 &nbsp; [3] Ecocyc ID for molecules.
 
-## B) reactions.txt
+## b) reactions.txt
 Lists all the reactions included in the GENSOR Unit, their type of reaction and their ID used among files. Columns are:  
 &nbsp; [1] Reaction ID. Always of the type "re" + successive numbers.  
 &nbsp; [2] Type of reaction. Can be:  
@@ -23,19 +23,19 @@ Lists all the reactions included in the GENSOR Unit, their type of reaction and 
 &nbsp;&nbsp; + RVB. Reaction is reversible. In secondary reactions this column will show the intermediate steps in Ecocyc IDs.  
 &nbsp; [4] Ecocyc ID of enzymatic reactions.
 
-## C) complexes.txt
+## c) complexes.txt
 Lists all the protein and protein-metabolite complexes present in the GENSOR Unit. Ids appear repeated because different components of the complex are listed in different rows. Columns are:  
 &nbsp; [1] Complex ID. Always of the type "csa" + successive numbers.  
 &nbsp; [2] Complex Name. Name of all the complex components separated by hyphens.  
 &nbsp; [3] Complex component name (links to objects.txt).
 
-## D) reactants_products.txt
+## d) reactants_products.txt
 Lists all the reactants and products of each reaction in reactions.txt Columns are:  
 &nbsp; [1] Reaction ID. From reactions.txt  
 &nbsp; [2] Object ID. From objects.txt  
 &nbsp; [3] Role of object in reaction, either reactant or product. In reversible reactions the roles as interchangeable but is not specified in the file.
 
-## E) modification.txt
+## e) modification.txt
 Lists catalysers of reactions and regulatory interactions, i.e. proteins that modify the state of a reaction. Columns are:  
 &nbsp; [1] Reaction ID. From reactions.txt.  
 &nbsp; [2] Type of modification. Can be "Catalysis" for enzymatic reactions, "Physical_stimulation" for activation of transcription, "Inhibition" for repression of transcription or "Unknown" for reported regulatory interactions were the particular effect is unclear. Dual regulatory interactions are listed twice.  
