@@ -1,8 +1,8 @@
-########################
-####### Datasets #######
-########################
 
-## connectivity_with_effect ##
+## Datasets ##
+
+
+# connectivity_with_effect #
 Includes files related to connectivity considering regulatory effect (Figure 2b). Generated through ~/pipelines/pipeline_connectivity_with_effect.sh
 
 ## GUs_raw_files ##
