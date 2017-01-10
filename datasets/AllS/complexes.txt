@@ -1,2 +1,0 @@
-csa1	AllS-allantoin	AllS
-csa1	AllS-allantoin	allantoin
