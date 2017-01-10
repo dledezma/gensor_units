@@ -1,0 +1,9 @@
+re1	PHYSICAL_STIMULATION	IlvY
+re1	PHYSICAL_STIMULATION	IlvY-alpha-acetohydroxybutirate
+re1	PHYSICAL_STIMULATION	IlvY-alpha-acetolactate
+re2	INHIBITION	IlvY
+re2	INHIBITION	IlvY-alpha-acetohydroxybutirate
+re2	INHIBITION	IlvY-alpha-acetolactate
+re6	CATALYSIS	IlvC
+re7	CATALYSIS	IlvC
+re8	CATALYSIS	IlvC
