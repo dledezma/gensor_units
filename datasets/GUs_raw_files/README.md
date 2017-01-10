@@ -5,7 +5,7 @@ Each folder is named after a Transcription Factor (TF), it contains five tab del
 
 ## A) objects.txt
 Lists all the objects included in the GENSOR Unit and their type of object (Gene, RNA, Protein, Simple Molecule, Complex). Names of objects are unique and are used as object ID. Columns are:
-> [1] Object name, also used as ID within files.
+&nbsp; [1] Object name, also used as ID within files.
 > [2] Object type. Can be Gene, RNA, Protein, Complex or Simple Molecule.
 > [3] Ecocyc ID for molecules.
 
