@@ -1,5 +1,3 @@
-MAIN
-
 ## datasets ##
 Input files from Ecocyc and RegulonDB, analysis results and GENSOR Unit data.
 
