@@ -1,0 +1,73 @@
+# [1] > GENSOR Unit that produces an effector
+# [2] > TF that uses the effector
+# [3] > Conformation produced in [2] by presence of effector
+# [4] > Effector produced
+AtoC	GlcC	active	acetate
+GlcC	AllR	inactive	glyoxylate
+GlcC	GlcC	active	glycolate
+GlcC	IclR	inactive	glyoxylate
+GlcC	LldR	active	lactate
+AllR	AllR	inactive	glyoxylate
+AllR	IclR	inactive	glyoxylate
+IclR	AllR	inactive	glyoxylate
+IclR	IclR	inactive	glyoxylate
+LldR	GlcC	active	glycolate
+LldR	IclR	active	pyruvate
+LldR	LldR	active	lactate
+LldR	PdhR	inactive	pyruvate
+PdhR	AllR	inactive	glyoxylate
+PdhR	CueR	active	Cu(I)
+PdhR	GlcC	active	acetate
+PdhR	GlcC	active	glycolate
+PdhR	IclR	active	pyruvate
+PdhR	IclR	inactive	glyoxylate
+PdhR	LldR	active	lactate
+PdhR	PdhR	inactive	pyruvate
+CueR	CueR	active	Cu(I)
+CueR	NikR	active	Cu(II)
+NikR	NikR	active	nickel
+NikR	RcnR	inactive	nickel
+NikR	YqjI	inactive	nickel
+RcnR	NikR	active	cobalt ion
+RcnR	NikR	active	nickel
+RcnR	RcnR	inactive	cobalt ion
+RcnR	RcnR	inactive	nickel
+RcnR	YqjI	inactive	nickel
+YqjI	Fur	active	Fe+2
+YqjI	YqjI	inactive	Fe+2
+Fur	AlaS	active	alanine
+Fur	CueR	active	Cu(I)
+Fur	Fur	active	Fe+2
+Fur	Fur	active	Mn(II)
+Fur	IclR	active	pyruvate
+Fur	MetR	active	homo-cys
+Fur	MntR	active	Mn(II)
+Fur	NanR	inactive	N-acetylneuraminate
+Fur	NikR	active	cobalt ion
+Fur	NikR	active	nickel
+Fur	PdhR	inactive	pyruvate
+Fur	RcnR	inactive	cobalt ion
+Fur	RcnR	inactive	nickel
+Fur	TyrR	active	phenylalanine
+Fur	YqjI	inactive	Fe+2
+Fur	YqjI	inactive	nickel
+MetR	GcvA	inactive	glycine
+MetR	IclR	active	pyruvate
+MetR	PdhR	inactive	pyruvate
+GcvA	GcvA	inactive	glycine
+MntR	Fur	active	Fe+2
+MntR	Fur	active	Mn(II)
+MntR	MntR	active	Mn(II)
+MntR	YqjI	inactive	Fe+2
+NanR	IclR	active	pyruvate
+NanR	NanR	inactive	N-acetylneuraminate
+NanR	PdhR	inactive	pyruvate
+TyrR	TrpR	active	tryptophan
+TyrR	TyrR	active	phenylalanine
+TyrR	TyrR	active	tryptophan
+TyrR	TyrR	active	tyrosine
+TrpR	IclR	active	pyruvate
+TrpR	PdhR	inactive	pyruvate
+TrpR	TrpR	active	tryptophan
+TrpR	TyrR	active	tryptophan
+
