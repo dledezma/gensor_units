@@ -1,8 +1,5 @@
-#################################
-####### GENSOR Units data #######
-#################################
 
-####### Questions and comments please contact Daniela Ledezma @ dledezma@lcg.unam.mx #######
+# GENSOR Units data
 
 Each folder is named after a Transcription Factor (TF), it contains five tab delimited files that include all the information of the GENSOR Unit of the indicated TF. The five files point to each other through IDs.
 
@@ -39,3 +36,6 @@ Each folder is named after a Transcription Factor (TF), it contains five tab del
 		[1] Reaction ID. From reactions.txt.
 		[2] Type of modification. Can be "Catalysis" for enzymatic reactions, "Physical_stimulation" for activation of transcription, "Inhibition" for repression of transcription or "Unknown" for reported regulatory interactions were the particular effect is unclear. Dual regulatory interactions are listed twice. 
 		[3] Protein or protein complex (usually TF-effector or heteromultimeric protein complexes) that produces the modification. IDs of modifiers are object IDs.
+
+
+###### Questions and comments please contact Daniela Ledezma @ dledezma@lcg.unam.mx 
