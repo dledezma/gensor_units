@@ -1,0 +1,667 @@
+re1	aceBAK	reactant
+re1	aceBAK_mRNA	product
+re2	acnA	reactant
+re2	acnA_mRNA	product
+re3	aroP	reactant
+re3	aroP_mRNA	product
+re4	betIBA	reactant
+re4	betIBA_mRNA	product
+re5	betT	reactant
+re5	betT_mRNA	product
+re6	crp	reactant
+re6	crp_mRNA	product
+re7	csgDEFG	reactant
+re7	csgDEFG_mRNA	product
+re8	cydAB	reactant
+re8	cydAB_mRNA	product
+re9	icd	reactant
+re9	icd_mRNA	product
+re10	pck	reactant
+re10	pck_mRNA	product
+re11	poxB-ltaE-ybjT	reactant
+re11	poxB-ltaE-ybjT_mRNA	product
+re12	ppsA	reactant
+re12	ppsA_mRNA	product
+re13	ptsHI-crr	reactant
+re13	ptsHI-crr_mRNA	product
+re14	acnB	reactant
+re14	acnB_mRNA	product
+re15	adhE	reactant
+re15	adhE_mRNA	product
+re16	cyoABCDE	reactant
+re16	cyoABCDE_mRNA	product
+re17	edd-eda	reactant
+re17	edd-eda_mRNA	product
+re18	epd-pgk-fbaA	reactant
+re18	epd-pgk-fbaA_mRNA	product
+re19	fbaB	reactant
+re19	fbaB_mRNA	product
+re20	fruBKA	reactant
+re20	fruBKA_mRNA	product
+re21	gapA-yeaD	reactant
+re21	gapA-yeaD_mRNA	product
+re22	glcC	reactant
+re22	glcC_mRNA	product
+re23	glk	reactant
+re23	glk_mRNA	product
+re24	gpmM-envC-yibQ	reactant
+re24	gpmM-envC-yibQ_mRNA	product
+re25	hydN-hypF	reactant
+re25	hydN-hypF_mRNA	product
+re26	manXYZ	reactant
+re26	manXYZ_mRNA	product
+re27	marRAB	reactant
+re27	marRAB_mRNA	product
+re28	mpl	reactant
+re28	mpl_mRNA	product
+re29	mtlADR	reactant
+re29	mtlADR_mRNA	product
+re30	nirBDC-cysG	reactant
+re30	nirBDC-cysG_mRNA	product
+re31	pdeL	reactant
+re31	pdeL_mRNA	product
+re32	pdhR-aceEF-lpd	reactant
+re32	pdhR-aceEF-lpd_mRNA	product
+re33	pfkA	reactant
+re33	pfkA_mRNA	product
+re34	ppc	reactant
+re34	ppc_mRNA	product
+re35	prpBCDE	reactant
+re35	prpBCDE_mRNA	product
+re36	pykF	reactant
+re36	pykF_mRNA	product
+re37	pyrG-eno	reactant
+re37	pyrG-eno_mRNA	product
+re38	sgrST-setA	reactant
+re38	sgrST-setA_mRNA	product
+re39	tpiA	reactant
+re39	tpiA_mRNA	product
+re40	zwf	reactant
+re40	zwf_mRNA	product
+re41	fructose 1,6-biphosphate	reactant
+re41	Cra	reactant
+re41	Cra-fructose 1,6-biphosphate	product
+re42	fructose 1-phosphate	reactant
+re42	Cra	reactant
+re42	Cra-fructose 1-phosphate	product
+re43	eno	reactant
+re43	eno_mRNA	product
+re44	epd-pgk	reactant
+re44	epd-pgk_mRNA	product
+re45	gapA	reactant
+re45	gapA_mRNA	product
+re46	hypF	reactant
+re46	hypF_mRNA	product
+re47	poxB	reactant
+re47	poxB_mRNA	product
+re48	marRAB_mRNA	reactant
+re48	MarR	product
+re49	marRAB_mRNA	reactant
+re49	MarA	product
+re50	marRAB_mRNA	reactant
+re50	MarB	product
+re51	gapA_mRNA	reactant
+re51	GapA	product
+re52	glyceraldehyde-P	reactant
+re52	phosphate	reactant
+re52	13-DPG	product
+re53	zwf_mRNA	reactant
+re53	Zwf	product
+re54	glucose-6-P	reactant
+re54	6-phosphogluconolactone	product
+re55	hydN-hypF_mRNA	reactant
+re55	HydN	product
+re56	hydN-hypF_mRNA	reactant
+re56	HypF	product
+re57	carbamoyl-P	reactant
+re57	HypE	reactant
+re57	diphosphate	product
+re57	phosphate	product
+re57	HydB	product
+re58	carbamoyl-P	reactant
+re58	O-carbamoyladenylate	product
+re58	diphosphate	product
+re58	phosphate	product
+re59	O-carbamoyladenylate	reactant
+re59	HypE	reactant
+re59	HydB	product
+re60	nirBDC-cysG_mRNA	reactant
+re60	NirB	product
+re61	NirB	reactant
+re61	NirD	reactant
+re61	NirD-NirB	product
+re62	nitrite	reactant
+re62	ammonium	product
+re63	nirBDC-cysG_mRNA	reactant
+re63	NirD	product
+re64	nirBDC-cysG_mRNA	reactant
+re64	NirC	product
+re65	nitrite_Ext	reactant
+re65	nitrite	product
+re66	nirBDC-cysG_mRNA	reactant
+re66	CysG	product
+re67	precorrin-1	reactant
+re67	SAM	reactant
+re67	adenosylhomocysteine	product
+re67	precorrin-2	product
+re68	uroporphyrinogen-III	reactant
+re68	SAM	reactant
+re68	adenosylhomocysteine	product
+re68	precorrin-1	product
+re69	precorrin-2	reactant
+re69	Precorrin	product
+re70	Precorrin	reactant
+re70	Fe+2	reactant
+re70	siroheme	product
+re71	ptsHI-crr_mRNA	reactant
+re71	PtsH	product
+re72	ptsHI-crr_mRNA	reactant
+re72	PtsI	product
+re73	ptsHI-crr_mRNA	reactant
+re73	Crr	product
+re74	PtsG	reactant
+re74	Crr	reactant
+re74	PtsG-Crr	product
+re75	HPr - phosphorylated_Ext	reactant
+re75	beta-glucose_Ext	reactant
+re75	beta-D-glucose-6-P	product
+re75	PtsH	product
+re76	HPr - phosphorylated_Ext	reactant
+re76	Methyl-D-glucoside_Ext	reactant
+re76	methyl alpha-D-glucoside 6-phosphate	product
+re76	PtsH	product
+re77	TreB	reactant
+re77	Crr	reactant
+re77	TreB-Crr	product
+re78	HPr - phosphorylated_Ext	reactant
+re78	trehalose_Ext	reactant
+re78	alpha,alpha-trehalose 6-phosphate	product
+re78	PtsH	product
+re79	MurP	reactant
+re79	Crr	reactant
+re79	MurP-Crr	product
+re80	HPr - phosphorylated_Ext	reactant
+re80	MurNAc_Ext	reactant
+re80	MurNAc-6-P	product
+re80	PtsH	product
+re81	betIBA_mRNA	reactant
+re81	BetI	product
+re82	betIBA_mRNA	reactant
+re82	BetB	product
+re83	betaine aldehyde	reactant
+re83	betaine	product
+re84	betIBA_mRNA	reactant
+re84	BetA	product
+re85	acceptors	reactant
+re85	choline	reactant
+re85	betaine aldehyde	product
+re85	A(H2)	product
+re86	pyrG-eno_mRNA	reactant
+re86	PyrG	product
+re87	uridine-triphosphate	reactant
+re87	glutamine	reactant
+re87	cytidine-triphosphate	product
+re87	L-glutamate	product
+re87	phosphate	product
+re88	glutamine	reactant
+re88	L-glutamate	product
+re88	ammonium	product
+re89	uridine-triphosphate	reactant
+re89	ammonium	reactant
+re89	cytidine-triphosphate	product
+re89	phosphate	product
+re90	pyrG-eno_mRNA	reactant
+re90	Eno	product
+re91	2-P-D-glycerate	reactant
+re91	P-enol-pyruvate	product
+re92	RhlB	reactant
+re92	Rne	reactant
+re92	Pnp	reactant
+re92	Ppk	reactant
+re92	Eno	reactant
+re92	Ppk-Rne-RhlB-Pnp-Eno	product
+re93	gpmM-envC-yibQ_mRNA	reactant
+re93	GpmM	product
+re94	2-P-D-glycerate	reactant
+re94	3-P-D-glycerate	product
+re95	gpmM-envC-yibQ_mRNA	reactant
+re95	EnvC	product
+re96	gpmM-envC-yibQ_mRNA	reactant
+re96	YibQ	product
+re97	nucleoside diphosphate	reactant
+re97	mononucleotide	product
+re97	phosphate	product
+re98	guanosine-diphosphate	reactant
+re98	phosphate	product
+re98	guanylate	product
+re99	uridine-diphosphate	reactant
+re99	phosphate	product
+re99	5'-UMP	product
+re100	cytidine-diphosphate	reactant
+re100	cytidylate	product
+re100	phosphate	product
+re101	hypF_mRNA	reactant
+re101	HypF	product
+re102	ppc_mRNA	reactant
+re102	Ppc	product
+re103	oxalacetate	reactant
+re103	phosphate	reactant
+re103	P-enol-pyruvate	product
+re103	carbonate	product
+re104	icd_mRNA	reactant
+re104	Icd	product
+re105	I-CIT	reactant
+re105	ketoglutarate	product
+re105	CO2	product
+re106	I-CIT	reactant
+re106	oxalosuccinate	product
+re107	oxalosuccinate	reactant
+re107	ketoglutarate	product
+re107	CO2	product
+re108	poxB-ltaE-ybjT_mRNA	reactant
+re108	PoxB	product
+re109	ubiquinone	reactant
+re109	pyruvate	reactant
+re109	ubiquinol	product
+re109	acetate	product
+re109	CO2	product
+re110	pyruvate	reactant
+re110	ethanal	reactant
+re110	acetoin	product
+re110	CO2	product
+re111	poxB-ltaE-ybjT_mRNA	reactant
+re111	LtaE	product
+re112	hydroxythreonine	reactant
+re112	glycoaldehyde	product
+re112	glycine	product
+re113	threonine	reactant
+re113	ethanal	product
+re113	glycine	product
+re114	threo-phenylserine	reactant
+re114	benzaldehyde	product
+re114	glycine	product
+re115	allo-threonine	reactant
+re115	ethanal	product
+re115	glycine	product
+re116	poxB-ltaE-ybjT_mRNA	reactant
+re116	YbjT	product
+re117	prpBCDE_mRNA	reactant
+re117	PrpB	product
+re118	methylisocitrate	reactant
+re118	succinate	product
+re118	pyruvate	product
+re119	prpBCDE_mRNA	reactant
+re119	PrpC	product
+re120	propanoyl-CoA	reactant
+re120	oxalacetate	reactant
+re120	(2S,3S)-2-methylcitrate	product
+re120	coenzyme A	product
+re121	oxalacetate	reactant
+re121	acetyl-CoA	reactant
+re121	coenzyme A	product
+re121	citrate	product
+re122	prpBCDE_mRNA	reactant
+re122	PrpD	product
+re123	(2S,3S)-2-methylcitrate	reactant
+re123	2-methylaconitate	product
+re124	prpBCDE_mRNA	reactant
+re124	PrpE	product
+re125	propanoate	reactant
+re125	coenzyme A	reactant
+re125	propanoyl-CoA	product
+re125	diphosphate	product
+re126	mtlADR_mRNA	reactant
+re126	MtlA	product
+re127	HPr - phosphorylated_Ext	reactant
+re127	mannitol_Ext	reactant
+re127	mannitol-1-P	product
+re127	PtsH	product
+re128	HPr - phosphorylated_Ext	reactant
+re128	gulitol_Ext	reactant
+re128	sorbitol 6-phosphate	product
+re128	PtsH	product
+re129	mtlADR_mRNA	reactant
+re129	EIIMtl	product
+re130	mtlADR_mRNA	reactant
+re130	MtlD	product
+re131	mannitol-1-P	reactant
+re131	fructose-6-P	product
+re132	mtlADR_mRNA	reactant
+re132	MtlR	product
+re133	cydAB_mRNA	reactant
+re133	CydA	product
+re134	CydX	reactant
+re134	CydA	reactant
+re134	CydB	reactant
+re134	CydA-CydB-CydX	product
+re135	ubiquinol_Ext	reactant
+re135	oxygen_Ext	reactant
+re135	ubiquinone	product
+re136	cydAB_mRNA	reactant
+re136	CydB	product
+re137	eno_mRNA	reactant
+re137	Eno	product
+re138	acnA_mRNA	reactant
+re138	AcnA	product
+re139	cis-aconitate	reactant
+re139	I-CIT	product
+re140	citrate	reactant
+re140	cis-aconitate	product
+re141	sgrST-setA_mRNA	reactant
+re141	RNA:SgrS	product
+re142	sgrST-setA_mRNA	reactant
+re142	SgrT	product
+re143	sgrST-setA_mRNA	reactant
+re143	SetA	product
+re144	lactose_Ext	reactant
+re144	lactose	product
+re145	aroP_mRNA	reactant
+re145	AroP	product
+re146	tryptophan_Ext	reactant
+re146	tryptophan	product
+re147	tyrosine_Ext	reactant
+re147	tyrosine	product
+re148	phenylalanine_Ext	reactant
+re148	phenylalanine	product
+re149	cyoABCDE_mRNA	reactant
+re149	CyoA	product
+re150	CyoC	reactant
+re150	CyoA	reactant
+re150	CyoD	reactant
+re150	CyoB	reactant
+re150	CyoD-CyoA-CyoB-CyoC	product
+re151	cyoABCDE_mRNA	reactant
+re151	CyoB	product
+re152	cyoABCDE_mRNA	reactant
+re152	CyoC	product
+re153	cyoABCDE_mRNA	reactant
+re153	CyoD	product
+re154	cyoABCDE_mRNA	reactant
+re154	CyoE	product
+re155	protoheme IX	reactant
+re155	farnesyl-PP	reactant
+re155	diphosphate	product
+re155	ferroheme o	product
+re156	pdeL_mRNA	reactant
+re156	PdeL	product
+re157	c-di-GMP	reactant
+re157	5'pGpG	product
+re158	poxB_mRNA	reactant
+re158	PoxB	product
+re159	betT_mRNA	reactant
+re159	BetT	product
+re160	choline_Ext	reactant
+re160	choline	product
+re161	manXYZ_mRNA	reactant
+re161	ManX	product
+re162	ManZ	reactant
+re162	ManX	reactant
+re162	ManY	reactant
+re162	ManZ-ManY-ManX	product
+re163	HPr - phosphorylated_Ext	reactant
+re163	alpha-D-mannose_Ext	reactant
+re163	alpha-D-mannose-6-P	product
+re163	PtsH	product
+re164	HPr - phosphorylated_Ext	reactant
+re164	2-deoxyglucose_Ext	reactant
+re164	2-deoxy-D-glucose 6-phosphate	product
+re164	PtsH	product
+re165	N-acetyl-beta-D-mannosamine_Ext	reactant
+re165	HPr - phosphorylated_Ext	reactant
+re165	ManNAc-6-P	product
+re165	PtsH	product
+re166	HPr - phosphorylated_Ext	reactant
+re166	chitosamine_Ext	reactant
+re166	alpha-D-glucosamine phosphate	product
+re166	PtsH	product
+re167	HPr - phosphorylated_Ext	reactant
+re167	NAcGlc_Ext	reactant
+re167	N-acetyl-alpha-D-glucosamine 6-phosphate	product
+re167	PtsH	product
+re168	HPr - phosphorylated_Ext	reactant
+re168	beta-Levulose_Ext	reactant
+re168	fructose-6-P	product
+re168	PtsH	product
+re169	manXYZ_mRNA	reactant
+re169	IIABMan	product
+re170	manXYZ_mRNA	reactant
+re170	ManY	product
+re171	manXYZ_mRNA	reactant
+re171	ManZ	product
+re172	acnB_mRNA	reactant
+re172	AcnB	product
+re173	methylisocitrate	reactant
+re173	2-methylaconitate	product
+re174	csgDEFG_mRNA	reactant
+re174	CsgD	product
+re175	csgDEFG_mRNA	reactant
+re175	CsgE	product
+re176	CsgG	reactant
+re176	CsgE	reactant
+re176	CsgE-CsgG	product
+re177	CsgA_Ext	reactant
+re177	CsgA	product
+re178	csgDEFG_mRNA	reactant
+re178	CsgF	product
+re179	csgDEFG_mRNA	reactant
+re179	CsgG	product
+re180	fruBKA_mRNA	reactant
+re180	FruB	product
+re181	FruB	reactant
+re181	FruA	reactant
+re181	FruB-FruA	product
+re182	PtsI-Phis189_Ext	reactant
+re182	levugen_Ext	reactant
+re182	fructose 1-phosphate	product
+re182	PtsI	product
+re183	beta-Levulose_Ext	reactant
+re183	PtsI-Phis189_Ext	reactant
+re183	beta-D-fructofuranose-1-P	product
+re183	PtsI	product
+re184	fruBKA_mRNA	reactant
+re184	FruK	product
+re185	beta-D-fructofuranose-1-P	reactant
+re185	fructose 1,6-biphosphate	product
+re186	fruBKA_mRNA	reactant
+re186	FruA	product
+re187	epd-pgk_mRNA	reactant
+re187	Epd	product
+re188	erythrose-4P	reactant
+re188	erythronate-4P	product
+re189	epd-pgk_mRNA	reactant
+re189	Pgk	product
+re190	3-P-D-glycerate	reactant
+re190	13-DPG	product
+re191	fbaB_mRNA	reactant
+re191	FbaB	product
+re192	fructose 1,6-biphosphate	reactant
+re192	glyceraldehyde-P	product
+re192	DHAP	product
+re193	tpiA_mRNA	reactant
+re193	TpiA	product
+re194	glyceraldehyde-P	reactant
+re194	DHAP	product
+re195	adhE_mRNA	reactant
+re195	AdhE	product
+re196	pyruvate formate lyase, active form	reactant
+re196	pyruvate formate-lyase	product
+re197	1-Alcohol	reactant
+re197	RCHO	product
+re198	EtOH	reactant
+re198	ethanal	product
+re199	coenzyme A	reactant
+re199	ethanal	reactant
+re199	acetyl-CoA	product
+re200	gapA-yeaD_mRNA	reactant
+re200	GapA	product
+re201	gapA-yeaD_mRNA	reactant
+re201	YeaD	product
+re202	ppsA_mRNA	reactant
+re202	PpsA	product
+re203	pyruvate	reactant
+re203	P-enol-pyruvate	product
+re203	phosphate	product
+re204	glk_mRNA	reactant
+re204	Glk	product
+re205	glucopyranose	reactant
+re205	glucose-6-P	product
+re206	crp_mRNA	reactant
+re206	Crp	product
+re207	crp_mRNA	reactant
+re207	CRP	product
+re208	glcC_mRNA	reactant
+re208	GlcC	product
+re209	pfkA_mRNA	reactant
+re209	PfkA	product
+re210	sedoheptulose-7-P	reactant
+re210	sedoheptulose 1,7-bisphosphate	product
+re211	fructose-6-P	reactant
+re211	fructose 1,6-biphosphate	product
+re212	pck_mRNA	reactant
+re212	Pck	product
+re213	oxalacetate	reactant
+re213	P-enol-pyruvate	product
+re213	CO2	product
+re214	pdhR-aceEF-lpd_mRNA	reactant
+re214	PdhR	product
+re215	pdhR-aceEF-lpd_mRNA	reactant
+re215	AceE	product
+re216	[pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine	reactant
+re216	pyruvate	reactant
+re216	[enzyme] N6-(S-acetyldihydrolipoyl)lysine	product
+re216	CO2	product
+re217	pyruvate	reactant
+re217	ThPP	reactant
+re217	2-(alpha-hydroxyethyl)-TPP	product
+re217	CO2	product
+re218	[pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine	reactant
+re218	2-(alpha-hydroxyethyl)-TPP	reactant
+re218	[enzyme] N6-(S-acetyldihydrolipoyl)lysine	product
+re218	ThPP	product
+re219	AceF	reactant
+re219	AceE	reactant
+re219	Lpd	reactant
+re219	AceE-AceF-Lpd	product
+re220	coenzyme A	reactant
+re220	pyruvate	reactant
+re220	acetyl-CoA	product
+re220	CO2	product
+re221	[enzyme] N6-(S-acetyldihydrolipoyl)lysine	reactant
+re221	coenzyme A	reactant
+re221	[pyruvate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine	product
+re221	acetyl-CoA	product
+re222	[pyruvate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine	reactant
+re222	[pyruvate dehydrogenase E2 protein] N6-lipoyl-L-lysine	product
+re223	pdhR-aceEF-lpd_mRNA	reactant
+re223	AceF	product
+re224	pdhR-aceEF-lpd_mRNA	reactant
+re224	Lpd	product
+re225	[enzyme] N6-(dihydrolipoyl)lysine	reactant
+re225	lipoyl-domain	product
+re226	[glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine	reactant
+re226	[glycine-cleavage complex H protein] N6-lipoyl-L-lysine	product
+re227	enzyme N6-(dihydrolipoyl)lysine	reactant
+re227	enzyme N6-(lipoyl)lysine	product
+re228	SucB	reactant
+re228	SucA	reactant
+re228	Lpd	reactant
+re228	SucA-SucB-Lpd	product
+re229	ketoglutarate	reactant
+re229	coenzyme A	reactant
+re229	suc-coa	product
+re229	CO2	product
+re230	enzyme N6-(lipoyl)lysine	reactant
+re230	ketoglutarate	reactant
+re230	[2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine	product
+re230	CO2	product
+re231	enzyme N6-(dihydrolipoyl)lysine	reactant
+re231	suc-coa	reactant
+re231	[2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine	product
+re231	coenzyme A	product
+re232	GcvP	reactant
+re232	GcvH	reactant
+re232	GcvT	reactant
+re232	Lpd	reactant
+re232	Lpd-GcvP-GcvH-GcvT	product
+re233	THF polyglutamate	reactant
+re233	glycine	reactant
+re233	methylene-H4PteGlu(n)	product
+re233	ammonium	product
+re233	CO2	product
+re234	[glycine-cleavage complex H protein] N6-lipoyl-L-lysine	reactant
+re234	glycine	reactant
+re234	[glycine-cleavage complex H protein] N6-aminomethyldihydrolipoyl-L-lysine	product
+re234	CO2	product
+re235	[glycine-cleavage complex H protein] N6-aminomethyldihydrolipoyl-L-lysine	reactant
+re235	THF polyglutamate	reactant
+re235	[glycine-cleavage complex H protein] N6-dihydrolipoyl-L-lysine	product
+re235	methylene-H4PteGlu(n)	product
+re235	ammonium	product
+re236	edd-eda_mRNA	reactant
+re236	Edd	product
+re237	6-p gluconate	reactant
+re237	KDGP	product
+re238	edd-eda_mRNA	reactant
+re238	Eda	product
+re239	oxalacetate	reactant
+re239	pyruvate	product
+re239	CO2	product
+re240	KDGP	reactant
+re240	glyceraldehyde-P	product
+re240	pyruvate	product
+re241	4-hydroxy-2-oxoglutarate	reactant
+re241	glyoxylate	product
+re241	pyruvate	product
+re242	aceBAK_mRNA	reactant
+re242	AceB	product
+re243	acetyl-CoA	reactant
+re243	glyoxylate	reactant
+re243	coenzyme A	product
+re243	malate	product
+re244	aceBAK_mRNA	reactant
+re244	AceA	product
+re245	I-CIT	reactant
+re245	glyoxylate	product
+re245	succinate	product
+re246	aceBAK_mRNA	reactant
+re246	AceK	product
+re247	isocitrate dehydrogenase-P	reactant
+re247	isocitrate-dehydrogenase	product
+re247	phosphate	product
+re248	isocitrate-dehydrogenase	reactant
+re248	isocitrate dehydrogenase-P	product
+re249	epd-pgk-fbaA_mRNA	reactant
+re249	Epd	product
+re250	epd-pgk-fbaA_mRNA	reactant
+re250	Pgk	product
+re251	epd-pgk-fbaA_mRNA	reactant
+re251	FbaA	product
+re252	sedoheptulose 1,7-bisphosphate	reactant
+re252	erythrose-4P	product
+re252	DHAP	product
+re253	pykF_mRNA	reactant
+re253	PykF	product
+re254	P-enol-pyruvate	reactant
+re254	pyruvate	product
+re255	mpl_mRNA	reactant
+re255	Mpl	product
+re256	Ala-D-Glu-meso-A2pm-D-Ala	reactant
+re256	UDP-MurNAc	reactant
+re256	UDP-MurNAc-tetrapeptide	product
+re256	phosphate	product
+re257	Ala-gamma-D-Glu-Dap	reactant
+re257	UDP-MurNAc	reactant
+re257	UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm	product
+re257	phosphate	product
+re258	6-phosphogluconolactone	reactant
+re258	6-p gluconate	product
+re259	3-P-D-glycerate	reactant
+re259	2-P-D-glycerate	product
+re260	pyruvate	reactant
+re260	acetyl-CoA	product
+re261	suc-coa	reactant
+re261	oxalacetate	product
+re262	malate	reactant
+re262	oxalacetate	product
+re263	fructose 1,6-biphosphate	reactant
+re263	fructose-6-P	product
