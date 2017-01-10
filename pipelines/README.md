@@ -1,8 +1,7 @@
-########################
-####### Pipelines ######
-########################
+# Pipelines 
 
-1) main_pipeline.sh
+
+### 1) main_pipeline.sh
 Pipeline used to assemble GENSOR Units, obtain presence of feedback and connectivity values. Composed of 11 scripts:
 
 	a) gu_assembly_v4.pl - Consults RegulonDB datasets (~/datasets/input_files/) to obtain, for each TF, its known effectors, active/inactive conformations, regulated genes and effect of regulatory interactions. Connects to Pathway Tools through perlcyc api, for each target gene obtains: gene products, catalysed reactions, reactants and products of reactions, complexes of which gene products are part of. Produces a directory for each TF with five tab-delimited files that contain all the retrieved information (~/datasets/GUs_raw_files/).
@@ -29,7 +28,7 @@ Pipeline used to assemble GENSOR Units, obtain presence of feedback and connecti
 
 
 
-2) pipeline_connectivity_with_effect.sh
+### 2) pipeline_connectivity_with_effect.sh
 Pipeline used to calculate connectivity of GENSOR Units considering TF-gene regulatory effect (activation/repression) (Figure 2b). In all scripts genes under dual regulation are considered in both activation and repression.
 
 	l) get_short_paths_v5.pl - Same as (f) and (h), but only finds metabolic fluxes of reactions under the same regulatory effect. It is run using raw GUs for identifying total components to avoid components that only include secondary reactions. It is run four times to include all combinations: calculations for components (f) and connectivity (h), for activated and repressed reactions.
@@ -43,4 +42,4 @@ Pipeline used to calculate connectivity of GENSOR Units considering TF-gene regu
 	p) connectivity_calculator_weffect.pl - Same as (i), but considering separately activated and repressed enzymes.
 
 	
-####### Questions and comments please contact Daniela Ledezma @ dledezma@lcg.unam.mx #######
+###### Questions and comments please contact Daniela Ledezma @ dledezma@lcg.unam.mx #######
