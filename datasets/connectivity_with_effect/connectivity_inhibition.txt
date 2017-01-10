@@ -1,0 +1,84 @@
+# From get_connectivity.pl on Wed Sep 28 12:57:49 2016
+# Input = ~/datasets/connectivity_with_effect/short_paths_inhibition.txt /  ~/datasets/GUs_secondary_reactions/ 
+# [1] > GENSOR Unit
+# [2] > Total connected enzymes in GENSOR Unit
+# [3] > Connected enzymes
+AccB	0	
+AcrR	0	
+Ada	0	
+AgaR	0	
+AidB	0	
+AlaS	0	
+ArsR	0	
+AsnC	0	
+BolA	0	
+CreB	0	
+CsgD	0	
+DinJ-YafQ	0	
+EnvR	0	
+ExuR	0	
+FlhDC	0	
+GadX	0	
+HypT	0	
+MalI	0	
+MarA	0	
+MatA	0	
+MazE	0	
+MazE-MazF	0	
+Mlc	0	
+MntR	0	
+MprA	0	
+MqsA	0	
+NarP	0	
+NemR	0	
+NikR	0	
+NtrC	0	
+OxyR	0	
+PgrR	0	
+RcnR	0	
+RcsAB	0	
+RcsB	0	
+RelB	0	
+RelB-RelE	0	
+RstA	0	
+SgrR	0	
+TorR	0	
+UidR	0	
+YefM	0	
+YefM-YoeB	0	
+YqjI	0	
+Zur	0	
+GcvA	3	GcvT,Lpd-GcvP-GcvH-GcvT,GcvP,
+Nac	2	GdhA,MnmE-MnmG,
+ChbR	2	ChbG,ChbF,
+CysB	2	SsuD,SsuE,
+FadR	7	FadB,FadM,FadD,FadE,FadA,FadI,FadJ,
+Lrp	15	AlaA,AvtA,AdhE,IlvA,SerA,BCAT,IlvE,IlvI-IlvH,IlvO-IlvO-IlvM,IlvD,DadX,DadA,LeuE,LivF-LivG-LivH-LivM-LivJ,LivK-LivM-LivH-LivG-LivF,
+PhoB	2	Edd,Eda,
+ModE	4	DeoA,DeoB,DeoC,DeoD,
+IdnR	2	GntU,GntK,
+PdhR	19	Lpd,Lpd-GcvP-GcvH-GcvT,GlcA,GlcD-GlcE-GlcF,GlcB,AceE-AceF-Lpd,SucA-SucB-Lpd,AceF,AceE,CyoD-CyoA-CyoB-CyoC,Ndh,MurC,MurD,MurE,MurF,MraY,MurG,FtsI,DdlB,
+GalR	4	GalP,GalM,GalK,GalT,
+NagC	11	ChbA-ChbC-ChbB,ChbG,ChbF,NagA,NagB,GlmS,GlmU,EIINag,ManZ-ManY-ManX,NagE,ChiP,
+RbsR	5	RbsA-RbsC-RbsB,RbsD,RbsK,PurD,PurH,
+MelR	2	MelB,MelA,
+IscR	2	IscS,IscU,
+CueR	2	MoaA,MoaD-MoaE,
+GadW	3	GadC,GadA,GadB,
+PhoP	1	ArgD,
+RutR	6	RutB,RutD,RutE,RutA,RutG,RutC,
+AraC	5	XylA,XylB,AraA,AraB,AraD,
+LldR	2	LldP,LldD,
+Fur	38	EntH,EntB-EntD-EntF-EntE,EntE,EntF,Fes,GpmA,AceE-AceF-Lpd,AceF,Lpd,AceE,AspC,GdhA,GarL,GarR,FumA,EntC,EntB,EntA,GlnD,ExbD-ExbB-TonB-FepA,FepC-FepD-FepG-FepB,YqjH,EntD,MetH,SodA,Hmp,Zwf,Gnd,CyoD-CyoA-CyoB-CyoC,Ndh,DapD,SufS,EntS,EntS-TolC,CirA,Fiu,GarP,GarK,
+NsrR	1	NrfD-NrfC-NrfB-NrfA,
+TyrR	7	TyrA,TyrB,AroP,TyrP,AroF,AroG,AroL,
+OmpR	2	PgaD-PgaC,PgaB,
+Cra	39	Ppc,PykF,AceE,AceE-AceF-Lpd,AceF,PrpC,PrpE,PrpD,Eda,Glk,Zwf,Edd,Lpd,AcnB,PrpB,Lpd-GcvP-GcvH-GcvT,PyrG,GapA,PfkA,FbaA,Epd,YibQ,Mpl,FbaB,CysG,SucA-SucB-Lpd,EIIMtl,MtlA,MtlD,AdhE,ManZ-ManY-ManX,HypF,Eno,NirC,NirD-NirB,GpmM,Pgk,FruB-FruA,FruK,
+MetR	1	GlyA,
+DnaA	2	GuaA,GuaB,
+FliZ	2	GadC,GadB,
+ArgR	12	CarB-CarA,ArgF,ArgI,ArgC,ArgD,ArgE,HisQ-HisP-HisM-ArgT,ArgG,ArgH,ArgA,NAGS,ArgB,
+GalS	4	GalP,GalM,GalK,GalT,
+HU	3	GalM,GalK,GalT,
+BasR	1	PutA,
+NanR	2	NanC,NanM,

@@ -1,0 +1,198 @@
+# From enzyme_count_effect.pl on Wed Sep 28 12:57:51 2016
+# Input =  ~/datasets/GUs_secondary_reactions/
+# [1] > GENSOR Unit
+# [2] > Total activated reactions
+# [3] > Total activated enzymes
+# [4] > Activated enzymes
+# [5] > Total repressed reactions
+# [6] > Total repressed enzymes
+# [7] > Repressed enzymes
+AccB	0	0		2	2	AccC,AccD-AccA-AccC-AccB
+AcrR	0	0		3	2	AcrD-AcrA-TolC,AcrA-TolC-AcrB
+Ada	7	4	AlkB,Ada,AidB,AlkA	5	2	AlkB,Ada
+AdiY	4	4	GadB,GadC,GadA,AdiA	0	0	
+AgaR	0	0		1	1	KbaY-KbaZ
+AidB	0	0		1	1	AidB
+AlaS	0	0		1	1	AlaS
+AllR	0	0		6	6	AllA,Hyi,Gcl,GlxR,GlxK,AllB
+AllS	3	3	AllC,AllD,AllE	0	0	
+AlsR	0	0		4	3	AlsE,RpiB,AlsA-AlsC-AlsB
+AppY	3	2	AppC-AppB,AppA	0	0	
+AraC	5	5	AraE,AraA,AraD,AraG-AraH-AraF,AraB	6	5	XylB,AraA,XylA,AraD,AraB
+ArgP	17	11	GlnD,LysP,NrdA-NrdB,DapB,LysA,GdhA,RecF-RecR-RecO,ArgO,LysC,Map,DapD	0	0	
+ArgR	6	5	AstA,AstE,AstD,AstB,AstC	25	18	PNPase,ArgD,ArgE,CarB-CarA,ArgF,HisP-HisM-HisQ-HisJ,HisQ-HisP-HisM-ArgT,ArgG,TruB,Pnp,ArtJ-ArtQ-ArtM-ArtP,ArgB,ArgI,LysO,NAGS,ArgH,ArgA,ArgC
+ArsR	0	0		2	2	ArsC,ArsB
+AscG	0	0		5	2	AscF,AscB
+AsnC	1	1	AsnA	4	2	RsmG,MnmE-MnmG
+AtoC	3	3	AtoB,AtoE,AtoA-AtoD	0	0	
+BaeR	2	2	TolC-MdtC-MdtB-MdtA,AcrD-AcrA-TolC	0	0	
+BasR	2	2	CsgE-CsgG,DgkA	2	1	PutA
+BetI	0	0		3	3	BetB,BetA,BetT
+BirA	0	0		6	5	BioF,BioC,BioD,BioA,BioB
+BluR	0	0		0	0	
+BolA	2	2	AmpC,DacC	2	2	AmpC,DacC
+CadC	3	2	CadA,CadB	0	0	
+CaiF	5	5	CaiD,CaiB,CaiA,CaiT,CaiC	0	0	
+Cbl	8	5	TauA-TauC-TauB,SsuA-SsuC-SsuB,SsuE,SsuD,TauD	0	0	
+CdaR	17	9	RNA:RnpB,GarK,GudP,GarL,GarP,RnpB,GudD,GarD,GarR	0	0	
+ChbR	6	3	ChbA-ChbC-ChbB,ChbG,ChbF	6	3	ChbA-ChbC-ChbB,ChbG,ChbF
+ComR	0	0		0	0	
+CpxR	52	22	DgcZ,RnhB,RdoA,LpxD,AcrD-AcrA-TolC,DegP,AroG,DsbC,FabZ,SbmA,RecJ,OmpC,LpxA,PpiA,LdtC,Slt,DsbA,LysS,DnaE,TolC-MdtC-MdtB-MdtA,BacA,LpxB	17	3	OmpF,CsgE-CsgG,Ung
+Cra	29	18	Pck,BetA,AcnA,Icd,AceK,CsgE-CsgG,AroP,CydA-CydB-CydX,BetB,PoxB,MurP-Crr,LtaE,AceB,TreB-Crr,AceA,PpsA,PtsG-Crr,BetT	92	47	CysG,TpiA,FbaA,Epd,AceE-AceF-Lpd,AdhE,PdeL,AcnB,ManZ-ManY-ManX,Edd,FruB-FruA,CyoE,YibQ,FruK,PrpB,SucA-SucB-Lpd,EIIMtl,Pgk,PrpC,Zwf,MurP-Crr,Mpl,GpmM,Lpd-GcvP-GcvH-GcvT,Lpd,FbaB,PtsG-Crr,PfkA,MtlA,Eno,Glk,AceF,PyrG,Ppc,PrpD,NirD-NirB,GapA,PykF,CyoD-CyoA-CyoB-CyoC,TreB-Crr,SetA,AceE,PrpE,MtlD,HypF,Eda,NirC
+CreB	3	2	TalA,TktB	3	1	MalK-MalF-MalG-MalE
+CsgD	5	3	WrbA,CsgE-CsgG,DgcC	5	2	PepD,TcyN-TcyL-TcyJ
+CsiR	0	0		5	4	GabT,GabD,GabP,LhgO
+CspA	1	1	GyrA-GyrB	0	0	
+CueR	4	2	CopA,CueO	2	2	MoaD-MoaE,MoaA
+CusR	4	3	CyoD-CyoA-CyoB-CyoC,CyoE,CusC-CusB-CusF-CusA	0	0	
+CynR	3	3	CynS,CynT,CynX	0	0	
+CysB	27	14	TauA-TauC-TauB,DgcZ,AlaA,CysJ-CysI,TauD,CysK,Sbp-CysW-CysU-CysA,CysJ,CysA-CysW-CysU-CysP,CysM,CysD-CysN,CysC,YfbR,CysH	6	3	SsuA-SsuC-SsuB,SsuE,SsuD
+CytR	0	0		39	12	PpiA,Udp,DeoD,Tsx,Cdd,MltC,NupC,NupG,DeoC,DeoB,DeoA,MutY
+Dan	2	2	TtdT,TtdA-TtdB	0	0	
+DcuR	14	4	FrdA-FrdB-FrdC-FrdD,DcuB,FumB,DctA	0	0	
+DeoR	0	0		26	8	Tsx,DeoD,MltC,NupG,DeoC,DeoB,DeoA,MutY
+DhaR	1	1	DhaM-DhaK-DhaL	0	0	
+DicA	0	0		0	0	
+DinJ-YafQ	0	0		1	1	YafQ
+DnaA	9	3	RecF-RecR-RecO,NrdA-NrdB,PolA	12	5	GuaA,AldA,RecF-RecR-RecO,GuaB,NrdA-NrdB
+DpiA	6	5	CitG,CitX,ExuT,Mdh,CitC	0	0	
+DsdC	2	2	DsdX,DsdA	0	0	
+EbgR	0	0		0	0	
+EnvR	0	0		3	2	AcrD-AcrA-TolC,AcrA-TolC-AcrB
+EnvY	31	2	OmpF,OmpC	0	0	
+EvgA	6	6	TolC-MdtE-MdtF,YfdE,Frc,AcrD-AcrA-TolC,Oxc,EmrK-EmrY-TolC	0	0	
+ExuR	0	0		8	6	UxaB,UxuB,UxaA,ExuT,UxaC,UxuA
+FabR	0	0		23	2	FabA,FabB
+FadR	61	10	FabH,AccC,FabA,AccA-AccD,FabD,FabF,AccD-AccA-AccC-AccB,FabI,FabG,FabB	22	9	FadM,FadI,FadA,FadB,FadH,FadE,FadD,FadJ,FadL
+FeaR	5	2	FeaB,TynA	0	0	
+FhlA	10	7	HycD-HycC-HycF-HycG-HycB-HycE,FdhF,HypF,FdhF-HycE-HycB-HycG-HycF-HycC-HycD,HypB,HyfG-HyfI-HyfA-HyfB-HyfC-HyfD-HyfE-HyfF-HyfH,HycI	0	0	
+FlhDC	15	9	RecD-RecC-RecB,GltI-GltK-GltJ-GltL,GlpA-GlpB-GlpC,PdeH,NrfD-NrfC-NrfB-NrfA,HypF,TcyN-TcyL-TcyJ,CcmD-CcmB-CcmA-CcmE-CcmC,NapB-NapC-NapH-NapG-NapA	3	2	MglA-MglC-MglB,Mdh
+FliZ	0	0		5	5	TolC-MdtE-MdtF,GadB,PdeR,CsgE-CsgG,GadC
+FucR	10	6	FucU,FucA,FucI,FucP,FucO,FucK	0	0	
+Fur	61	24	AceF,EntS-TolC,EntS,FtnA,AceE-AceF-Lpd,KatG,FecA-ExbD-ExbB-TonB,SucD-SucC,SucA,SucA-SucB-Lpd,SucB,KatE,MntP,Lpd,Lpd-GcvP-GcvH-GcvT,ExbD-ExbB-TonB-FhuA,ExbD-ExbB-TonB-FepA,AmtB,FhuE-ExbD-ExbB-TonB,OmpF,AceE,GdhA,DcuB,FumB	120	59	GlnD,GpmA,EntB-EntD-EntF-EntE,FumC,EntS-TolC,AceE-AceF-Lpd,GspO,Ndh,CyoE,SucA-SucB-Lpd,DapD,GarR,NrdE-NrdF,EntA,EntH,Zwf,RNA:RnpB,Lpd-GcvP-GcvH-GcvT,Lpd,ExbD-ExbB-TonB-FhuA,EntF,ExbD-ExbB-TonB-FepA,EntD,CirA,Hmp,AspC,SufS,AceF,EntS,OppB-OppC-OppD-OppF-MppA,EntB,GarL,FepC-FepD-FepG-FepB,OppC-OppD-OppF-OppB-OppA,RcnA,EntE,GarP,FhuC-FhuB-FhuD,FecA-ExbD-ExbB-TonB,RnpB,Map,PyrC,CyoD-CyoA-CyoB-CyoC,Fiu,GarK,SodA,Gnd,AmtB,FumA,FhuE-ExbD-ExbB-TonB,Fes,AceE,GdhA,YqjH,MntH,FecE-FecC-FecD-FecB,EntC,MetH,FeoB
+GadE	22	10	TolC-MdtE-MdtF,CyoD-CyoA-CyoB-CyoC,PurA,LpxA,GadB,GadC,LpxD,Gnd,CyoE,FabZ	0	0	
+GadE-RcsB	5	4	CadA,AdiC,GadA,CadB	0	0	
+GadW	4	4	TolC-MdtE-MdtF,GadB,GadC,GadA	3	3	GadB,GadC,GadA
+GadX	13	10	TolC-MdtE-MdtF,GadB,GadC,Lon,GadA,YbaS,CadB,AmtB,CadA,AsnB	3	2	MurI,BtuB-ExbD-ExbB-TonB
+GalR	4	4	GalT,GalE,GalK,GalM	8	6	GalT,GalE,GalP,GalK,MglA-MglC-MglB,GalM
+GalS	4	4	GalT,GalE,GalK,GalM	8	6	GalT,GalE,GalP,GalK,MglA-MglC-MglB,GalM
+GatR	0	0		4	3	GatD,GatC-GatB-GatA,GatY-GatZ
+GcvA	6	3	GcvP,GcvT,Lpd-GcvP-GcvH-GcvT	6	3	GcvP,GcvT,Lpd-GcvP-GcvH-GcvT
+GlcC	4	3	GlcB,GlcA,GlcD-GlcE-GlcF	0	0	
+GlpR	0	0		12	7	GlpA-GlpB-GlpC,GlpF,GlpQ,GlpD,GlpK,GlpT,GlpX
+GlrR	0	0		0	0	
+GntR	0	0		13	9	IdnT,GntK,IdnD,IdnO,Edd,GntU,Eda,GntT,IdnK
+GutM	4	3	GutQ,SrlD,SrlA-SrlB-SrlE	0	0	
+GutR	0	0		4	3	GutQ,SrlD,SrlA-SrlB-SrlE
+HcaR	4	2	HcaB,HcaC-HcaD-HcaF-HcaE	0	0	
+HdfR	0	0		0	0	
+HipAB	0	0		3	2	HipA,RelA
+HipB	0	0		4	3	HipA,RelA,FadH
+HU	0	0		10	7	GalT,GalE,Mtr,GalK,GalM,TyrP,Pgm
+HyfR	1	1	HyfG-HyfI-HyfA-HyfB-HyfC-HyfD-HyfE-HyfF-HyfH	0	0	
+HypT	10	5	MetL,MetB,MetN-MetI-MetQ,CydA-CydB-CydX,CysH	2	2	FecA-ExbD-ExbB-TonB,FecE-FecC-FecD-FecB
+IclR	0	0		4	3	AceK,AceB,AceA
+IdnR	6	4	IdnT,IdnD,IdnO,IdnK	2	2	GntK,GntU
+IlvY	3	1	IlvC	0	0	
+IscR	10	2	NrdE-NrdF,SufS	10	5	IscS,IscU,RnlA,CcmD-CcmB-CcmA-CcmE-CcmC,NapB-NapC-NapH-NapG-NapA
+KdgR	0	0		4	2	Edd,Eda
+KdpE	1	1	KdpF-KdpA-KdpB-KdpC	0	0	
+LacI	0	0		5	3	LacA,LacY,LacZ
+LeuO	12	6	LeuC-LeuD,LeuA,LeuB,CasA-CasB-CasC-CasD-CasE,BglF,BglB	0	0	
+LexA	0	0		22	21	RecD-RecC-RecB,LpxC,MurC,MurF,UvrB-UvrC-UvrA,PtrA,DinB,MraY,Phr,RuvC-RuvB-RuvA,YafO,FtsI,MurE,MurD,UmuC-UmuD,DdlB,PolB,DnaG,MurG,FtsW,YafQ
+LldR	3	2	LldD,LldP	3	2	LldD,LldP
+LrhA	0	0		0	0	
+Lrp	28	18	GabD,AroA,Kbl,LysP,SerC,CadB,GabP,CadA,IlvI-IlvH,GabT,GcvP,OsmC,Lpd-GcvP-GcvH-GcvT,SerA,ArgO,LhgO,GcvT,Tdh	63	24	Fau,AlaA,LivF-LivG-LivH-LivM-LivJ,OppB-OppC-OppD-OppF-MppA,AdhE,IlvE,OppC-OppD-OppF-OppB-OppA,BCAT,IlvD,IlvO-IlvO-IlvM,YfbR,IlvI-IlvH,OmpC,DadX,AidB,OsmC,LivK-LivM-LivH-LivG-LivF,LysU,SerA,AvtA,SdaA,LeuE,DadA,IlvA
+LsrR	0	0		6	5	LsrG,Tam,LsrK,LsrB-LsrD-LsrC-LsrA,LsrF
+LysR	1	1	LysA	0	0	
+MalI	0	0		4	2	MalY,MalX
+MalT	21	6	MalP,MalK-MalF-MalG-MalE,LamB,MalS,MalQ,MalZ	0	0	
+MarA	27	22	FumC,EntS-TolC,AcnA,WaaY,AcrD-AcrA-TolC,TolC-MacB-MacA,Nfo,WaaZ,NfsA,Fpr,NfsB,TolC-MdtE-MdtF,PoxB,EmrA-EmrB-TolC,Zwf,RimK,SodA,AcrA-TolC-AcrB,AcrE-AcrF-TolC,PutA,TolC-MdtC-MdtB-MdtA,EmrK-EmrY-TolC	1	1	PurA
+MarR	0	0		0	0	
+MatA	0	0		2	1	TcyN-TcyL-TcyJ
+MazE	0	0		11	1	MazG
+MazE-MazF	0	0		11	1	MazG
+McbR	0	0		0	0	
+MelR	6	2	MelB,MelA	6	2	MelB,MelA
+MetJ	0	0		16	10	MetL,MetK,MetB,MetN-MetI-MetQ,MetA,MetC,MetF,MetE,AhpC-AhpF,FolE
+MetR	10	4	GlyA,MetE,Hmp,MetH	5	1	GlyA
+MhpR	9	6	MhpB,MhpA,MhpE,MhpF,MhpC,MhpD	0	0	
+Mlc	0	0		11	4	ManZ-ManY-ManX,MurP-Crr,PtsG-Crr,TreB-Crr
+MlrA	1	1	CsgE-CsgG	0	0	
+MngR	0	0		2	2	MngB,MngA
+MntR	1	1	MntP	2	1	MntH
+ModE	7	6	MoaD-MoaE,HycD-HycC-HycF-HycG-HycB-HycE,MoaA,CcmD-CcmB-CcmA-CcmE-CcmC,HycI,NapB-NapC-NapH-NapG-NapA	16	8	OppB-OppC-OppD-OppF-MppA,DeoD,ModC-ModB-ModA,OppC-OppD-OppF-OppB-OppA,DeoC,DeoB,DeoA,DmsA-DmsB-DmsC
+MprA	0	0		4	3	EmrA-EmrB-TolC,AcrD-AcrA-TolC,AcrA-TolC-AcrB
+MqsA	0	0		1	1	MqsR
+MtlR	0	0		5	3	MtlD,MtlA,EIIMtl
+MurR	0	0		4	4	YfeW,MurP,MurP-Crr,MurQ
+Nac	17	7	GabT,GabD,PatD,GabP,CodA,NupC,CodB	7	3	SerA,GdhA,MnmE-MnmG
+NadR	0	0		5	4	PnuC,PncB,NadB,NadA
+NagC	4	3	GlmU,FeoB,GlmS	38	19	GalP,ChbG,ManZ-ManY-ManX,ChbA-ChbC-ChbB,GlmU,MurP-Crr,ChiP,TreB-Crr,NanM,GlmS,UmpH,NagB,NagA,PtsG-Crr,EIINag,NanC,NagE,FeoB,ChbF
+NanR	0	0		9	6	NanE,NanA,NanC,NanK,NanT,NanM
+NarP	16	10	CysG,FdhF-HycE-HycB-HycG-HycF-HycC-HycD,Hcp,NrfD-NrfC-NrfB-NrfA,Hcr,FdhF,CcmD-CcmB-CcmA-CcmE-CcmC,NirD-NirB,NirC,NapB-NapC-NapH-NapG-NapA	4	3	NorW,CcmD-CcmB-CcmA-CcmE-CcmC,NapB-NapC-NapH-NapG-NapA
+NemR	0	0		2	2	NemA,GloA
+NhaR	6	5	PgaB,PgaD-PgaC,NhaA,PgaA,OsmC	0	0	
+NikR	0	0		1	1	NikD-NikE-NikB-NikC-NikA
+NorR	1	1	NorW	0	0	
+NrdR	0	0		16	4	NrdE-NrdF,NrdG,NrdD,NrdA-NrdB
+NsrR	0	0		67	40	WzxE,AceE-AceF-Lpd,Rfe,PheS-PheT,FeaB,TehB,Ndh,HypB,SucA-SucB-Lpd,RffG,WaaH,Lpd-GcvP-GcvH-GcvT,Lpd,RffA,MepH,Hmp,Hcr,TcyN-TcyL-TcyJ,SufS,WecB,HycI,WecC,AceF,TadA,DkgB,Cdd,TehA,Hcp,NrfD-NrfC-NrfB-NrfA,RffC,RffH,RffM,RffT,SodB,MhpT,YeaE,HycD-HycC-HycF-HycG-HycB-HycE,AceE,PgpC,ThrS
+NtrC	40	22	RelA,RutD,HisP-HisM-HisQ-HisJ,AstA,PatA,RutG,HisQ-HisP-HisM-ArgT,GlnA,RutC,RutB,RutE,DdpX,AstE,PotG-PotH-PotI-PotF,AstD,AstC,YeaG,AmtB,RutA,AstB,GlnQ-GlnP-GlnH,MazG	2	2	GlnA,GlnQ-GlnP-GlnH
+OmpR	34	4	OmpF,OmpC,CsgE-CsgG,DtpA	20	5	PgaB,OmpF,PgaD-PgaC,PgaA,FadL
+OxyR	16	9	HemH,Gor,Hcp,DsbG,KatG,Hcr,SufS,MntH,AhpC-AhpF	6	5	GntP,UxuB,UxuA,RimK,NfsA
+PaaX	0	0		13	9	PaaZ,PaaF,PaaY,PaaG,PaaE-PaaA-PaaC-PaaB,PaaK,PaaH,PaaJ,PaaI
+PdhR	2	2	FecA-ExbD-ExbB-TonB,FecE-FecC-FecD-FecB	41	24	AceF,LpxC,MurC,MurF,GlcA,GlcD-GlcE-GlcF,AceE-AceF-Lpd,Ndh,CyoE,SucA-SucB-Lpd,MraY,CyoD-CyoA-CyoB-CyoC,FtsI,Lpd-GcvP-GcvH-GcvT,Lpd,MurE,MurD,GlcB,AceE,RsmH,DdlB,MurG,FtsW,HemL
+PepA	0	0		5	2	PepA,CarB-CarA
+PgrR	0	0		1	1	MpaA
+PhoB	87	18	UgpQ,UgpC-UgpA-UgpE-UgpB,AdiC,PhoA,PhnN,PhnC-PhnE_1-PhnD,PhnO,PhnJ,PhnP,TalA,GadA,CusC-CusB-CusF-CusA,WaaH,TktB,OmpF,PhnM,PhnL-PhnH-PhnG-PhnI,PhoE	13	5	UgpQ,PitB,Edd,UgpC-UgpA-UgpE-UgpB,Eda
+PhoP	48	35	MetB,EntS-TolC,RutD,GlgA,RutG,RutB,PurD,FadL,RutE,GadA,PurH,GlgB,UmpH,YbjG,AcrA-TolC-AcrB,NagB,RutA,HemL,PagP,EmrK-EmrY-TolC,MetL,MalS,MgtA,AcrD-AcrA-TolC,TolC-MacB-MacA,RutC,OmpT,TolC-MdtE-MdtF,EmrA-EmrB-TolC,GlgX,GlgP,AcrE-AcrF-TolC,NagA,TolC-MdtC-MdtB-MdtA,GlgC	5	3	ArgD,AcrD-AcrA-TolC,AcrA-TolC-AcrB
+PrpR	5	4	PrpE,PrpC,PrpB,PrpD	0	0	
+PspF	1	1	PspE	0	0	
+PurR	0	0		42	27	PurA,CarB-CarA,IspE,GuaB,CodA,UbiX,PurF,PurD,PurK,PurC,GlyA,PurE,PyrD,GuaA,PurM,PyrC,Prs,GcvP,SpeB,PurN,PurH,Lpd-GcvP-GcvH-GcvT,PurB,PurL,CodB,GcvT,SpeA
+PutA	0	0		4	2	PutA,PutP
+PuuR	0	0		7	6	PuuD,PuuA,PuuE,PuuP,PuuB,PuuC
+QseB	0	0		0	0	
+RbsR	2	1	Add	6	5	RbsA-RbsC-RbsB,RbsD,RbsK,PurD,PurH
+RcdA	1	1	CsgE-CsgG	0	0	
+RcnR	0	0		2	1	RcnA
+RcsAB	2	2	Wzb,Wzc	1	1	CsgE-CsgG
+RcsB	3	3	GadB,GadC,OsmC	1	1	GadA
+RcsB-BglJ	7	2	BglF,BglB	0	0	
+RelB	0	0		1	1	RelE
+RelB-RelE	0	0		1	1	RelE
+RhaR	0	0		0	0	
+RhaS	6	4	RhaD,RhaT,RhaB,RhaA	0	0	
+Rob	24	19	FumC,EntS-TolC,AcnA,AcrD-AcrA-TolC,TolC-MacB-MacA,Nfo,NfsA,NfsB,TolC-MdtE-MdtF,EmrA-EmrB-TolC,LdtB,Zwf,RimK,SodA,AcrA-TolC-AcrB,AcrE-AcrF-TolC,TolC-MdtC-MdtB-MdtA,MltF,EmrK-EmrY-TolC	0	0	
+RstA	3	1	NarG-NarH-NarI	16	2	OmpF,CsgE-CsgG
+RtcR	3	2	RtcB,RtcA	0	0	
+RutR	3	1	CarB-CarA	14	11	PdeR,GadA,RutD,FepC-FepD-FepG-FepB,NemA,RutG,GloA,RutA,RutB,RutC,RutE
+SdiA	0	0		0	0	
+SgrR	2	2	SetA,AlaC	1	1	ThiQ-ThiP-TbpA
+SlyA	0	0		0	0	
+SoxR	3	2	FumA,FumC	0	0	
+SoxS	31	26	FumC,EntS-TolC,AcnA,WaaY,AcrD-AcrA-TolC,YdbK,TolC-MacB-MacA,Pgi,Nfo,WaaZ,NfsA,Fpr,TolC-MdtE-MdtF,NfsB,PoxB,EmrA-EmrB-TolC,Zwf,RimK,SodA,AcrA-TolC-AcrB,AcrE-AcrF-TolC,TolC-MdtC-MdtB-MdtA,PtsG-Crr,RibA,OmpN,EmrK-EmrY-TolC	0	0	
+StpA	0	0		8	3	Fau,BglF,BglB
+TdcA	8	5	TdcD,TdcG,TdcC,TdcE,TdcB	0	0	
+TdcR	8	5	TdcD,TdcG,TdcC,TdcE,TdcB	0	0	
+TorR	4	3	TnaB,TnaA,TorC-TorA	1	1	GadA
+TreR	0	0		2	2	TreB-Crr,TreC
+TrpR	0	0		13	9	TrpA,Mtr,TrpB,TrpA-TrpB,AroH,AroL,TrpE-TrpD,TrpC,TrpD
+TyrR	4	3	Mtr,FolA,TyrP	13	7	TyrB,AroF,AroG,AroL,TyrA,AroP,TyrP
+UhpA	4	1	UhpT	0	0	
+UidR	0	0		2	2	UidA,UidB
+UlaR	0	0		5	5	UlaF,UlaD,UlaC-UlaB-UlaA,UlaE,UlaG
+UxuR	0	0		6	5	GntP,UidA,UxuB,UxuA,UidB
+XapR	5	2	XapB,XapA	0	0	
+XylR	4	3	XylB,XylG-XylH-XylF,XylA	0	0	
+YdeO	4	3	TolC-MdtE-MdtF,AppC-AppB,AppA	0	0	
+YefM	0	0		1	1	YoeB
+YefM-YoeB	0	0		1	1	YoeB
+YehT	0	0		0	0	
+YeiL	0	0		0	0	
+YiaJ	0	0		7	6	YiaO-YiaN-YiaM,SgbE,SgbH,YiaK,SgbU,LyxK
+YpdB	0	0		0	0	
+YqhC	11	2	YqhD,DkgA	0	0	
+YqjI	0	0		2	1	YqjH
+ZntR	1	1	ZntA	0	0	
+ZraR	0	0		0	0	
+Zur	0	0		1	1	ZnuC-ZnuB-ZnuA

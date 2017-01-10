@@ -1,0 +1,109 @@
+# From get_connectivity.pl on Wed Sep 28 12:57:46 2016
+# Input = ~/datasets/connectivity_with_effect/short_paths_activation.txt = ~/datasets/GUs_secondary_reactions/
+# [1] > GENSOR Unit
+# [2] > Total connected enzymes in GENSOR Unit
+# [3] > Connected enzymes
+Ada	0	
+AppY	0	
+AsnC	0	
+BaeR	0	
+BasR	0	
+BolA	0	
+CsgD	0	
+CspA	0	
+CusR	0	
+DhaR	0	
+EnvY	0	
+HyfR	0	
+IlvY	0	
+KdpE	0	
+LysR	0	
+MlrA	0	
+MntR	0	
+NorR	0	
+OmpR	0	
+PdhR	0	
+PspF	0	
+RbsR	0	
+RcdA	0	
+RstA	0	
+SgrR	0	
+SoxR	0	
+UhpA	0	
+YdeO	0	
+ZntR	0	
+GcvA	3	Lpd-GcvP-GcvH-GcvT,GcvP,GcvT,
+FeaR	2	TynA,FeaB,
+GlcC	3	GlcA,GlcD-GlcE-GlcF,GlcB,
+YqhC	1	YqhD,
+HcaR	2	HcaC-HcaD-HcaF-HcaE,HcaB,
+CysB	10	TauA-TauC-TauB,TauD,CysJ-CysI,CysK,CysM,CysA-CysW-CysU-CysP,Sbp-CysW-CysU-CysA,CysD-CysN,CysC,CysH,
+Dan	2	TtdT,TtdA-TtdB,
+NhaR	2	PgaD-PgaC,PgaB,
+Lrp	14	GcvT,Lpd-GcvP-GcvH-GcvT,GcvP,SerA,SerC,GabT,GabD,GabP,LysP,CadA,IlvI-IlvH,LhgO,CadB,AroA,
+AtoC	2	AtoE,AtoA-AtoD,
+PhoB	10	PhnL-PhnH-PhnG-PhnI,PhnM,PhoA,TalA,TktB,UgpC-UgpA-UgpE-UgpB,UgpQ,PhnJ,PhnP,PhnN,
+IdnR	4	IdnT,IdnD,IdnK,IdnO,
+TorR	2	TnaB,TnaA,
+ArgP	6	NrdA-NrdB,GlnD,LysC,DapB,DapD,LysA,
+CdaR	7	GarP,GudP,GudD,GarL,GarR,GarK,GarD,
+GadE-RcsB	2	CadB,CadA,
+CreB	2	TalA,TktB,
+SoxS	3	AcnA,Fpr,YdbK,
+HypT	2	MetL,MetB,
+GadW	3	GadC,GadA,GadB,
+PhoP	20	GlgA,MalS,GlgB,GlgP,GlgC,PurD,GlgX,UmpH,NagA,NagB,MetL,YbjG,MetB,RutG,RutA,RutB,RutC,RutD,RutE,PurH,
+MarA	3	AcnA,PutA,RimK,
+RcsAB	2	Wzc,Wzb,
+LeuO	5	BglF,BglB,LeuA,LeuC-LeuD,LeuB,
+DpiA	3	CitG,CitX,CitC,
+GadX	8	AsnB,GadA,GadB,CadB,CadA,GadC,YbaS,AmtB,
+CadC	2	CadB,CadA,
+FucR	3	FucI,FucK,FucA,
+TyrR	1	FolA,
+NtrC	17	AstC,PatA,GlnA,HisQ-HisP-HisM-ArgT,AstA,AstB,AstD,AstE,RutA,RutB,RutG,RutC,RutD,RutE,AmtB,RelA,PotG-PotH-PotI-PotF,
+MetR	3	GlyA,MetH,MetE,
+DnaA	2	NrdA-NrdB,PolA,
+FlhDC	4	NapB-NapC-NapH-NapG-NapA,NrfD-NrfC-NrfB-NrfA,GlpA-GlpB-GlpC,HypF,
+TdcA	4	TdcC,TdcB,TdcG,TdcE,
+MalT	6	MalZ,MalQ,MalP,MalK-MalF-MalG-MalE,MalS,LamB,
+GalS	3	GalM,GalK,GalT,
+RhaS	4	RhaT,RhaA,RhaB,RhaD,
+RtcR	2	RtcA,RtcB,
+RcsB-BglJ	2	BglF,BglB,
+DsdC	2	DsdX,DsdA,
+Nac	6	GabP,GabT,GabD,CodB,CodA,PatD,
+MhpR	6	MhpA,MhpB,MhpC,MhpD,MhpE,MhpF,
+ChbR	3	ChbA-ChbC-ChbB,ChbF,ChbG,
+FadR	10	FabG,FabI,FabB,FabA,FabF,FabH,AccD-AccA-AccC-AccB,FabD,AccA-AccD,AccC,
+OxyR	3	MntH,HemH,SufS,
+CaiF	5	CaiT,CaiB,CaiD,CaiA,CaiC,
+ModE	2	MoaA,MoaD-MoaE,
+NarP	6	NirC,NrfD-NrfC-NrfB-NrfA,NapB-NapC-NapH-NapG-NapA,Hcp,FdhF,CysG,
+GalR	3	GalM,GalK,GalT,
+AdiY	3	GadC,GadA,GadB,
+NagC	2	GlmS,GlmU,
+AllS	3	AllC,AllE,AllD,
+CueR	2	CopA,CueO,
+EvgA	3	YfdE,Oxc,Frc,
+IscR	1	SufS,
+MelR	2	MelB,MelA,
+XylR	2	XylA,XylB,
+DcuR	4	DcuB,FrdA-FrdB-FrdC-FrdD,DctA,FumB,
+PrpR	4	PrpC,PrpE,PrpD,PrpB,
+CynR	2	CynX,CynS,
+RutR	1	CarB-CarA,
+AraC	5	AraE,AraG-AraH-AraF,AraA,AraB,AraD,
+LldR	2	LldP,LldD,
+Fur	15	DcuB,Lpd,Lpd-GcvP-GcvH-GcvT,AceE-AceF-Lpd,AceE,AceF,SucA-SucB-Lpd,SucB,SucD-SucC,FumB,KatE,KatG,FtnA,GdhA,SucA,
+GadE	5	FabZ,LpxA,LpxD,GadC,GadB,
+XapR	2	XapA,XapB,
+Rob	1	AcnA,
+Cbl	4	SsuD,SsuE,TauA-TauC-TauB,TauD,
+TdcR	4	TdcC,TdcB,TdcG,TdcE,
+Cra	12	LtaE,PoxB,AceA,AceB,Pck,AcnA,Icd,AceK,BetT,BetA,BetB,CydA-CydB-CydX,
+GutM	2	SrlA-SrlB-SrlE,SrlD,
+FhlA	3	HypF,HycD-HycC-HycF-HycG-HycB-HycE,FdhF,
+RcsB	2	GadC,GadB,
+CpxR	4	FabZ,LpxD,LpxB,LpxA,
+ArgR	5	AstE,AstC,AstD,AstA,AstB,
