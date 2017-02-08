@@ -1,0 +1,4 @@
+re1	ompR_mRNA	reactant
+re1	OmpR	product
+re2	envZ_mRNA	reactant
+re2	EnvZ	product

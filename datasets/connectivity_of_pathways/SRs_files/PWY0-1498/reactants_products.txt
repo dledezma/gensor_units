@@ -1,0 +1,6 @@
+re1	zraR_mRNA	reactant
+re1	ZraR	product
+re2	zraS_mRNA	reactant
+re2	ZraS	product
+re3	zraS_mRNA	reactant
+re3	HydH	product

@@ -1,0 +1,6 @@
+re1	phoB_mRNA	reactant
+re1	PhoB	product
+re2	phoB_mRNA	reactant
+re2	PhoT	product
+re3	phoR_mRNA	reactant
+re3	PhoR	product

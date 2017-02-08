@@ -1,0 +1,4 @@
+re1	uvrY_mRNA	reactant
+re1	UvrY	product
+re2	barA_mRNA	reactant
+re2	BarA	product

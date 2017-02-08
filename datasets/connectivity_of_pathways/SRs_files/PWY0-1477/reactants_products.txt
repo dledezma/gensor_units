@@ -1,0 +1,10 @@
+re1	eutB_mRNA	reactant
+re1	EutB	product
+re2	EutC	reactant
+re2	EutB	reactant
+re2	EutB-EutC	product
+re3	colamine	reactant
+re3	ammonium	product
+re3	ethanal	product
+re4	eutC_mRNA	reactant
+re4	EutC	product

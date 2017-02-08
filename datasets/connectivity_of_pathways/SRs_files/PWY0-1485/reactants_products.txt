@@ -1,0 +1,4 @@
+re1	cpxR_mRNA	reactant
+re1	CpxR	product
+re2	cpxA_mRNA	reactant
+re2	CpxA	product

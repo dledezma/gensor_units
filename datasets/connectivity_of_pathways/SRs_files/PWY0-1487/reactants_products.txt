@@ -1,0 +1,6 @@
+re1	creB_mRNA	reactant
+re1	CreB	product
+re2	creB_mRNA	reactant
+re2	YjjE	product
+re3	creC_mRNA	reactant
+re3	CreC	product

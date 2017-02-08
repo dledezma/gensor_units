@@ -1,0 +1,4 @@
+re1	dpiB_mRNA	reactant
+re1	DpiB	product
+re2	dpiA_mRNA	reactant
+re2	DpiA	product
