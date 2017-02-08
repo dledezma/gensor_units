@@ -1,7 +1,7 @@
 #################################################################################
 ###### 19-04-16                                                            ######
-###### Create Metadata                                                     ######
-###### Creates a file with columns for Metadata analysis                   ######
+###### Obtain Summary                                                      ######
+###### Creates a file with columns for data analysis                       ######
 ###### [0] - GU                                                            ######
 ###### [1] - Total enzymes                                                 ######
 ###### [2] - Enzymes with connectivity                                     ######
