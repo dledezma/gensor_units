@@ -1,0 +1,28 @@
+re1	pgpA_mRNA	reactant
+re1	PgpA	product
+re2	1-phosphatidyl-glycerol-P	reactant
+re2	phosphatidylglycerol	product
+re2	phosphate	product
+re3	pgpB_mRNA	reactant
+re3	PgpB	product
+re4	DGPP	reactant
+re4	phosphatidate	product
+re4	phosphate	product
+re5	UPP (ambiguous)	reactant
+re5	ditrans,polycis-undecaprenyl phosphate	product
+re5	phosphate	product
+re6	pgpC_mRNA	reactant
+re6	PgpC	product
+re7	clsA_mRNA	reactant
+re7	ClsA	product
+re8	phosphatidylglycerol	reactant
+re8	cardiolipin	product
+re8	glycerol	product
+re9	clsB_mRNA	reactant
+re9	ClsB	product
+re10	pgsA_mRNA	reactant
+re10	PgsA	product
+re11	glycerol-3-phosphate	reactant
+re11	CDP-diglyceride	reactant
+re11	1-phosphatidyl-glycerol-P	product
+re11	cytidylate	product

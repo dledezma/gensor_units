@@ -1,0 +1,10 @@
+re1	pssA_mRNA	reactant
+re1	PssA	product
+re2	CDP-diglyceride	reactant
+re2	serine	reactant
+re2	phosphatidyl-serine	product
+re2	cytidylate	product
+re3	psd_mRNA	reactant
+re3	Psd	product
+re4	Psd	reactant
+re4	Psd-Psd	product

@@ -1,0 +1,27 @@
+re1	ltaE_mRNA	reactant
+re1	LtaE	product
+re2	hydroxythreonine	reactant
+re2	glycoaldehyde	product
+re2	glycine	product
+re3	threonine	reactant
+re3	ethanal	product
+re3	glycine	product
+re4	threo-phenylserine	reactant
+re4	benzaldehyde	product
+re4	glycine	product
+re5	allo-threonine	reactant
+re5	ethanal	product
+re5	glycine	product
+re6	adhE_mRNA	reactant
+re6	AdhE	product
+re7	pyruvate formate lyase, active form	reactant
+re7	pyruvate formate-lyase	product
+re8	1-Alcohol	reactant
+re8	RCHO	product
+re9	EtOH	reactant
+re9	ethanal	product
+re10	coenzyme A	reactant
+re10	ethanal	reactant
+re10	acetyl-CoA	product
+re11	mhpF_mRNA	reactant
+re11	MhpF	product

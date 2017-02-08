@@ -1,0 +1,6 @@
+re1	ispB_mRNA	reactant
+re1	IspB	product
+re2	isopentenyl-pp	reactant
+re2	farnesyl-PP	reactant
+re2	octaprenyl diphosphate	product
+re2	diphosphate	product
