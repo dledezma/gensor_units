@@ -1,0 +1,3 @@
+re11	CATALYSIS	GlpD
+re3	CATALYSIS	NapB-NapC-NapH-NapG-NapA
+re4	CATALYSIS	NapB-NapC-NapH-NapG-NapA

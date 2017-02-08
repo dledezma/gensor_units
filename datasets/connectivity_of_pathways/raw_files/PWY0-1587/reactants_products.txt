@@ -1,0 +1,24 @@
+re1	tsaE_mRNA	reactant
+re1	TsaE	product
+re2	TsaD	reactant
+re2	TsaB	reactant
+re2	TsaE	reactant
+re2	TsaE-TsaD-TsaB	product
+re3	threonylcarbamoyladenylate	reactant
+re3	adenine37 in tRNA	reactant
+re3	N6-L-threonylcarbamoyladenine37 in tRNA	product
+re4	tsaD_mRNA	reactant
+re4	TsaD	product
+re5	TsaD	reactant
+re5	TsaB	reactant
+re5	TsaB-TsaD	product
+re6	tsaB_mRNA	reactant
+re6	TsaB	product
+re7	TsaD	reactant
+re7	TsaD degradation products	product
+re8	tsaC_mRNA	reactant
+re8	TsaC	product
+re9	threonine	reactant
+re9	carbonate	reactant
+re9	threonylcarbamoyladenylate	product
+re9	diphosphate	product

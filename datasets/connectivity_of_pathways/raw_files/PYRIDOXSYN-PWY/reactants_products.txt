@@ -1,0 +1,49 @@
+re1	pdxH_mRNA	reactant
+re1	PdxH	product
+re2	pyridoxine-P	reactant
+re2	oxygen	reactant
+re2	vitamin B6	product
+re2	perhydrol	product
+re3	pyridoxamine phosphate	reactant
+re3	oxygen	reactant
+re3	vitamin B6	product
+re3	perhydrol	product
+re3	ammonium	product
+re4	epd_mRNA	reactant
+re4	Epd	product
+re5	erythrose-4P	reactant
+re5	erythronate-4P	product
+re6	dxs_mRNA	reactant
+re6	Dxs	product
+re7	glyceraldehyde-P	reactant
+re7	pyruvate	reactant
+re7	DOXP	product
+re7	CO2	product
+re8	pdxJ_mRNA	reactant
+re8	PdxJ	product
+re9	3-amino-2-oxopropyl phosphate	reactant
+re9	DOXP	reactant
+re9	pyridoxine-P	product
+re9	phosphate	product
+re10	pdxB_mRNA	reactant
+re10	PdxB	product
+re11	erythronate-4P	reactant
+re11	2-oxo-3-hydroxy-4-phosphobutanoate	product
+re12	serC_mRNA	reactant
+re12	SerC	product
+re13	ketoglutarate	reactant
+re13	serine-3P	reactant
+re13	phosphohydroxypyruate	product
+re13	L-glutamate	product
+re14	2-oxo-3-hydroxy-4-phosphobutanoate	reactant
+re14	L-glutamate	reactant
+re14	phospho-hydroxy-threonine	product
+re14	ketoglutarate	product
+re15	ketoglutarate	reactant
+re15	L,L-SDAP	reactant
+re15	N-Succinyl-2-L-amino-6-oxoheptanedioate	product
+re15	L-glutamate	product
+re16	pdxA_mRNA	reactant
+re16	PdxA	product
+re17	phospho-hydroxy-threonine	reactant
+re17	2-amino-3-oxo-4-phosphonooxybutyrate	product

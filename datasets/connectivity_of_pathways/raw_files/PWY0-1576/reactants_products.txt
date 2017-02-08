@@ -1,0 +1,33 @@
+re1	hybA_mRNA	reactant
+re1	HybA	product
+re2	HybC	reactant
+re2	HybO	reactant
+re2	HybB	reactant
+re2	HybA	reactant
+re2	HybA-HybB-HybO-HybC	product
+re3	vitamin K2_Ext	reactant
+re3	hydrogen_Ext	reactant
+re3	menaquinol	product
+re4	hybB_mRNA	reactant
+re4	HybB	product
+re5	hybO_mRNA	reactant
+re5	HybO	product
+re6	hybC_mRNA	reactant
+re6	HybC	product
+re7	frdA_mRNA	reactant
+re7	FrdA	product
+re8	FrdA	reactant
+re8	FrdD	reactant
+re8	FrdB	reactant
+re8	FrdC	reactant
+re8	FrdA-FrdB-FrdC-FrdD	product
+re9	menaquinol	reactant
+re9	fumarate	reactant
+re9	vitamin K2	product
+re9	succinate	product
+re10	frdB_mRNA	reactant
+re10	FrdB	product
+re11	frdC_mRNA	reactant
+re11	FrdC	product
+re12	frdD_mRNA	reactant
+re12	FrdD	product

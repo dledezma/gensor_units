@@ -1,0 +1,21 @@
+re1	ndh_mRNA	reactant
+re1	Ndh	product
+re2	ubiquinone	reactant
+re2	ubiquinol	product
+re3	vitamin K2	reactant
+re3	menaquinol	product
+re4	Cu(II)	reactant
+re4	Cu(I)	product
+re5	cydA_mRNA	reactant
+re5	CydA	product
+re6	CydX	reactant
+re6	CydA	reactant
+re6	CydB	reactant
+re6	CydA-CydB-CydX	product
+re7	ubiquinol_Ext	reactant
+re7	oxygen_Ext	reactant
+re7	ubiquinone	product
+re8	cydB_mRNA	reactant
+re8	CydB	product
+re9	cydX_mRNA	reactant
+re9	CydX	product

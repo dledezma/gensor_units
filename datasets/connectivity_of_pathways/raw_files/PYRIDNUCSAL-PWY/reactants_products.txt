@@ -1,0 +1,34 @@
+re1	nadD_mRNA	reactant
+re1	NadD	product
+re2	NaMN	reactant
+re2	diphosphate	product
+re2	NAAD	product
+re3	pncC_mRNA	reactant
+re3	PncC	product
+re4	beta-nicotinamide nucleotide	reactant
+re4	ammonium	product
+re4	NaMN	product
+re5	pncB_mRNA	reactant
+re5	PncB	product
+re6	niacin	reactant
+re6	PRPP	reactant
+re6	diphosphate	product
+re6	phosphate	product
+re6	NaMN	product
+re7	nadE_mRNA	reactant
+re7	NadE	product
+re8	glutamine	reactant
+re8	NAAD	reactant
+re8	L-glutamate	product
+re8	diphosphate	product
+re9	ammonium	reactant
+re9	NAAD	reactant
+re9	diphosphate	product
+re10	pncA_mRNA	reactant
+re10	PncA	product
+re11	vitamin PP	reactant
+re11	ammonium	product
+re11	niacin	product
+re12	pyrazinamide	reactant
+re12	pyrazinoate	product
+re12	ammonium	product
