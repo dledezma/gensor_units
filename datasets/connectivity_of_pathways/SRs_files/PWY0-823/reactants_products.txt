@@ -1,0 +1,12 @@
+re1	speA_mRNA	reactant
+re1	SpeA	product
+re2	arginine	reactant
+re2	agmatine	product
+re2	CO2	product
+re3	adiA_mRNA	reactant
+re3	AdiA	product
+re4	speB_mRNA	reactant
+re4	SpeB	product
+re5	agmatine	reactant
+re5	putrescine	product
+re5	urea	product

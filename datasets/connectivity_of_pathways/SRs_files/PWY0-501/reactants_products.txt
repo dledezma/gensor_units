@@ -1,0 +1,68 @@
+re1	lipA_mRNA	reactant
+re1	LipA	product
+re2	octanoylated protein lipoyl-domain	reactant
+re2	reduced [2Fe-2S] ferredoxin	reactant
+re2	sulfurated sulfur donor	reactant
+re2	SAM	reactant
+re2	oxidized [2Fe-2S] ferredoxin	product
+re2	unsulfurated [sulfur donor]	product
+re2	5'-deoxyadenosine	product
+re2	lipoyl-domain	product
+re2	methionine	product
+re3	lipB_mRNA	reactant
+re3	LipB	product
+re4	[lipoyl-carrier protein]-L-lysine	reactant
+re4	octanoyl-[acp]	reactant
+re4	octanoylated protein lipoyl-domain	product
+re4	AcpP	product
+re5	lipoyl-ACP	reactant
+re5	SucB	reactant
+re5	AcpP	product
+re5	SucB	product
+re6	lipoyl-ACP	reactant
+re6	AceF	reactant
+re6	AcpP	product
+re6	AceF	product
+re7	gcv protein H	reactant
+re7	lipoyl-ACP	reactant
+re7	[glycine-cleavage complex H protein] N6-lipoyl-L-lysine	product
+re7	AcpP	product
+re8	acpP_mRNA	reactant
+re8	AcpP	product
+re9	entB_mRNA	reactant
+re9	EntB	product
+re10	isochorismate	reactant
+re10	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	product
+re10	pyruvate	product
+re11	EntD	reactant
+re11	EntE	reactant
+re11	EntB	reactant
+re11	EntF	reactant
+re11	EntB-EntD-EntF-EntE	product
+re12	2-pyrocatechuate	reactant
+re12	serine	reactant
+re12	enterobactin	product
+re12	diphosphate	product
+re13	2-pyrocatechuate	reactant
+re13	2,3-dihydroxybenzoyl-AMP	product
+re13	diphosphate	product
+re14	2,3-dihydroxybenzoyl-AMP	reactant
+re14	holo EntB monomer	reactant
+re14	2,3-dihydroxybenzoyl-EntB	product
+re15	serine	reactant
+re15	diphosphate	product
+re15	seryl-AMP	product
+re16	holo-[EntF peptidyl-carrier protein]	reactant
+re16	seryl-AMP	reactant
+re16	seryl-[EntF peptidyl-carrier protein]	product
+re17	seryl-[EntF peptidyl-carrier protein]	reactant
+re17	2,3-dihydroxybenzoyl-EntB	reactant
+re17	DHB-seryl-[EntF peptidyl-carrier protein]	product
+re17	holo EntB monomer	product
+re18	DHB-seryl-[EntF peptidyl-carrier protein]	reactant
+re18	holo-[EntF peptidyl-carrier protein]	product
+re18	enterobactin	product
+re19	fdx_mRNA	reactant
+re19	Fdx	product
+re20	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	reactant
+re20	2-pyrocatechuate	product

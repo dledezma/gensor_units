@@ -1,0 +1,6 @@
+re1	cfa_mRNA	reactant
+re1	Cfa	product
+re2	[phospholipid] olefinic fatty acid	reactant
+re2	SAM	reactant
+re2	[phospholipid] cyclopropane fatty acid	product
+re2	adenosylhomocysteine	product

@@ -1,0 +1,32 @@
+re1	iscS_mRNA	reactant
+re1	IscS	product
+re2	cystein desulfurase	reactant
+re2	cysteine	reactant
+re2	S-sulfanyl-[L-cysteine desulfurase]	product
+re2	alanine	product
+re3	unsulfurated [sulfur donor]	reactant
+re3	cysteine	reactant
+re3	sulfurated sulfur donor	product
+re3	alanine	product
+re4	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re4	unsulfurated [sulfur donor]	reactant
+re4	sulfurated sulfur donor	product
+re4	protein cysteines	product
+re5	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re5	ThiI	reactant
+re5	sulfurylated sulfur-carrier protein ThiI	product
+re5	protein cysteines	product
+re6	protein cysteines	reactant
+re6	cysteine	reactant
+re6	[L-cysteine desulfurase] L-cysteine persulfide	product
+re6	alanine	product
+re7	sufS_mRNA	reactant
+re7	SufS	product
+re8	3-sulfinoalanine	reactant
+re8	alanine	product
+re8	sulfite	product
+re9	selenocysteine	reactant
+re9	A(H2)	reactant
+re9	acceptors	product
+re9	selenide	product
+re9	alanine	product

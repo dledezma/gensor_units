@@ -1,0 +1,9 @@
+re1	tauD_mRNA	reactant
+re1	TauD	product
+re2	ketoglutarate	reactant
+re2	taufon	reactant
+re2	oxygen	reactant
+re2	aminoacetaldehyde	product
+re2	succinate	product
+re2	sulfite	product
+re2	CO2	product
