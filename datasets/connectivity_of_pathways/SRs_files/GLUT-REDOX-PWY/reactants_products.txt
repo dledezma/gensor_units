@@ -1,0 +1,12 @@
+re1	gor_mRNA	reactant
+re1	Gor	product
+re2	GSSG	reactant
+re2	glutathione	product
+re3	grxC_mRNA	reactant
+re3	GrxC	product
+re4	nrdH_mRNA	reactant
+re4	NrdH	product
+re5	grxA_mRNA	reactant
+re5	GrxA	product
+re6	grxB_mRNA	reactant
+re6	GrxB	product

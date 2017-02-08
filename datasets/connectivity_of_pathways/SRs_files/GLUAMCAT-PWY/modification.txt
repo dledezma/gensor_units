@@ -1,0 +1,2 @@
+re2	CATALYSIS	NagB
+re4	CATALYSIS	NagA

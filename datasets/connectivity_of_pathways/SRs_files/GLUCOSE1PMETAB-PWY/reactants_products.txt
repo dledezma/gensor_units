@@ -1,0 +1,51 @@
+re1	yigL_mRNA	reactant
+re1	YigL	product
+re2	sugar phosphate	reactant
+re2	phosphate	product
+re2	sugar	product
+re3	D-glucose 1-phosphate	reactant
+re3	glucopyranose	product
+re3	phosphate	product
+re4	alpha-D-glucose-6-P	reactant
+re4	alpha-glucose	product
+re4	phosphate	product
+re5	beta-D-glucose-6-P	reactant
+re5	beta-glucose	product
+re5	phosphate	product
+re6	hexose phosphate	reactant
+re6	phosphate	product
+re6	hexose	product
+re7	beta-D-fructofuranose-1-P	reactant
+re7	beta-Levulose	product
+re7	phosphate	product
+re8	vitamin B6	reactant
+re8	pyridoxal	product
+re8	phosphate	product
+re9	yidA_mRNA	reactant
+re9	YidA	product
+re10	ybiV_mRNA	reactant
+re10	YbiV	product
+re11	yihX_mRNA	reactant
+re11	YihX	product
+re12	pgm_mRNA	reactant
+re12	Pgm	product
+re13	D-glucose 1-phosphate	reactant
+re13	glucose-6-P	product
+re14	phosphorylated phosphoglucomutase	reactant
+re14	D-glucose 1-phosphate	reactant
+re14	alpha-glucose 1,6-bisphosphate	product
+re14	phosphoglucomutase	product
+re15	alpha-glucose 1,6-bisphosphate	reactant
+re15	phosphoglucomutase	reactant
+re15	phosphorylated phosphoglucomutase	product
+re15	glucose-6-P	product
+re16	glk_mRNA	reactant
+re16	Glk	product
+re17	glucopyranose	reactant
+re17	glucose-6-P	product
+re18	gcd_mRNA	reactant
+re18	Gcd	product
+re19	glucopyranose	reactant
+re19	ubiquinone	reactant
+re19	gluconolactone	product
+re19	ubiquinol	product

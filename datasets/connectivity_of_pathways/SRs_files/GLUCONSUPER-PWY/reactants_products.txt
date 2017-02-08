@@ -1,0 +1,6 @@
+re1	idnK_mRNA	reactant
+re1	IdnK	product
+re2	gluconate	reactant
+re2	6-p gluconate	product
+re3	gntK_mRNA	reactant
+re3	GntK	product
