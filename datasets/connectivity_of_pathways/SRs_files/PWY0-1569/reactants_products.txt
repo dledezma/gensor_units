@@ -1,0 +1,16 @@
+re1	lsrF_mRNA	reactant
+re1	LsrF	product
+re2	3-hydroxy-2,4-pentanedione phosphate	reactant
+re2	coenzyme A	reactant
+re2	acetyl-CoA	product
+re2	DHAP	product
+re3	lsrK_mRNA	reactant
+re3	LsrK	product
+re4	AI-2	reactant
+re4	(4S)-4-hydroxy-2,3-pentanedione 5-phosphate	product
+re5	lsrG_mRNA	reactant
+re5	LsrG	product
+re6	(4S)-4-hydroxy-2,3-pentanedione 5-phosphate	reactant
+re6	3-hydroxy-2,4-pentanedione phosphate	product
+re7	3-hydroxy-2,4-pentanedione phosphate	reactant
+re7	P-TPO	product

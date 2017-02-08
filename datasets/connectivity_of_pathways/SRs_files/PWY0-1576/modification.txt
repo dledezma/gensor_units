@@ -1,0 +1,2 @@
+re3	CATALYSIS	HybA-HybB-HybO-HybC
+re9	CATALYSIS	FrdA-FrdB-FrdC-FrdD

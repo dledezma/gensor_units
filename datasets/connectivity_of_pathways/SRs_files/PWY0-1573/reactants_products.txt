@@ -1,0 +1,30 @@
+re1	ndh_mRNA	reactant
+re1	Ndh	product
+re2	ubiquinone	reactant
+re2	ubiquinol	product
+re3	vitamin K2	reactant
+re3	menaquinol	product
+re4	Cu(II)	reactant
+re4	Cu(I)	product
+re5	narG_mRNA	reactant
+re5	NarG	product
+re6	NarI	reactant
+re6	NarH	reactant
+re6	NarG	reactant
+re6	NarG-NarH-NarI	product
+re7	menaquinol_Ext	reactant
+re7	nitrate_Ext	reactant
+re7	vitamin K2	product
+re7	nitrite	product
+re8	ubiquinol_Ext	reactant
+re8	nitrate_Ext	reactant
+re8	ubiquinone	product
+re8	nitrite	product
+re9	A(H2)	reactant
+re9	TeO2	reactant
+re9	acceptors	product
+re9	Te0	product
+re10	narH_mRNA	reactant
+re10	NarH	product
+re11	narI_mRNA	reactant
+re11	NarI	product

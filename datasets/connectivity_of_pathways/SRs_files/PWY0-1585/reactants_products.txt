@@ -1,0 +1,45 @@
+re1	fdnG_mRNA	reactant
+re1	FdnG	product
+re2	FdnH	reactant
+re2	FdnI	reactant
+re2	FdnG	reactant
+re2	FdnI-FdnH-FdnG	product
+re3	fdnH_mRNA	reactant
+re3	FdnH	product
+re4	fdnI_mRNA	reactant
+re4	FdnI	product
+re5	fdoG_mRNA	reactant
+re5	FdoG	product
+re6	FdoH	reactant
+re6	FdoG	reactant
+re6	FdoI	reactant
+re6	FdoG-FdoH-FdoI	product
+re7	vitamin K2_Ext	reactant
+re7	formate_Ext	reactant
+re7	menaquinol	product
+re7	CO2	product
+re8	fdoH_mRNA	reactant
+re8	FdoH	product
+re9	fdoI_mRNA	reactant
+re9	FdoI	product
+re10	nrfD_mRNA	reactant
+re10	NrfD	product
+re11	NrfC	reactant
+re11	NrfA	reactant
+re11	NrfD	reactant
+re11	NrfB	reactant
+re11	NrfD-NrfC-NrfB-NrfA	product
+re12	menaquinol	reactant
+re12	nitrite	reactant
+re12	vitamin K2	product
+re12	ammonium	product
+re13	reduced Cytochrome C protein	reactant
+re13	nitrite	reactant
+re13	ferri c-type cytochrome	product
+re13	ammonium	product
+re14	nrfC_mRNA	reactant
+re14	NrfC	product
+re15	nrfB_mRNA	reactant
+re15	NrfB	product
+re16	nrfA_mRNA	reactant
+re16	NrfA	product

@@ -1,0 +1,31 @@
+re1	glpA_mRNA	reactant
+re1	GlpA	product
+re2	GlpC	reactant
+re2	GlpA	reactant
+re2	GlpB	reactant
+re2	GlpA-GlpB-GlpC	product
+re3	glycerol-3-phosphate	reactant
+re3	vitamin K2	reactant
+re3	menaquinol	product
+re3	DHAP	product
+re4	glpB_mRNA	reactant
+re4	GlpB	product
+re5	glpC_mRNA	reactant
+re5	GlpC	product
+re6	frdA_mRNA	reactant
+re6	FrdA	product
+re7	FrdA	reactant
+re7	FrdD	reactant
+re7	FrdB	reactant
+re7	FrdC	reactant
+re7	FrdA-FrdB-FrdC-FrdD	product
+re8	menaquinol	reactant
+re8	fumarate	reactant
+re8	vitamin K2	product
+re8	succinate	product
+re9	frdB_mRNA	reactant
+re9	FrdB	product
+re10	frdC_mRNA	reactant
+re10	FrdC	product
+re11	frdD_mRNA	reactant
+re11	FrdD	product

@@ -1,0 +1,6 @@
+re1	nadR_mRNA	reactant
+re1	NadR	product
+re2	beta-nicotinamide nucleotide	reactant
+re2	diphosphate	product
+re3	nicotinamide ribose	reactant
+re3	beta-nicotinamide nucleotide	product
