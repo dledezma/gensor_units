@@ -1,0 +1,9 @@
+re1	nadK_mRNA	reactant
+re1	NadK	product
+re2	pntB_mRNA	reactant
+re2	PntB	product
+re3	PntA	reactant
+re3	PntB	reactant
+re3	PntB-PntA	product
+re4	pntA_mRNA	reactant
+re4	PntA	product

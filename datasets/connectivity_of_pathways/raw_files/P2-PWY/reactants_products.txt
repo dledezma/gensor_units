@@ -1,0 +1,27 @@
+re1	citX_mRNA	reactant
+re1	CitX	product
+re2	[a citrate-lyase acyl-carrier protein]	reactant
+re2	2-5-triphosphoribosyl-3-dephospho-CoA	reactant
+re2	[a holo citrate lyase acyl-carrier protein]	product
+re2	diphosphate	product
+re3	citG_mRNA	reactant
+re3	CitG	product
+re4	3-dephospho-CoA	reactant
+re4	2-5-triphosphoribosyl-3-dephospho-CoA	product
+re4	adenine	product
+re5	citC_mRNA	reactant
+re5	CitC	product
+re6	[a holo citrate lyase acyl-carrier protein]	reactant
+re6	acetate	reactant
+re6	citrate lyase	product
+re6	diphosphate	product
+re7	citD_mRNA	reactant
+re7	CitD	product
+re8	CitD	reactant
+re8	CitF	reactant
+re8	CitE	reactant
+re8	CitD-CitF-CitE	product
+re9	citF_mRNA	reactant
+re9	CitF	product
+re10	citE_mRNA	reactant
+re10	CitE	product

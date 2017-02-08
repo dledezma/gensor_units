@@ -1,0 +1,49 @@
+re1	dxs_mRNA	reactant
+re1	Dxs	product
+re2	glyceraldehyde-P	reactant
+re2	pyruvate	reactant
+re2	DOXP	product
+re2	CO2	product
+re3	dxr_mRNA	reactant
+re3	Dxr	product
+re4	2-methylerylthritol 4-phosphate	reactant
+re4	DOXP	product
+re5	ispH_mRNA	reactant
+re5	IspH	product
+re6	reduced ferredoxin	reactant
+re6	HMBDP	reactant
+re6	oxidized ferredoxin	product
+re6	DMPP	product
+re7	reduced ferredoxin	reactant
+re7	HMBDP	reactant
+re7	oxidized ferredoxin	product
+re7	isopentenyl-pp	product
+re8	ispD_mRNA	reactant
+re8	IspD	product
+re9	2-methylerylthritol 4-phosphate	reactant
+re9	cytidine-triphosphate	reactant
+re9	diphosphate	product
+re9	CDP-ME	product
+re10	ispE_mRNA	reactant
+re10	IspE	product
+re11	CDP-ME	reactant
+re11	CDP-ME-2P	product
+re12	ispF_mRNA	reactant
+re12	IspF	product
+re13	CDP-ME-2P	reactant
+re13	cytidylate	product
+re13	ME-2,4cPP	product
+re14	idi_mRNA	reactant
+re14	Idi	product
+re15	isopentenyl-pp	reactant
+re15	DMPP	product
+re16	ispG_mRNA	reactant
+re16	IspG	product
+re17	ME-2,4cPP	reactant
+re17	FldA	reactant
+re17	HMBDP	product
+re17	FldA	product
+re18	fldA_mRNA	reactant
+re18	FldA	product
+re19	fdx_mRNA	reactant
+re19	Fdx	product

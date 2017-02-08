@@ -1,0 +1,4 @@
+re1	mtlD_mRNA	reactant
+re1	MtlD	product
+re2	mannitol-1-P	reactant
+re2	fructose-6-P	product

@@ -1,0 +1,53 @@
+re1	panC_mRNA	reactant
+re1	PanC	product
+re2	beta-alanine	reactant
+re2	pantoate	reactant
+re2	pantothenic acid	product
+re2	diphosphate	product
+re3	panE_mRNA	reactant
+re3	PanE	product
+re4	ketopantoate	reactant
+re4	pantoate	product
+re5	ilvC_mRNA	reactant
+re5	IlvC	product
+re6	(R)-2,3-dihydroxy-isovalerate	reactant
+re6	alpha-acetolactate	product
+re7	(S)-2-aceto-2-hydroxybutanoate	reactant
+re7	(R)-2,3-dihydroxy-3-methylvalerate	product
+re8	panB_mRNA	reactant
+re8	PanB	product
+re9	methylene-H4PteGlu(n)	reactant
+re9	2-ketovaline	reactant
+re9	THF polyglutamate	product
+re9	ketopantoate	product
+re10	coaA_mRNA	reactant
+re10	CoaA	product
+re11	pantothenic acid	reactant
+re11	4'-P-Pantothenate	product
+re12	coaD_mRNA	reactant
+re12	CoaD	product
+re13	phosphopantotheine	reactant
+re13	3-dephospho-CoA	product
+re13	diphosphate	product
+re14	coaE_mRNA	reactant
+re14	CoaE	product
+re15	3-dephospho-CoA	reactant
+re15	coenzyme A	product
+re16	dfp_mRNA	reactant
+re16	Dfp	product
+re17	cytidine-triphosphate	reactant
+re17	4'-P-Pantothenate	reactant
+re17	cysteine	reactant
+re17	4-P-N-pantothenoylcysteine	product
+re17	diphosphate	product
+re17	cytidylate	product
+re18	4-P-N-pantothenoylcysteine	reactant
+re18	phosphopantotheine	product
+re18	CO2	product
+re19	panD_mRNA	reactant
+re19	PanD	product
+re20	PanD	reactant
+re20	PanD-PanD	product
+re21	aspartate	reactant
+re21	beta-alanine	product
+re21	CO2	product

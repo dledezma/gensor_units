@@ -1,0 +1,26 @@
+re1	panC_mRNA	reactant
+re1	PanC	product
+re2	beta-alanine	reactant
+re2	pantoate	reactant
+re2	pantothenic acid	product
+re2	diphosphate	product
+re3	panE_mRNA	reactant
+re3	PanE	product
+re4	ketopantoate	reactant
+re4	pantoate	product
+re5	ilvC_mRNA	reactant
+re5	IlvC	product
+re6	(R)-2,3-dihydroxy-isovalerate	reactant
+re6	alpha-acetolactate	product
+re7	(S)-2-aceto-2-hydroxybutanoate	reactant
+re7	(R)-2,3-dihydroxy-3-methylvalerate	product
+re8	panB_mRNA	reactant
+re8	PanB	product
+re9	methylene-H4PteGlu(n)	reactant
+re9	2-ketovaline	reactant
+re9	THF polyglutamate	product
+re9	ketopantoate	product
+re10	coaA_mRNA	reactant
+re10	CoaA	product
+re11	pantothenic acid	reactant
+re11	4'-P-Pantothenate	product

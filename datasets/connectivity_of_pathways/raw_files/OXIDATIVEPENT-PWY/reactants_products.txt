@@ -1,0 +1,13 @@
+re1	pgl_mRNA	reactant
+re1	Pgl	product
+re2	6-phosphogluconolactone	reactant
+re2	6-p gluconate	product
+re3	zwf_mRNA	reactant
+re3	Zwf	product
+re4	glucose-6-P	reactant
+re4	6-phosphogluconolactone	product
+re5	gnd_mRNA	reactant
+re5	Gnd	product
+re6	6-p gluconate	reactant
+re6	ribulose-5P	product
+re6	CO2	product

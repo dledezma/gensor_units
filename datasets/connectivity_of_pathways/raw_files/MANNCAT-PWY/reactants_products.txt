@@ -1,0 +1,4 @@
+re1	manA_mRNA	reactant
+re1	ManA	product
+re2	mannopyranose-6-P	reactant
+re2	fructose-6-P	product
