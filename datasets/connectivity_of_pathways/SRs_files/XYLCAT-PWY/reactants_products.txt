@@ -1,0 +1,10 @@
+re1	xylB_mRNA	reactant
+re1	XylB	product
+re2	xylulose	reactant
+re2	xylulose-P	product
+re3	1-deoxy-xylulose	reactant
+re3	DOXP	product
+re4	xylA_mRNA	reactant
+re4	XylA	product
+re5	xylopyranose	reactant
+re5	xylulose	product
