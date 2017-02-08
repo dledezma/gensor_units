@@ -1,0 +1,32 @@
+re1	glmU_mRNA	reactant
+re1	GlmU	product
+re2	N-acetyl-alpha-D-glucosamine 1-phosphate	reactant
+re2	uridine-triphosphate	reactant
+re2	diphosphate	product
+re2	UDP-GlcNAc	product
+re3	glucosamine-1P	reactant
+re3	acetyl-CoA	reactant
+re3	N-acetyl-alpha-D-glucosamine 1-phosphate	product
+re3	coenzyme A	product
+re4	glmS_mRNA	reactant
+re4	GlmS	product
+re5	fructose-6-P	reactant
+re5	glutamine	reactant
+re5	alpha-D-glucosamine phosphate	product
+re5	L-glutamate	product
+re6	glmM_mRNA	reactant
+re6	GlmM	product
+re7	alpha-D-glucosamine phosphate	reactant
+re7	glucosamine-1P	product
+re8	phosphorylated phosphoglucosamine mutase	reactant
+re8	alpha-D-glucosamine phosphate	reactant
+re8	glucosamine 1,6-diphosphate	product
+re8	phosphoglucosamine mutase	product
+re9	glucosamine 1,6-diphosphate	reactant
+re9	phosphoglucosamine mutase	reactant
+re9	phosphorylated phosphoglucosamine mutase	product
+re9	glucosamine-1P	product
+re10	pgi_mRNA	reactant
+re10	Pgi	product
+re11	glucose-6-P	reactant
+re11	fructose-6-P	product

@@ -1,0 +1,4 @@
+re1	srlD_mRNA	reactant
+re1	SrlD	product
+re2	sorbitol 6-phosphate	reactant
+re2	fructose 6-phosphate	product

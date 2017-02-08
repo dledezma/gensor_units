@@ -1,0 +1,6 @@
+Glk	PROTEIN	GLUCOKIN-MONOMER
+TREDEGLOW-PWY	PROTEIN
+TreC	PROTEIN	TRE6PHYDRO-MONOMER
+alpha,alpha-trehalose 6-phosphate	SIMPLE_MOLECULE	TREHALOSE-6P
+glucopyranose	SIMPLE_MOLECULE	|Glucopyranose|
+glucose-6-P	SIMPLE_MOLECULE	|D-glucopyranose-6-phosphate|

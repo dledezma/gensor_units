@@ -1,0 +1,8 @@
+re1	trxB_mRNA	reactant
+re1	TrxB	product
+re2	thioredoxin disulfide	reactant
+re2	reduced thioredoxin	product
+re3	trxC_mRNA	reactant
+re3	TrxC	product
+re4	trxA_mRNA	reactant
+re4	TrxA	product

@@ -1,0 +1,11 @@
+re1	otsA_mRNA	reactant
+re1	OtsA	product
+re2	glucose-6-P	reactant
+re2	UDPG	reactant
+re2	alpha,alpha-trehalose 6-phosphate	product
+re2	uridine-diphosphate	product
+re3	otsB_mRNA	reactant
+re3	OtsB	product
+re4	alpha,alpha-trehalose 6-phosphate	reactant
+re4	phosphate	product
+re4	trehalose	product

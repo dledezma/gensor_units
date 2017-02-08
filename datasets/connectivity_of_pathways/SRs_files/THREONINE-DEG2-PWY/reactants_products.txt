@@ -1,0 +1,12 @@
+re1	tdh_mRNA	reactant
+re1	Tdh	product
+re2	threonine	reactant
+re2	3-oxothreonine	product
+re3	yiaY_mRNA	reactant
+re3	YiaY	product
+re4	kbl_mRNA	reactant
+re4	Kbl	product
+re5	acetyl-CoA	reactant
+re5	glycine	reactant
+re5	3-oxothreonine	product
+re5	coenzyme A	product

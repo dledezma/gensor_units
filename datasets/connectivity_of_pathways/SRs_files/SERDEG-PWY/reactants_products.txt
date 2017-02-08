@@ -1,0 +1,12 @@
+re1	tdcG_mRNA	reactant
+re1	TdcG	product
+re2	serine	reactant
+re2	dehydroalanine	product
+re3	sdaA_mRNA	reactant
+re3	SdaA	product
+re4	tdcB_mRNA	reactant
+re4	TdcB	product
+re5	threonine	reactant
+re5	(2Z)-2-aminobut-2-enoate	product
+re6	sdaB_mRNA	reactant
+re6	SdaB	product

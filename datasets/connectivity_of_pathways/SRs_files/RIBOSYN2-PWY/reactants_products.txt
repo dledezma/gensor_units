@@ -1,0 +1,46 @@
+re1	ribF_mRNA	reactant
+re1	RibF	product
+re2	riboflavin	reactant
+re2	flavin mononucleotide	product
+re3	flavin mononucleotide	reactant
+re3	diphosphate	product
+re3	flavitan	product
+re4	ribC_mRNA	reactant
+re4	RibC	product
+re5	6,7-dimethyl-8-(1-D-ribityl)lumazine	reactant
+re5	5-amino-6-(D-ribitylamino)uracil	product
+re5	riboflavin	product
+re6	ribE_mRNA	reactant
+re6	RibE	product
+re7	5-amino-6-(D-ribitylamino)uracil	reactant
+re7	tetrolose phosphate	reactant
+re7	6,7-dimethyl-8-(1-D-ribityl)lumazine	product
+re7	phosphate	product
+re8	ybjI_mRNA	reactant
+re8	YbjI	product
+re9	5-amino-6-(5-phosphoribitylamino)uracil	reactant
+re9	5-amino-6-(D-ribitylamino)uracil	product
+re9	phosphate	product
+re10	flavin mononucleotide	reactant
+re10	riboflavin	product
+re10	phosphate	product
+re11	yigB_mRNA	reactant
+re11	YigB	product
+re12	ribB_mRNA	reactant
+re12	RibB	product
+re13	ribulose-5P	reactant
+re13	tetrolose phosphate	product
+re13	formate	product
+re14	ribD_mRNA	reactant
+re14	RibD	product
+re15	DARP	reactant
+re15	5-amino-6-(5'-phosphoribosylamino)uracil	product
+re15	ammonium	product
+re16	5-amino-6-(5'-phosphoribosylamino)uracil	reactant
+re16	5-amino-6-(5-phosphoribitylamino)uracil	product
+re17	ribA_mRNA	reactant
+re17	RibA	product
+re18	guanosine-triphosphate	reactant
+re18	diphosphate	product
+re18	formate	product
+re18	DARP	product
