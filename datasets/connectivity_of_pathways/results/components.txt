@@ -1,0 +1,366 @@
+#From find_components.pl on Sat Feb  4 22:19:19 2017 using:
+# /Users/Daniela/Documents/PhD/Colaboraciones/Misha/pathways/results/all_short_paths.txt
+# /Users/Daniela/Documents/PhD/Colaboraciones/Misha/pathways/results/all_short_paths.txt
+#From /Users/Daniela/Documents/PhD/Codigos/2017_2/find_components_v2.pl on Sat Feb  4 22:19:19 2017 using:
+1CMET2-PWY	2	re42,re2,re22,re8,re10,re24,re39,re23,re36,re40,re34,re37,re6,re33,re15,re27,re28,re43,re20,re14,re18,re26,re16,re38,re19,re11,**re13,**
+2PHENDEG-PWY	1	re3,re7,re5,re2,re4,**
+ACETOACETATE-DEG-PWY	1	re2,re5,**
+ALADEG-PWY	1	re2,re6,re5,**
+ALANINE-SYN2-PWY	1	re2,**
+ALANINE-VALINESYN-PWY	2	re2,re5,re4,re3,re11,re8,**re12,**
+ALKANEMONOX-PWY	1	re5,re2,re4,re6,re7,**
+AMMASSIM-PWY	1	re2,**
+ARABCAT-PWY	1	re2,re6,re4,**
+ARGSYN-PWY	1	re10,re15,re25,re23,re22,re27,re6,re2,re4,re18,re20,re11,re12,**
+ARO-PWY	1	re4,re2,re17,re15,re12,re10,re8,re20,re19,**
+ASPARAGINE-BIOSYNTHESIS	1	re3,re4,re2,**
+ASPARAGINE-DEG1-PWY	1	re8,re2,**
+ASPARAGINESYN-PWY	1	re3,re4,re2,**
+ASPARTATESYN-PWY	1	re3,re2,re4,re5,re6,**
+AST-PWY	1	re2,re4,re6,re7,re9,re11,**
+BETSYN-PWY	1	re2,re4,**
+BGALACT-PWY	1	re2,re3,**
+BIOTIN-BIOSYNTHESIS-PWY	2	re40,re5,re20,re21,re17,re15,re23,re7,re58,re38,re25,re8,re30,re9,re69,re71,re6,re60,re37,re26,re2,re66,re53,re44,re31,re10,re54,re45,re32,re11,re55,re46,re33,re12,re67,re47,re28,re13,re73,re18,re16,re62,re51,re52,re43,re29,re14,re57,re64,re89,re61,re36,re27,re50,re41,re42,re34,re59,re39,re24,re88,re56,re48,re22,re87,re86,**re77,re90,re79,re82,re80,re85,re83,re84,re81,**
+BSUBPOLYAMSYN-PWY	1	re6,re2,re3,**
+CARNMET-PWY	1	re2,re4,re6,re8,**
+COA-PWY	1	re6,re7,re2,re4,**
+COBALSYN-PWY	2	re7,re3,re2,re13,re10,re8,**re5,re11,**
+COLANSYN-PWY	1	re16,re6,re8,re10,re12,re2,re4,re14,re20,re17,re18,re22,**
+CYANCAT-PWY	1	re4,re2,re5,**
+CYSTSYN-PWY	1	re2,re5,re6,**
+DAPLYSINESYN-PWY	1	re20,re18,re16,re22,re14,re9,re12,re8,re11,re6,re2,re4,**
+DARABCATK12-PWY	1	re3,re6,re9,re11,re8,re2,re5,re12,**
+DTDPRHAMSYN-PWY	1	re10,re8,re3,re5,re4,**
+ECASYN-PWY	1	re12,re15,re10,re8,re4,re6,re2,re19,re17,**
+ENTBACSYN-PWY	1	re2,re23,re5,re17,re18,re16,re15,re14,re19,re13,re8,re12,re7,**
+ENTNER-DOUDOROFF-PWY	1	re6,re3,re4,re2,**
+ETOH-ACETYLCOA-ANA-PWY	3	re3,re6,**re5,**re2,**
+FAO-PWY	1	re15,re13,re14,re17,re3,re2,re8,re11,re20,re18,re16,re21,**
+FASYN-ELONG-PWY	2	re21,re50,re42,re14,re23,re51,re43,re48,re49,re44,re13,re24,re18,re19,re60,re34,re2,re75,re45,re12,re25,re15,re22,re63,re40,re16,re20,re3,re32,re29,re53,re38,re58,re6,re30,re54,re61,re59,re39,re7,re8,re26,re56,re36,re4,re27,re57,re31,re55,re28,re52,re46,re35,re9,re37,re5,re10,re41,**re68,re70,re67,re65,re76,re71,re72,re73,re69,**
+FERMENTATION-PWY	4	re9,re26,re30,re53,re56,re55,re59,re36,re35,re61,re60,re65,re24,re64,re32,re19,re10,re2,re17,re14,re3,re40,re63,re22,re28,re37,re48,re6,re62,re7,**re16,**re13,**re57,**
+FUCCAT-PWY	1	re9,re6,re3,re2,re8,re5,re11,**
+GALACTARDEG-PWY	1	re4,re5,re2,re7,re9,**
+GALACTCAT-PWY	1	re6,re2,re4,**
+GALACTITOLCAT-PWY	2	re12,re13,re6,re3,**re2,**
+GALACTMETAB-PWY	1	re10,re2,re4,re6,re8,**
+GALACTUROCAT-PWY	1	re8,re14,re4,re12,re13,re9,re6,re2,re11,**
+GLNSYN-PWY	1	re2,**
+GLUAMCAT-PWY	1	re4,re2,**
+GLUCARDEG-PWY	1	re7,re8,re2,re4,re5,re10,**
+GLUCONEO-PWY	2	re10,re14,re16,re18,re20,re35,re27,re36,re25,re23,re32,re29,re4,re2,re33,re11,**re7,**
+GLUCONSUPER-PWY	1	re2,**
+GLUCOSE1PMETAB-PWY	7	re14,re15,re13,re3,re17,re19,**re4,**re2,**re8,**re7,**re5,**re6,**
+GLUT-REDOX-PWY	1	re2,**
+GLUTAMINDEG-PWY	1	re5,re10,re21,re14,re6,re7,re17,re18,re11,re15,**
+GLUTATHIONESYN-PWY	1	re2,re4,**
+GLUTDEG-PWY	1	re3,re8,re2,re5,re4,re6,**
+GLUTORN-PWY	1	re2,re12,re10,re9,re14,re5,re7,**
+GLUTSYN-PWY	0
+GLUTSYNIII-PWY	1	re2,**
+GLYCEROLMETAB-PWY	3	re4,re7,**re2,**re3,**
+GLYCLEAV-PWY	1	re11,re13,re12,re3,re9,re7,re5,re8,re15,re21,re4,re16,re17,**
+GLYCOCAT-PWY	1	re14,re2,re3,re21,re20,re13,re4,re5,re28,re24,re18,re19,re15,re22,re12,re25,re26,re7,re9,re17,re11,**
+GLYCOGENSYNTH-PWY	1	re8,re10,re9,re6,re2,re4,**
+GLYCOLATEMET-PWY	1	re5,re2,re9,re11,**
+GLYCOLYSIS	2	re21,re40,re12,re10,re8,re36,re35,re38,re37,re39,re5,re2,re27,re16,re14,re29,re20,re23,re17,re25,**re32,**
+GLYOXDEG-PWY	1	re5,re2,**
+GLYOXYLATE-BYPASS	2	re8,re11,re10,re6,re4,re2,re14,**re13,**
+GLYSYN-PWY	3	re4,**re2,re5,re6,**re3,**
+HCAMHPDEG-PWY	1	re15,re11,re5,re3,re8,re16,re12,re6,re2,re9,**
+HEME-BIOSYNTHESIS-II	1	re2,re9,re4,re7,re5,**
+HEMESYN2-PWY	1	re4,re6,re8,re2,re9,**
+HISTSYN-PWY	1	re17,re19,re16,re14,re11,re5,re8,re3,re2,re7,**
+HOMOSER-METSYN-PWY	2	re10,re2,re8,re12,re4,re9,re6,**re13,**
+HOMOSER-THRESYN-PWY	2	re2,re5,**re3,**
+HOMOSERSYN-PWY	1	re2,re4,re6,**
+IDNCAT-PWY	1	re6,re2,re4,**
+ILEUSYN-PWY	2	re25,re27,re17,re12,re8,re7,re6,re26,re5,re3,re16,re11,re2,**re13,**
+KDO-LIPASYN-PWY	2	re8,re17,re13,re14,re15,re16,re12,re11,re10,**re2,re5,re4,**
+KDOSYN-PWY	1	re3,re2,**
+KETOGLUCONMET-PWY	7	re18,re2,re7,re4,re11,re19,re20,**re16,**re10,**re9,**re14,**re17,**re13,**
+LCYSDEG-PWY	1	re2,re5,re7,re3,**
+LEUSYN-PWY	3	re16,re20,re19,re10,re9,re8,re7,re13,re14,re2,re22,**re4,**re5,**
+LIPA-CORESYN-PWY	1	re9,re11,re13,re15,re17,re19,re22,re20,re7,re2,re5,re23,re3,**
+LYXMET-PWY	2	re3,re5,re8,re10,re6,re12,**re2,**
+MANNCAT-PWY	1	re2,**
+MANNIDEG-PWY	1	re2,**
+MENAQUINONESYN-PWY	1	re2,re3,**
+METSYN-PWY	2	re10,re9,re18,re16,re19,re2,re8,re12,re4,re6,**re13,**
+NAD-BIOSYNTHESIS-II	1	re3,re2,**
+NADPHOS-DEPHOS-PWY	0
+NAGLIPASYN-PWY	2	re23,re21,re22,re19,re15,re24,re20,re18,re17,**re12,re10,re8,re2,re4,re6,**
+NONMEVIPP-PWY	1	re2,re4,re9,re17,re15,re6,re11,re13,re7,**
+NONOXIPENT-PWY	2	re11,**re2,re12,re6,re9,re5,**
+NRI-PWY	2	re7,re8,re9,re3,re2,**re5,**
+OANTIGEN-PWY	1	re22,re23,re17,re16,re13,re19,re25,re10,re5,re21,re7,re6,**
+OXIDATIVEPENT-PWY	1	re4,re2,re6,**
+P2-PWY	1	re4,re2,re6,**
+PANTO-PWY	3	re9,re4,re2,re11,**re7,**re6,**
+PANTOSYN-PWY	3	re9,re4,re2,re11,re17,re18,re13,re15,re21,**re7,**re6,**
+PENTOSE-P-PWY	2	re11,**re2,re12,re6,re9,re5,re17,re15,re19,**
+PEPTIDOGLYCANSYN-PWY	1	re12,re14,re18,re10,re4,re2,re6,re8,re20,re16,**
+PHESYN	1	re18,re4,re3,re7,re8,re11,re12,re5,re2,re9,re15,re16,**
+PLPSAL-PWY	2	re5,re3,re7,re2,re8,**re6,**
+POLYISOPRENSYN-PWY	3	re12,**re13,**re5,re2,re3,re7,re9,re15,**
+PPGPPMET-PWY	6	re17,**re13,re20,re15,re11,re19,re14,re21,**re7,re5,re2,re8,re4,re18,**re16,**re10,**re12,**
+PROPIONMET-PWY	1	re2,**
+PROSYN-PWY	1	re7,re4,re8,re2,**
+PROUT-PWY-I	1	re2,re4,re3,**
+PUTDEG-PWY	1	re4,re2,re5,**
+PWY-1269	2	re6,re4,re2,**re8,**
+PWY-1801	1	re4,re6,re2,**
+PWY-2161	3	re8,re2,re10,re6,re5,re9,re11,**re4,**re3,**
+PWY-40	1	re2,re4,**
+PWY-4121	1	re2,re3,**
+PWY-4261	1	re2,re4,re7,**
+PWY-4381	2	re25,re23,re24,re21,re20,re17,re26,re22,re19,**re13,re14,re11,re3,re6,re8,**
+PWY-46	1	re2,**
+PWY-4621	1	re2,**
+PWY-5084	2	re10,re14,re15,re19,re11,re18,re13,re20,re2,re4,re5,re17,re6,**re9,**
+PWY-5123	1	re5,re2,re3,**
+PWY-5155	1	re3,**
+PWY-5162	1	re2,re4,re6,**
+PWY-5188	1	re12,re10,re8,re6,re4,re2,**
+PWY-5194	1	re3,re2,re5,re4,**
+PWY-5340	1	re3,re6,**
+PWY-5350	1	re6,re7,re2,re3,**
+PWY-5386	1	re6,re2,re4,re9,**
+PWY-5436	3	re5,re2,re4,re3,re9,re10,**re7,**re8,**
+PWY-5437	2	re3,re6,re2,re7,re9,re14,re15,re11,re16,**re13,**
+PWY-5453	12	re17,**re21,**re2,**re16,**re5,**re19,re3,re13,**re20,**re9,**re6,**re8,**re12,re14,**re15,**
+PWY-5459	2	re3,re5,**re2,**
+PWY-5484	25	re21,re72,re12,re10,re8,re5,re25,re2,re47,re27,re20,re16,re14,re68,re67,re70,re69,re23,re17,re44,**re50,re49,**re39,**re30,**re52,**re53,re55,re54,**re59,re57,re58,**re65,**re33,**re35,**re42,re41,**re34,**re56,**re38,**re43,**re61,**re60,**re45,**re51,**re62,**re40,**re48,**re63,**re46,**re64,**
+PWY-5659	1	re2,re4,re6,re8,**
+PWY-5667	1	re13,re23,re19,re18,re4,re2,re17,re15,re14,re16,re12,re27,re21,re25,re10,re24,re5,re22,re7,re11,re9,re6,re8,**
+PWY-5668	3	re11,re2,re8,**re4,**re5,**
+PWY-5669	1	re2,**
+PWY-5686	1	re4,re5,re9,re14,re16,re3,re19,re12,re18,**
+PWY-5698	1	re2,re4,re6,**
+PWY-5705	1	re4,re6,re8,re2,**
+PWY-5755	1	re2,**
+PWY-5783	1	re2,**
+PWY-5785	3	re7,**re8,**re2,re4,**
+PWY-5837	1	re6,re8,re10,re4,re2,re12,re14,**
+PWY-5852	1	re2,**
+PWY-5901	1	re2,re4,re14,re11,re12,re10,re8,re9,re7,re6,**
+PWY-5964	1	re2,re3,re4,**
+PWY-5965	2	re23,re24,re27,re28,re26,re25,re22,re20,re39,**re4,re6,re2,re16,re33,re8,re32,re9,re29,re3,re30,re17,re14,re38,re15,re34,re10,re35,re11,re7,re36,re12,re37,re13,**
+PWY-5966	2	re26,re27,re30,re31,re29,re23,re42,re25,re28,**re14,re6,re2,re16,re20,re19,re17,re3,re8,re35,re9,re41,re15,re37,re10,re38,re11,re39,re12,re32,re7,re33,re4,re36,re40,re13,**
+PWY-5971	2	re29,re32,re52,re3,re2,re4,re26,re34,re50,re5,re12,re25,re37,re59,re48,re27,re35,re49,re73,re23,re43,re47,re28,re33,re51,re45,re46,re14,re17,re36,re72,re15,re42,re53,re10,re19,re38,re54,re11,re24,re55,re6,re20,re39,re56,re7,re21,re40,re57,re8,re22,re41,re58,re9,re18,re13,re30,**re65,re67,re64,re62,re74,re68,re69,re66,re70,**
+PWY-5973	3	re23,re26,re46,re75,re22,re27,re45,**re42,re73,re20,re28,re44,re74,re21,re29,re43,re3,re19,re31,re53,re49,re68,re14,re33,re50,re69,re15,re34,re51,re70,re16,re35,re52,re66,re12,re7,re8,re17,re37,re41,re2,re11,re39,re40,re9,re24,re36,re47,re67,re13,re32,re48,re71,re18,re30,re65,**re56,re76,re58,re61,re59,re63,re64,re62,re60,**
+PWY-6012	1	re17,re16,re13,re9,re18,re14,re15,re5,re12,re4,re2,re11,**
+PWY-6019	1	re4,re2,**
+PWY-6038	0
+PWY-6121	1	re2,re4,re6,re8,re10,**
+PWY-6122	2	re2,re4,re10,re6,re8,**re11,**
+PWY-6123	1	re12,re10,re2,re5,re7,re8,re13,re4,**
+PWY-6147	2	re5,re10,re7,re11,re4,re2,**re8,**
+PWY-6151	1	re10,re8,re13,re2,re6,re11,re3,re4,**
+PWY-6153	1	re4,re3,re6,re7,re2,**
+PWY-6163	1	re9,re14,re11,re13,re6,re4,re2,**
+PWY-6164	1	re4,re2,**
+PWY-6268	1	re2,re3,**
+PWY-6282	4	re64,**re36,re27,re14,re52,re37,re28,re15,re53,re5,re48,re40,re20,re46,re2,re3,re58,re12,re50,re35,re26,re13,re51,re22,re24,re16,re59,re57,re44,re7,re49,re41,re21,re6,re62,re47,re42,re19,re8,re78,re29,re10,re54,re34,re25,re11,re55,re32,re23,re33,re77,re38,re56,re76,re30,re4,re61,re43,re18,re9,re39,**re67,re79,re69,re72,re70,re73,re74,re71,re75,**re63,**
+PWY-6387	1	re16,re6,re12,re10,re14,re2,re4,re8,**
+PWY-6476	1	re2,**
+PWY-6519	2	re67,re5,re20,re21,re17,re15,re23,re7,re58,re38,re25,re8,re30,re9,re53,re44,re31,re10,re54,re45,re32,re11,re40,re42,re34,re6,re60,re37,re26,re2,re66,re59,re39,re24,re81,re56,re48,re22,re55,re46,re33,re12,re51,re50,re41,re80,re18,re16,re62,re79,re47,re28,re13,re52,re43,re29,re14,re57,re64,re82,re61,re36,re27,**re73,re75,re72,re70,re83,re78,re76,re77,re74,**
+PWY-6535	1	re2,re4,**
+PWY-6537	1	re3,re2,re5,**
+PWY-6543	1	re3,re6,**
+PWY-6556	2	re8,re7,re12,re6,re2,re5,re9,**re3,**
+PWY-66	1	re2,re4,**
+PWY-6605	2	re8,re5,re6,re4,**re7,re2,**
+PWY-6608	11	re14,re20,**re25,re45,re44,re49,re42,re39,re12,re41,re16,re35,re34,re7,re40,re2,re43,re15,re47,re23,re10,re48,**re26,**re5,re11,re6,**re22,re18,**re8,**re28,**re13,re9,**re19,re21,**re27,**re17,re24,**
+PWY-6609	1	re17,re16,re2,re19,re10,re11,re13,re9,re3,re14,re4,re8,re7,re5,**
+PWY-6611	1	re7,re8,re10,re6,re5,re14,re4,re11,re2,re3,re13,**
+PWY-6614	4	re6,re5,**re9,re4,**re11,**re2,re7,**
+PWY-6617	0
+PWY-6618	2	re3,**re2,**
+PWY-6620	1	re11,re4,re9,re13,re12,re17,re10,re8,re3,re15,re2,re7,re16,**
+PWY-6690	1	re3,re15,re9,re13,re4,re16,re10,re12,re18,re19,**
+PWY-6700	1	re2,re4,re6,re8,**
+PWY-6703	1	re2,re4,re7,re6,**
+PWY-6708	1	re16,re14,re12,re9,re7,re5,re2,re10,re4,**
+PWY-6823	1	re19,re22,re16,re17,re18,re14,re23,re20,re2,re5,re12,re8,re10,**
+PWY-6890	1	re5,re3,re2,**
+PWY-6892	1	re8,re7,re9,re17,re16,re15,re20,re21,re14,re18,re12,re3,re10,re5,re23,**
+PWY-6894	1	re4,re2,re5,**
+PWY-6897	4	re10,re14,re4,re7,re2,re5,**re11,**re12,**re9,**
+PWY-6910	4	re3,re7,**re4,**re5,**re2,**
+PWY-6952	1	re2,re8,re11,re6,re3,re5,**
+PWY-6961	1	re5,re3,re7,re9,re11,re2,**
+PWY-7176	5	re7,re18,re9,re2,re5,re14,re19,re8,re20,re15,re16,re6,**re11,**re12,**re10,**re4,**
+PWY-7179	1	re7,re8,re10,re6,re4,re5,re11,re2,re3,**
+PWY-7180	4	re2,re5,re9,re10,**re7,**re3,**re8,**
+PWY-7181	2	re2,**re5,re6,re3,**
+PWY-7183	1	re2,**
+PWY-7184	1	re7,re18,re25,re33,re23,re10,re16,re20,re2,re4,re22,re12,re35,re27,re8,re31,re34,re32,re24,re5,re11,re26,re9,re21,re6,re28,**
+PWY-7187	1	re35,re32,re33,re34,re12,re18,re20,re27,re9,re30,re2,re25,re36,re26,re4,re10,re11,re22,re13,re7,re28,re24,re14,re23,re8,re6,re5,re29,**
+PWY-7193	2	re6,re2,re5,re8,re7,**re3,**
+PWY-7194	2	re2,re5,**re3,**
+PWY-7195	1	re12,re3,re11,re7,re2,re5,re9,re8,**
+PWY-7197	6	re8,re18,re11,re17,re2,re12,re5,re10,re16,**re14,**re13,**re15,**re4,re9,**re7,**
+PWY-7205	6	re12,**re6,re14,re9,re16,re10,re3,re8,re15,**re13,**re11,**re2,re7,**re5,**
+PWY-7206	1	re7,re12,re2,re3,re9,re17,re4,re8,re6,re5,re16,re10,re11,**
+PWY-7219	2	re5,re18,re2,re4,**re7,**
+PWY-7220	1	re25,re28,re27,re29,re30,re39,re22,re17,re31,re38,re19,re18,re5,re20,re14,re3,re6,re4,re21,re11,re7,re24,re12,re13,re23,**
+PWY-7221	6	re9,re18,**re14,re22,re16,re12,re21,re15,re23,**re5,re6,re8,re19,re2,re4,**re17,**re11,**re13,**
+PWY-7222	1	re25,re12,re38,re29,re26,re13,re10,re11,re3,re6,re4,re28,re39,re24,re14,re21,re27,re18,re32,re5,re19,re31,re7,re20,re30,**
+PWY-7242	1	re8,re10,re4,re6,re9,re2,**
+PWY-7247	2	re5,re6,re2,**re3,**
+PWY-7315	1	re6,re9,re4,re2,**
+PWY-7335	1	re4,re2,**
+PWY-7343	1	re4,re6,re5,re2,**
+PWY-7344	1	re2,**
+PWY-7346	1	re2,**
+PWY-7446	3	re5,**re9,re7,re2,re4,**re10,**
+PWY-7544	1	re6,re2,re3,**
+PWY-7545	1	re6,re2,re3,**
+PWY-901	1	re2,re4,**
+PWY0-1021	1	re3,re8,re9,re2,re6,re4,re5,**
+PWY0-1182	2	re4,**re2,**
+PWY0-1221	2	re9,re7,re5,re2,**re4,**
+PWY0-1241	1	re9,re3,re5,re2,re7,**
+PWY0-1261	3	re26,re22,re9,re21,re27,re6,re4,re2,re12,re14,re16,re15,re19,re18,**re7,**re24,**
+PWY0-1264	1	re6,re9,re12,re2,re4,**
+PWY0-1275	1	re4,re3,re6,re2,re5,re7,re8,re10,**
+PWY0-1277	3	re16,re12,re6,re2,re30,re27,re23,re21,re15,re11,re5,re3,re8,re9,re28,**re25,**re26,**
+PWY0-1280	2	re6,re3,**re5,re2,**
+PWY0-1295	2	re2,re5,re8,**re3,re9,re7,**
+PWY0-1296	1	re7,re9,re10,re11,re2,re16,re3,re8,re5,re6,re13,re17,re14,**
+PWY0-1299	1	re2,**
+PWY0-1300	1	re2,re4,**
+PWY0-1301	1	re2,**
+PWY0-1303	1	re2,re5,re3,**
+PWY0-1305	1	re2,**
+PWY0-1306	1	re2,**
+PWY0-1309	2	re6,**re2,re5,re3,**
+PWY0-1312	1	re6,re3,re2,re5,re8,**
+PWY0-1313	1	re3,re2,**
+PWY0-1314	1	re2,**
+PWY0-1315	2	re3,**re2,**
+PWY0-1317	2	re3,re5,**re2,**
+PWY0-1319	1	re33,re34,re37,re38,re36,re24,re19,re21,re35,re32,re25,re27,re2,re23,re26,re30,re39,re4,re10,re7,re5,re9,re6,re8,re11,re16,re15,re14,re12,re17,re13,re18,**
+PWY0-1321	3	re12,re13,**re14,**re7,**
+PWY0-1324	1	re4,re5,re7,re2,**
+PWY0-1329	1	re3,**
+PWY0-1334	3	re3,**re20,**re4,**
+PWY0-1335	3	re3,**re20,**re4,**
+PWY0-1336	2	re3,**re4,re20,**
+PWY0-1337	2	re8,re6,re11,re2,**re9,re7,re4,re5,re10,**
+PWY0-1338	1	re3,re5,re2,re7,re10,re9,**
+PWY0-1347	2	re3,**re4,re20,**
+PWY0-1348	2	re3,**re4,re20,**
+PWY0-1352	4	re21,re20,**re22,**re4,**re3,**
+PWY0-1353	1	re8,**
+PWY0-1355	1	re7,re12,**
+PWY0-1356	1	re7,re12,**
+PWY0-1391	1	re2,re3,re4,**
+PWY0-1433	2	re3,**re7,re5,re8,re2,**
+PWY0-1458	0
+PWY0-1465	3	re2,**re3,**re4,**
+PWY0-1466	1	re2,**
+PWY0-1468	0
+PWY0-1470	0
+PWY0-1471	3	re3,re12,re2,re13,re16,re5,re7,re14,**re10,**re9,**
+PWY0-1474	0
+PWY0-1477	1	re3,**
+PWY0-1479	2	re29,re3,re27,re21,re31,re32,re2,re14,re19,re33,re26,re13,re11,re30,re20,re8,re10,re23,re25,**re7,**
+PWY0-1481	0
+PWY0-1482	0
+PWY0-1483	0
+PWY0-1485	0
+PWY0-1487	0
+PWY0-1490	0
+PWY0-1492	0
+PWY0-1493	0
+PWY0-1495	0
+PWY0-1497	0
+PWY0-1498	0
+PWY0-1499	0
+PWY0-1500	0
+PWY0-1501	0
+PWY0-1503	0
+PWY0-1505	0
+PWY0-1506	0
+PWY0-1507	1	re6,re2,re4,**
+PWY0-1509	0
+PWY0-1512	0
+PWY0-1514	0
+PWY0-1515	0
+PWY0-1517	1	re2,re6,re5,re3,**
+PWY0-1518	1	re3,re2,re4,re5,re11,re8,re9,re7,re6,re10,**
+PWY0-1519	0
+PWY0-1527	1	re3,re2,**
+PWY0-1533	1	re3,re9,re11,re13,**
+PWY0-1534	1	re2,re3,re4,re5,re6,re8,re10,re9,**
+PWY0-1535	1	re2,**
+PWY0-1544	1	re3,re8,re10,re9,**
+PWY0-1545	3	re2,re4,re10,**re6,**re7,**
+PWY0-1546	5	re3,**re13,**re12,**re5,**re2,re7,re9,re11,**
+PWY0-1550	0
+PWY0-1554	1	re4,re2,**
+PWY0-1559	0
+PWY0-1561	1	re5,re2,**
+PWY0-1565	1	re5,re2,**
+PWY0-1567	3	re7,re2,**re3,**re4,**
+PWY0-1568	3	re7,re2,**re3,**re4,**
+PWY0-1569	1	re4,re6,re2,re7,**
+PWY0-1573	3	re9,**re7,re3,re8,re2,**re4,**
+PWY0-1576	1	re3,re9,**
+PWY0-1577	1	re8,re3,**
+PWY0-1578	1	re3,re13,**
+PWY0-1581	2	re8,re3,re9,**re10,**
+PWY0-1582	1	re3,re8,**
+PWY0-1584	1	re4,re11,re3,**
+PWY0-1585	1	re7,re12,re13,**
+PWY0-1586	2	re28,re2,re6,re22,re5,re29,re23,re24,re13,**re11,**
+PWY0-1587	2	re9,re3,**re7,**
+PWY0-163	5	re20,re17,**re22,re30,re5,re31,re8,re33,re9,re28,re16,re14,re2,re7,re32,re25,re12,re24,re19,re27,re6,re23,**re11,**re10,**re4,**
+PWY0-181	2	re2,**re3,re6,re5,re8,re9,**
+PWY0-301	1	re8,re4,re2,re6,**
+PWY0-321	2	re2,re7,re18,re20,re21,re15,re13,re4,re16,**re22,**
+PWY0-381	1	re4,re10,re7,re8,re5,re2,re13,**
+PWY0-41	1	re2,re4,re6,re10,re12,re8,**
+PWY0-42	1	re3,re7,re12,re11,re16,re6,re9,re13,re15,re2,**
+PWY0-43	1	re6,re2,re4,**
+PWY0-44	2	re7,re2,re5,**re3,**
+PWY0-461	1	re2,**
+PWY0-501	2	re10,re20,re15,re17,re18,re16,re14,re13,re12,**re6,re5,re7,re4,re2,**
+PWY0-521	1	re6,re4,re2,**
+PWY0-522	1	re4,re3,re6,re2,re5,re7,re8,**
+PWY0-541	1	re2,**
+PWY0-661	3	re5,**re2,**re3,**
+PWY0-662	1	re2,**
+PWY0-823	1	re2,re5,**
+PWY0-862	2	re58,re10,re41,re5,re35,re27,re50,re7,re36,re12,re37,re21,re55,re13,re38,re22,re56,re14,re39,re23,re57,re15,re40,re33,re2,re3,re45,re18,re52,re74,re61,re26,re43,re53,re16,re34,re20,re54,re11,re42,re19,re29,re49,re8,re46,re44,re25,re30,re48,re9,re28,re51,re6,re73,re24,re59,re4,re31,**re63,re75,re65,re68,re66,re71,re69,re70,re67,**
+PWY0-901	1	re2,re4,re7,re6,**
+PWY0-981	1	re2,**
+PWY3O-4106	1	re3,re2,**
+PYRIDNUCSAL-PWY	1	re4,re9,re2,re8,re11,re12,re6,**
+PYRIDNUCSYN-PWY	1	re12,re9,re7,re2,re4,re11,re5,**
+PYRIDOXSYN-PWY	1	re5,re11,re14,re15,re13,re17,re18,re9,re2,re3,re7,**
+PYRUVDEHYD-PWY	2	re14,re3,re20,re21,re4,re5,re22,re12,re17,re16,re18,re13,re9,re6,re10,**re8,**
+RHAMCAT-PWY	2	re7,**re9,re6,re10,re4,re2,**
+RIBOKIN-PWY	1	re4,re5,re2,**
+RIBOSYN2-PWY	1	re5,re7,re18,re15,re16,re9,re2,re3,re10,re13,**
+SALVADEHYPOX-PWY	27	re38,re32,**re64,**re43,re8,re7,re14,re6,re4,re34,re65,re13,re5,re2,re30,re10,re28,re66,re3,re25,re41,re33,re18,re17,re11,**re44,**re23,re24,re29,**re40,re36,**re71,**re60,**re67,re27,re31,**re69,re50,re26,re68,re57,re58,**re46,**re75,**re22,**re53,**re52,**re45,**re59,**re70,**re62,**re72,**re37,re39,**re56,**re73,**re35,re42,**re61,**re74,**re63,**
+SALVPURINE2-PWY	1	re9,re7,re8,re6,re4,re3,re2,**
+SAM-PWY	1	re2,**
+SERDEG-PWY	2	re5,**re2,**
+SERSYN-PWY	1	re6,re4,re2,re10,re7,re8,re3,**
+SO4ASSIM-PWY	2	re4,**re10,re13,re2,re6,**
+SORBDEG-PWY	1	re2,**
+TCA	3	re31,re23,re35,re34,re33,re14,re17,re11,re51,re4,re2,re6,re30,re37,re26,re22,re27,re49,re8,re40,re39,re25,re50,re16,re18,re29,**re21,**re42,**
+THIOREDOX-PWY	1	re2,**
+THRDLCTCAT-PWY	1	re6,re5,re2,re9,re7,re8,**
+THREONINE-DEG2-PWY	1	re2,re5,**
+TREDEGLOW-PWY	1	re2,re4,**
+TRESYN-PWY	1	re2,re4,**
+TRNA-CHARGING-PWY	1	re31,re28,re4,re22,re46,re14,re16,re37,re40,re12,re18,re47,re2,re29,re24,re8,re43,re6,re10,re26,re34,re20,**
+TRPSYN-PWY	1	re6,re8,re3,re2,re11,re12,re13,**
+TRYPDEG-PWY	1	re2,re3,**
+TYRSYN	1	re7,re3,re4,re8,re5,re2,re9,re14,re11,re12,**
+UDPNAGSYN-PWY	1	re9,re8,re3,re2,re5,re11,re7,**
+VALSYN-PWY	2	re16,re17,re11,re12,re3,re7,re6,re24,re8,re5,re2,**re13,**
+XYLCAT-PWY	2	re5,re2,**re3,**
