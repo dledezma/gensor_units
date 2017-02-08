@@ -1,0 +1,6 @@
+re1	gsk_mRNA	reactant
+re1	Gsk	product
+re2	guanosine	reactant
+re2	guanylate	product
+re3	inosine	reactant
+re3	5'-IMP	product

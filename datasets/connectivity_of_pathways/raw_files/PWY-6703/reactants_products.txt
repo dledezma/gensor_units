@@ -1,0 +1,17 @@
+re1	folE_mRNA	reactant
+re1	FolE	product
+re2	guanosine-triphosphate	reactant
+re2	formate	product
+re2	H2NTP	product
+re3	queD_mRNA	reactant
+re3	QueD	product
+re4	H2NTP	reactant
+re4	6-carboxytetrahydropterin	product
+re4	ethanal	product
+re4	P3,i	product
+re5	queC_mRNA	reactant
+re5	QueC	product
+re6	7-carboxy-7-deazaguanine	reactant
+re6	ammonium	reactant
+re6	phosphate	product
+re6	preQ0	product

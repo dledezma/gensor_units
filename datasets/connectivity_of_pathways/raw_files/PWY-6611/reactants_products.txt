@@ -1,0 +1,44 @@
+re1	deoD_mRNA	reactant
+re1	DeoD	product
+re2	nebularine	reactant
+re2	phosphate	reactant
+re2	ribose-1-phosphate	product
+re2	purine base	product
+re3	phosphate	reactant
+re3	guanosine	reactant
+re3	ribose-1-phosphate	product
+re3	guanine	product
+re4	deoxyguanosine	reactant
+re4	phosphate	reactant
+re4	deoxy-D-ribose 1-phosphate	product
+re4	guanine	product
+re5	phosphate	reactant
+re5	inosine	reactant
+re5	ribose-1-phosphate	product
+re5	hypoxanthine	product
+re6	deoxyinosine	reactant
+re6	phosphate	reactant
+re6	deoxy-D-ribose 1-phosphate	product
+re6	hypoxanthine	product
+re7	phosphate	reactant
+re7	adenosine	reactant
+re7	ribose-1-phosphate	product
+re7	adenine	product
+re8	deoxyadenosine	reactant
+re8	phosphate	reactant
+re8	deoxy-D-ribose 1-phosphate	product
+re8	adenine	product
+re9	add_mRNA	reactant
+re9	Add	product
+re10	deoxyadenosine	reactant
+re10	deoxyinosine	product
+re10	ammonium	product
+re11	adenosine	reactant
+re11	ammonium	product
+re11	inosine	product
+re12	gsk_mRNA	reactant
+re12	Gsk	product
+re13	guanosine	reactant
+re13	guanylate	product
+re14	inosine	reactant
+re14	5'-IMP	product

@@ -1,0 +1,23 @@
+re1	queF_mRNA	reactant
+re1	QueF	product
+re2	preQ0	reactant
+re2	preQ1	product
+re3	tgt_mRNA	reactant
+re3	Tgt	product
+re4	guanine34 in tRNA	reactant
+re4	preQ1	reactant
+re4	7-aminomethyl-7-deazaguanosine34 in tRNA	product
+re4	guanine	product
+re5	queA_mRNA	reactant
+re5	QueA	product
+re6	7-aminomethyl-7-deazaguanosine34 in tRNA	reactant
+re6	SAM	reactant
+re6	epoxyqueuosine34 in tRNA	product
+re6	methionine	product
+re6	adenine	product
+re7	queG_mRNA	reactant
+re7	QueG	product
+re8	epoxyqueuosine34 in tRNA	reactant
+re8	A(H2)	reactant
+re8	tRNA containing queuosine	product
+re8	acceptors	product

@@ -1,0 +1,2 @@
+re1	amn_mRNA	reactant
+re1	Amn	product

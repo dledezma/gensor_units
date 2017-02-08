@@ -1,0 +1,10 @@
+re1	puuE_mRNA	reactant
+re1	PuuE	product
+re2	ketoglutarate	reactant
+re2	GABA	reactant
+re2	L-glutamate	product
+re2	succ-S-ald	product
+re3	sad_mRNA	reactant
+re3	Sad	product
+re4	succ-S-ald	reactant
+re4	succinate	product
