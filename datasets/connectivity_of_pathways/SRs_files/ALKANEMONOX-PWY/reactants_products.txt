@@ -1,0 +1,30 @@
+re1	ssuE_mRNA	reactant
+re1	SsuE	product
+re2	flavin mononucleotide	reactant
+re2	Reduced FMN	product
+re3	ssuD_mRNA	reactant
+re3	SsuD	product
+re4	alkanesulfonate	reactant
+re4	Reduced FMN	reactant
+re4	oxygen	reactant
+re4	flavin mononucleotide	product
+re4	sulfite	product
+re4	RCHO	product
+re5	Reduced FMN	reactant
+re5	oxygen	reactant
+re5	MOPS	reactant
+re5	flavin mononucleotide	product
+re5	3-morpholinopropanal	product
+re5	sulfite	product
+re6	butanesulfonate	reactant
+re6	Reduced FMN	reactant
+re6	oxygen	reactant
+re6	flavin mononucleotide	product
+re6	sulfite	product
+re6	butanal	product
+re7	Reduced FMN	reactant
+re7	isethionate	reactant
+re7	oxygen	reactant
+re7	flavin mononucleotide	product
+re7	glycoaldehyde	product
+re7	sulfite	product

@@ -1,0 +1,18 @@
+re1	ansB_mRNA	reactant
+re1	AnsB	product
+re2	asparagine	reactant
+re2	aspartate	product
+re2	ammonium	product
+re3	ansB_mRNA	reactant
+re3	AsnII	product
+re4	ansA_mRNA	reactant
+re4	AnsA	product
+re5	ansA_mRNA	reactant
+re5	AnsI	product
+re6	iaaA_mRNA	reactant
+re6	IaaA	product
+re7	IaaA	reactant
+re7	IaaA-IaaA	product
+re8	beta-aspartyl dipeptide	reactant
+re8	amino acids	product
+re8	aspartate	product

@@ -1,0 +1,12 @@
+re1	araA_mRNA	reactant
+re1	AraA	product
+re2	arabinose	reactant
+re2	ribulose	product
+re3	araD_mRNA	reactant
+re3	AraD	product
+re4	ribulose-5-P	reactant
+re4	xylulose-P	product
+re5	araB_mRNA	reactant
+re5	AraB	product
+re6	ribulose	reactant
+re6	ribulose-5-P	product

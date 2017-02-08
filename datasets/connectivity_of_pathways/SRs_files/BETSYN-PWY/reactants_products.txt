@@ -1,0 +1,10 @@
+re1	betA_mRNA	reactant
+re1	BetA	product
+re2	acceptors	reactant
+re2	choline	reactant
+re2	betaine aldehyde	product
+re2	A(H2)	product
+re3	betB_mRNA	reactant
+re3	BetB	product
+re4	betaine aldehyde	reactant
+re4	betaine	product

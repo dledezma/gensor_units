@@ -1,0 +1,18 @@
+re1	atoB_mRNA	reactant
+re1	AtoB	product
+re2	acetyl-CoA	reactant
+re2	acetoacetyl-CoA	product
+re2	coenzyme A	product
+re3	atoA_mRNA	reactant
+re3	AtoA	product
+re4	AtoD	reactant
+re4	AtoA	reactant
+re4	AtoA-AtoD	product
+re5	oxobutyrate	reactant
+re5	acetyl-CoA	reactant
+re5	acetoacetyl-CoA	product
+re5	acetate	product
+re6	atoD_mRNA	reactant
+re6	AtoD	product
+re7	ydiF_mRNA	reactant
+re7	YdiF	product

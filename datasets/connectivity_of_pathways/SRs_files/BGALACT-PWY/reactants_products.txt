@@ -1,0 +1,7 @@
+re1	lacZ_mRNA	reactant
+re1	LacZ	product
+re2	lactose	reactant
+re2	galactopyranose	product
+re2	glucopyranose	product
+re3	lactose	reactant
+re3	allolactose	product

@@ -1,0 +1,18 @@
+re1	alr_mRNA	reactant
+re1	Alr	product
+re2	alanine	reactant
+re2	ala	product
+re3	dadX_mRNA	reactant
+re3	DadX	product
+re4	dadA_mRNA	reactant
+re4	DadA	product
+re5	electron-transfer quinone	reactant
+re5	D-amino acid	reactant
+re5	electron-transfer quinol	product
+re5	2-oxo acid	product
+re5	ammonium	product
+re6	electron-transfer quinone	reactant
+re6	ala	reactant
+re6	electron-transfer quinol	product
+re6	pyruvate	product
+re6	ammonium	product
