@@ -1,0 +1,18 @@
+re1	glyA_mRNA	reactant
+re1	GlyA	product
+re2	THF polyglutamate	reactant
+re2	serine	reactant
+re2	methylene-H4PteGlu(n)	product
+re2	glycine	product
+re3	CH-THF mono-L-glutamate	reactant
+re3	folinate	product
+re4	vitamin B6	reactant
+re4	ala	reactant
+re4	pyridoxamine phosphate	product
+re4	pyruvate	product
+re5	allo-thr	reactant
+re5	ethanal	product
+re5	glycine	product
+re6	allo-threonine	reactant
+re6	ethanal	product
+re6	glycine	product

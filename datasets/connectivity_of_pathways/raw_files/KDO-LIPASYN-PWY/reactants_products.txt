@@ -1,0 +1,51 @@
+re1	lpxL_mRNA	reactant
+re1	LpxL	product
+re2	(Kdo)2-lipid IVA	reactant
+re2	lauryl-[acp]	reactant
+re2	lauroyl-(Kdo)2-lipid IV (A)	product
+re2	AcpP	product
+re3	lpxM_mRNA	reactant
+re3	LpxM	product
+re4	Kdo2-(palmitoleoyl)-lipid IVA	reactant
+re4	myristoyl-[acp]	reactant
+re4	cold adapted Kdo(2)-lipid (A)	product
+re4	AcpP	product
+re5	lauroyl-(Kdo)2-lipid IV (A)	reactant
+re5	myristoyl-[acp]	reactant
+re5	Re endotoxin	product
+re5	AcpP	product
+re6	acpP_mRNA	reactant
+re6	AcpP	product
+re7	entB_mRNA	reactant
+re7	EntB	product
+re8	isochorismate	reactant
+re8	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	product
+re8	pyruvate	product
+re9	EntD	reactant
+re9	EntE	reactant
+re9	EntB	reactant
+re9	EntF	reactant
+re9	EntB-EntD-EntF-EntE	product
+re10	2-pyrocatechuate	reactant
+re10	serine	reactant
+re10	enterobactin	product
+re10	diphosphate	product
+re11	2-pyrocatechuate	reactant
+re11	2,3-dihydroxybenzoyl-AMP	product
+re11	diphosphate	product
+re12	2,3-dihydroxybenzoyl-AMP	reactant
+re12	holo EntB monomer	reactant
+re12	2,3-dihydroxybenzoyl-EntB	product
+re13	serine	reactant
+re13	diphosphate	product
+re13	seryl-AMP	product
+re14	holo-[EntF peptidyl-carrier protein]	reactant
+re14	seryl-AMP	reactant
+re14	seryl-[EntF peptidyl-carrier protein]	product
+re15	seryl-[EntF peptidyl-carrier protein]	reactant
+re15	2,3-dihydroxybenzoyl-EntB	reactant
+re15	DHB-seryl-[EntF peptidyl-carrier protein]	product
+re15	holo EntB monomer	product
+re16	DHB-seryl-[EntF peptidyl-carrier protein]	reactant
+re16	holo-[EntF peptidyl-carrier protein]	product
+re16	enterobactin	product

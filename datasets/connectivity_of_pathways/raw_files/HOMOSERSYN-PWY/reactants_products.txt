@@ -1,0 +1,15 @@
+re1	lysC_mRNA	reactant
+re1	LysC	product
+re2	aspartate	reactant
+re2	aspartyl-4-P	product
+re3	asd_mRNA	reactant
+re3	Asd	product
+re4	aspartate-semialdehyde	reactant
+re4	phosphate	reactant
+re4	aspartyl-4-P	product
+re5	thrA_mRNA	reactant
+re5	ThrA	product
+re6	aspartate-semialdehyde	reactant
+re6	homo-ser	product
+re7	metL_mRNA	reactant
+re7	MetL	product

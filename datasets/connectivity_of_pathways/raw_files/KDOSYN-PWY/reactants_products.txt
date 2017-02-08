@@ -1,0 +1,10 @@
+re1	waaA_mRNA	reactant
+re1	WaaA	product
+re2	(KDO)-lipid IVA	reactant
+re2	CMP-Kdo	reactant
+re2	(Kdo)2-lipid IVA	product
+re2	cytidylate	product
+re3	lipid IVA	reactant
+re3	CMP-Kdo	reactant
+re3	(KDO)-lipid IVA	product
+re3	cytidylate	product
