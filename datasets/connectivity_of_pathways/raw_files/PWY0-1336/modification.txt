@@ -1,0 +1,3 @@
+re20	CATALYSIS	FrdA-FrdB-FrdC-FrdD
+re3	CATALYSIS	NuoA-NuoH-NuoJ-NuoK-NuoL-NuoM-NuoN-NuoI-NuoG-NuoF-NuoE-NuoC-NuoB
+re4	CATALYSIS	NuoA-NuoH-NuoJ-NuoK-NuoL-NuoM-NuoN-NuoI-NuoG-NuoF-NuoE-NuoC-NuoB

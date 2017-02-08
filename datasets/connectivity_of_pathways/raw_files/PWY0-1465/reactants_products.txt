@@ -1,0 +1,9 @@
+re1	dmlA_mRNA	reactant
+re1	DmlA	product
+re2	malate	reactant
+re2	pyruvate	product
+re2	CO2	product
+re3	3-isopropylmalate	reactant
+re3	2-isopropyl-3-oxosuccinate	product
+re4	tartrate	reactant
+re4	Oxaloglycolate	product

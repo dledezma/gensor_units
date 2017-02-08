@@ -1,0 +1,11 @@
+re1	mtn_mRNA	reactant
+re1	Mtn	product
+re2	adenosylhomocysteine	reactant
+re2	S-Ribosylhomocysteine	product
+re2	adenine	product
+re3	methylthioadenosine	reactant
+re3	5-methylthioribose	product
+re3	adenine	product
+re4	5'-deoxyadenosine	reactant
+re4	5'-deoxyribose	product
+re4	adenine	product

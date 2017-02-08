@@ -1,0 +1,6 @@
+re1	dcuR_mRNA	reactant
+re1	DcuR	product
+re2	dcuS_mRNA	reactant
+re2	DcuS	product
+re3	dcuS_mRNA	reactant
+re3	YjdH	product

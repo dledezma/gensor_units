@@ -1,0 +1,2 @@
+re12	CATALYSIS	TorC-TorA
+re7	CATALYSIS	FdoG-FdoH-FdoI

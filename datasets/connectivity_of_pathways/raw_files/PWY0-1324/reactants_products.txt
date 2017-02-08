@@ -1,0 +1,16 @@
+re1	nanE_mRNA	reactant
+re1	NanE	product
+re2	ManNAc-6-P	reactant
+re2	N-acetyl-alpha-D-glucosamine 6-phosphate	product
+re3	nanA_mRNA	reactant
+re3	NanA	product
+re4	N-acetylneuraminate	reactant
+re4	N-acetyl-beta-D-mannosamine	product
+re4	pyruvate	product
+re5	beta-Neu5Ac	reactant
+re5	N-acetyl-beta-D-mannosamine	product
+re5	pyruvate	product
+re6	nanK_mRNA	reactant
+re6	NanK	product
+re7	N-acetyl-beta-D-mannosamine	reactant
+re7	ManNAc-6-P	product
