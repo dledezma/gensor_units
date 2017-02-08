@@ -1,0 +1,15 @@
+re1	scpA_mRNA	reactant
+re1	ScpA	product
+re2	CH3-malonyl-CoA	reactant
+re2	suc-coa	product
+re3	scpB_mRNA	reactant
+re3	ScpB	product
+re4	CH3-malonyl-CoA	reactant
+re4	propanoyl-CoA	product
+re4	CO2	product
+re5	scpC_mRNA	reactant
+re5	ScpC	product
+re6	propanoyl-CoA	reactant
+re6	succinate	reactant
+re6	propanoate	product
+re6	suc-coa	product

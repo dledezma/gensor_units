@@ -1,0 +1,107 @@
+re1	nrdA_mRNA	reactant
+re1	NrdA	product
+re2	NrdB	reactant
+re2	NrdA	reactant
+re2	NrdA-NrdB	product
+re3	nucleoside diphosphate	reactant
+re3	reduced thioredoxin	reactant
+re3	deoxynucleoside diphosphate	product
+re3	thioredoxin disulfide	product
+re4	cytidine-diphosphate	reactant
+re4	reduced thioredoxin	reactant
+re4	thioredoxin disulfide	product
+re4	dCDP	product
+re5	reduced thioredoxin	reactant
+re5	uridine-diphosphate	reactant
+re5	thioredoxin disulfide	product
+re5	dUDP	product
+re6	thioredoxin disulfide	reactant
+re6	dADP	reactant
+re6	reduced thioredoxin	product
+re7	guanosine-diphosphate	reactant
+re7	reduced thioredoxin	reactant
+re7	thioredoxin disulfide	product
+re7	dGDP	product
+re8	nrdB_mRNA	reactant
+re8	NrdB	product
+re9	nrdE_mRNA	reactant
+re9	NrdE	product
+re10	NrdE	reactant
+re10	NrdF	reactant
+re10	NrdE-NrdF	product
+re11	cytidine-diphosphate	reactant
+re11	YgaN	reactant
+re11	oxidized NrdH glutaredoxin-like protein	product
+re11	dCDP	product
+re12	guanosine-diphosphate	reactant
+re12	YgaN	reactant
+re12	oxidized NrdH glutaredoxin-like protein	product
+re12	dGDP	product
+re13	YgaN	reactant
+re13	oxidized NrdH glutaredoxin-like protein	product
+re13	dADP	product
+re14	uridine-diphosphate	reactant
+re14	YgaN	reactant
+re14	oxidized NrdH glutaredoxin-like protein	product
+re14	dUDP	product
+re15	nrdF_mRNA	reactant
+re15	NrdF	product
+re16	ndk_mRNA	reactant
+re16	Ndk	product
+re17	nucleoside diphosphate	reactant
+re17	nucleoside triphosphate	product
+re18	uridine-diphosphate	reactant
+re18	uridine-triphosphate	product
+re19	cytidine-diphosphate	reactant
+re19	cytidine-triphosphate	product
+re20	dUDP	reactant
+re20	dUTP	product
+re21	dCDP	reactant
+re21	dCTP	product
+re22	dTDP	reactant
+re22	dTTP	product
+re23	dADP	reactant
+re23	dATP	product
+re24	dGDP	reactant
+re24	dGTP	product
+re25	guanosine-diphosphate	reactant
+re25	guanosine-triphosphate	product
+re26	nrdD_mRNA	reactant
+re26	NrdD	product
+re27	FldA	reactant
+re27	FldA	product
+re27	dATP	product
+re28	guanosine-triphosphate	reactant
+re28	FldA	reactant
+re28	FldA	product
+re28	dGTP	product
+re29	uridine-triphosphate	reactant
+re29	FldA	reactant
+re29	FldA	product
+re29	dUTP	product
+re30	cytidine-triphosphate	reactant
+re30	FldA	reactant
+re30	FldA	product
+re30	dCTP	product
+re31	nucleoside triphosphate	reactant
+re31	FldA	reactant
+re31	deoxynucleoside triphosphate	product
+re31	FldA	product
+re32	NrdG	reactant
+re32	NrdD	reactant
+re32	Fpr	reactant
+re32	NrdD-NrdG-Fpr	product
+re33	fldA_mRNA	reactant
+re33	FldA	product
+re34	nrdH_mRNA	reactant
+re34	NrdH	product
+re35	trxA_mRNA	reactant
+re35	TrxA	product
+re36	trxC_mRNA	reactant
+re36	TrxC	product
+re37	uridine-triphosphate	reactant
+re37	cytidine-diphosphate	product
+re38	dUTP	reactant
+re38	dTDP	product
+re39	dCTP	reactant
+re39	dTDP	product

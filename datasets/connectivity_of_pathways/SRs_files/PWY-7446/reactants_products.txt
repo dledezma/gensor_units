@@ -1,0 +1,21 @@
+re1	yihT_mRNA	reactant
+re1	YihT	product
+re2	6-deoxy-6-sulfofructose 1-phosphate	reactant
+re2	sulfolactaldehyde	product
+re2	DHAP	product
+re3	yihU_mRNA	reactant
+re3	YihU	product
+re4	sulfolactaldehyde	reactant
+re4	2,3-dihydroxypropane 1-sulfonate	product
+re5	4-OH-but	reactant
+re5	succ-S-ald	product
+re6	yihV_mRNA	reactant
+re6	YihV	product
+re7	6-deoxy-6-sulfofructose	reactant
+re7	6-deoxy-6-sulfofructose 1-phosphate	product
+re8	yihS_mRNA	reactant
+re8	YihS	product
+re9	sulfoquinovose	reactant
+re9	6-deoxy-6-sulfofructose	product
+re10	aldehydo-D-mannose	reactant
+re10	keto-D-fructose	product

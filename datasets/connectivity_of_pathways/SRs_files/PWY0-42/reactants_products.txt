@@ -1,0 +1,41 @@
+re1	acs_mRNA	reactant
+re1	Acs	product
+re2	coenzyme A	reactant
+re2	acetate	reactant
+re2	diphosphate	product
+re2	acetyl-CoA	product
+re3	propanoate	reactant
+re3	coenzyme A	reactant
+re3	propanoyl-CoA	product
+re3	diphosphate	product
+re4	prpE_mRNA	reactant
+re4	PrpE	product
+re5	prpC_mRNA	reactant
+re5	PrpC	product
+re6	propanoyl-CoA	reactant
+re6	oxalacetate	reactant
+re6	(2S,3S)-2-methylcitrate	product
+re6	coenzyme A	product
+re7	oxalacetate	reactant
+re7	acetyl-CoA	reactant
+re7	coenzyme A	product
+re7	citrate	product
+re8	prpD_mRNA	reactant
+re8	PrpD	product
+re9	(2S,3S)-2-methylcitrate	reactant
+re9	2-methylaconitate	product
+re10	acnB_mRNA	reactant
+re10	AcnB	product
+re11	cis-aconitate	reactant
+re11	I-CIT	product
+re12	citrate	reactant
+re12	cis-aconitate	product
+re13	methylisocitrate	reactant
+re13	2-methylaconitate	product
+re14	prpB_mRNA	reactant
+re14	PrpB	product
+re15	methylisocitrate	reactant
+re15	succinate	product
+re15	pyruvate	product
+re16	I-CIT	reactant
+re16	oxalacetate	product

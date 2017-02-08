@@ -1,0 +1,4 @@
+re1	ugd_mRNA	reactant
+re1	Ugd	product
+re2	UDPG	reactant
+re2	udp-glcua	product

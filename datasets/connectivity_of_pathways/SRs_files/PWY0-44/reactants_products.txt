@@ -1,0 +1,14 @@
+re1	rpiB_mRNA	reactant
+re1	RpiB	product
+re2	aldehydo-D-allose-6-P	reactant
+re2	allulose-6-P	product
+re3	ribose-5P	reactant
+re3	ribulose-5P	product
+re4	alsE_mRNA	reactant
+re4	AlsE	product
+re5	allulose-6-P	reactant
+re5	fructose-6-P	product
+re6	alsK_mRNA	reactant
+re6	AlsK	product
+re7	allopyranose	reactant
+re7	aldehydo-D-allose-6-P	product
