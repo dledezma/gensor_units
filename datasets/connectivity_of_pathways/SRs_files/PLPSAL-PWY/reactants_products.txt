@@ -1,0 +1,23 @@
+re1	pdxH_mRNA	reactant
+re1	PdxH	product
+re2	pyridoxine-P	reactant
+re2	oxygen	reactant
+re2	vitamin B6	product
+re2	perhydrol	product
+re3	pyridoxamine phosphate	reactant
+re3	oxygen	reactant
+re3	vitamin B6	product
+re3	perhydrol	product
+re3	ammonium	product
+re4	pdxK_mRNA	reactant
+re4	PdxK	product
+re5	pyridoxamine	reactant
+re5	pyridoxamine phosphate	product
+re6	pyramin	reactant
+re6	HMP-P	product
+re7	pyridoxol	reactant
+re7	pyridoxine-P	product
+re8	pyridoxal	reactant
+re8	vitamin B6	product
+re9	pdxY_mRNA	reactant
+re9	PdxY	product

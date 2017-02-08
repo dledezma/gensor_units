@@ -1,0 +1,63 @@
+re1	glf_mRNA	reactant
+re1	Glf	product
+re2	UDP-galactose	reactant
+re2	UDP-Galf	product
+re3	rfbC_mRNA	reactant
+re3	RfbC	product
+re4	RfbC	reactant
+re4	RfbD	reactant
+re4	RfbC-RfbD	product
+re5	dTDP-beta-L-rhamnose	reactant
+re5	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re6	dTDP-4-keto-L-rhamnose	reactant
+re6	dTDP-beta-L-rhamnose	product
+re7	TDP-4-oxo-6-deoxy--alpha-D-glucose	reactant
+re7	dTDP-4-keto-L-rhamnose	product
+re8	rfbD_mRNA	reactant
+re8	RfbD	product
+re9	rfbB_mRNA	reactant
+re9	RfbB	product
+re10	TDP-glucose	reactant
+re10	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re11	rffG_mRNA	reactant
+re11	RffG	product
+re12	rfbA_mRNA	reactant
+re12	RfbA	product
+re13	D-glucose 1-phosphate	reactant
+re13	dTTP	reactant
+re13	diphosphate	product
+re13	TDP-glucose	product
+re14	rffH_mRNA	reactant
+re14	RffH	product
+re15	glmU_mRNA	reactant
+re15	GlmU	product
+re16	N-acetyl-alpha-D-glucosamine 1-phosphate	reactant
+re16	uridine-triphosphate	reactant
+re16	diphosphate	product
+re16	UDP-GlcNAc	product
+re17	glucosamine-1P	reactant
+re17	acetyl-CoA	reactant
+re17	N-acetyl-alpha-D-glucosamine 1-phosphate	product
+re17	coenzyme A	product
+re18	glmS_mRNA	reactant
+re18	GlmS	product
+re19	fructose-6-P	reactant
+re19	glutamine	reactant
+re19	alpha-D-glucosamine phosphate	product
+re19	L-glutamate	product
+re20	glmM_mRNA	reactant
+re20	GlmM	product
+re21	alpha-D-glucosamine phosphate	reactant
+re21	glucosamine-1P	product
+re22	phosphorylated phosphoglucosamine mutase	reactant
+re22	alpha-D-glucosamine phosphate	reactant
+re22	glucosamine 1,6-diphosphate	product
+re22	phosphoglucosamine mutase	product
+re23	glucosamine 1,6-diphosphate	reactant
+re23	phosphoglucosamine mutase	reactant
+re23	phosphorylated phosphoglucosamine mutase	product
+re23	glucosamine-1P	product
+re24	pgi_mRNA	reactant
+re24	Pgi	product
+re25	glucose-6-P	reactant
+re25	fructose-6-P	product

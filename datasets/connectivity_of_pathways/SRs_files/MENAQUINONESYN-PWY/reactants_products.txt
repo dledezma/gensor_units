@@ -1,0 +1,10 @@
+re1	ubiE_mRNA	reactant
+re1	UbiE	product
+re2	DMKH2-8	reactant
+re2	SAM	reactant
+re2	adenosylhomocysteine	product
+re2	MKH2-8	product
+re3	2-octaprenyl-6-methoxyquinol	reactant
+re3	SAM	reactant
+re3	6-methoxy-3-methyl-2-octaprenylquinol	product
+re3	adenosylhomocysteine	product

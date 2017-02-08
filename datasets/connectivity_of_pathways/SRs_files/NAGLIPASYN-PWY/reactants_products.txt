@@ -1,0 +1,69 @@
+re1	lpxB_mRNA	reactant
+re1	LpxB	product
+re2	UDP-2,3-diacyl-glucosamine	reactant
+re2	lipid X	reactant
+re2	lipid A disaccharide	product
+re2	uridine-diphosphate	product
+re3	lpxK_mRNA	reactant
+re3	LpxK	product
+re4	lipid A disaccharide	reactant
+re4	lipid IVA	product
+re5	lpxH_mRNA	reactant
+re5	LpxH	product
+re6	UDP-2,3-diacyl-glucosamine	reactant
+re6	lipid X	product
+re6	5'-UMP	product
+re7	lpxD_mRNA	reactant
+re7	LpxD	product
+re8	UDP-3-O-(3-hydroxytetradecanoyl)glucosamine	reactant
+re8	beta-hydroxymyristoyl-[acp]	reactant
+re8	UDP-2,3-diacyl-glucosamine	product
+re8	AcpP	product
+re9	lpxC_mRNA	reactant
+re9	LpxC	product
+re10	UDP-3-O-(3-hydroxymyristoyl)-N-acetylglucosamine	reactant
+re10	UDP-3-O-(3-hydroxytetradecanoyl)glucosamine	product
+re10	acetate	product
+re11	lpxA_mRNA	reactant
+re11	LpxA	product
+re12	beta-hydroxymyristoyl-[acp]	reactant
+re12	UDP-GlcNAc	reactant
+re12	UDP-3-O-(3-hydroxymyristoyl)-N-acetylglucosamine	product
+re12	AcpP	product
+re13	acpP_mRNA	reactant
+re13	AcpP	product
+re14	entB_mRNA	reactant
+re14	EntB	product
+re15	isochorismate	reactant
+re15	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	product
+re15	pyruvate	product
+re16	EntD	reactant
+re16	EntE	reactant
+re16	EntB	reactant
+re16	EntF	reactant
+re16	EntB-EntD-EntF-EntE	product
+re17	2-pyrocatechuate	reactant
+re17	serine	reactant
+re17	enterobactin	product
+re17	diphosphate	product
+re18	2-pyrocatechuate	reactant
+re18	2,3-dihydroxybenzoyl-AMP	product
+re18	diphosphate	product
+re19	2,3-dihydroxybenzoyl-AMP	reactant
+re19	holo EntB monomer	reactant
+re19	2,3-dihydroxybenzoyl-EntB	product
+re20	serine	reactant
+re20	diphosphate	product
+re20	seryl-AMP	product
+re21	holo-[EntF peptidyl-carrier protein]	reactant
+re21	seryl-AMP	reactant
+re21	seryl-[EntF peptidyl-carrier protein]	product
+re22	seryl-[EntF peptidyl-carrier protein]	reactant
+re22	2,3-dihydroxybenzoyl-EntB	reactant
+re22	DHB-seryl-[EntF peptidyl-carrier protein]	product
+re22	holo EntB monomer	product
+re23	DHB-seryl-[EntF peptidyl-carrier protein]	reactant
+re23	holo-[EntF peptidyl-carrier protein]	product
+re23	enterobactin	product
+re24	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	reactant
+re24	2-pyrocatechuate	product

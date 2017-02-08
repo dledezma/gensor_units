@@ -1,0 +1,2 @@
+re2	CATALYSIS	NadR
+re3	CATALYSIS	NadR
