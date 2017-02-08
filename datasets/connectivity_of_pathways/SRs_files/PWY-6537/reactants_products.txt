@@ -1,0 +1,14 @@
+re1	gabT_mRNA	reactant
+re1	GabT	product
+re2	ketoglutarate	reactant
+re2	GABA	reactant
+re2	L-glutamate	product
+re2	succ-S-ald	product
+re3	2-acetamido-5-oxopentanoate	reactant
+re3	L-glutamate	reactant
+re3	acetylornithine	product
+re3	ketoglutarate	product
+re4	gabD_mRNA	reactant
+re4	GabD	product
+re5	succ-S-ald	reactant
+re5	succinate	product

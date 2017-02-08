@@ -1,0 +1,64 @@
+re1	xapA_mRNA	reactant
+re1	XapA	product
+re2	xanthosine	reactant
+re2	phosphate	reactant
+re2	ribose-1-phosphate	product
+re2	xanthine	product
+re3	phosphate	reactant
+re3	inosine	reactant
+re3	ribose-1-phosphate	product
+re3	hypoxanthine	product
+re4	phosphate	reactant
+re4	guanosine	reactant
+re4	ribose-1-phosphate	product
+re4	guanine	product
+re5	ribose-1-phosphate	reactant
+re5	vitamin PP	reactant
+re5	nicotinamide ribose	product
+re5	phosphate	product
+re6	deoD_mRNA	reactant
+re6	DeoD	product
+re7	nebularine	reactant
+re7	phosphate	reactant
+re7	ribose-1-phosphate	product
+re7	purine base	product
+re8	deoxyguanosine	reactant
+re8	phosphate	reactant
+re8	deoxy-D-ribose 1-phosphate	product
+re8	guanine	product
+re9	deoxyinosine	reactant
+re9	phosphate	reactant
+re9	deoxy-D-ribose 1-phosphate	product
+re9	hypoxanthine	product
+re10	phosphate	reactant
+re10	adenosine	reactant
+re10	ribose-1-phosphate	product
+re10	adenine	product
+re11	deoxyadenosine	reactant
+re11	phosphate	reactant
+re11	deoxy-D-ribose 1-phosphate	product
+re11	adenine	product
+re12	add_mRNA	reactant
+re12	Add	product
+re13	deoxyadenosine	reactant
+re13	deoxyinosine	product
+re13	ammonium	product
+re14	adenosine	reactant
+re14	ammonium	product
+re14	inosine	product
+re15	hpt_mRNA	reactant
+re15	Hpt	product
+re16	guanine	reactant
+re16	PRPP	reactant
+re16	diphosphate	product
+re16	guanylate	product
+re17	hypoxanthine	reactant
+re17	PRPP	reactant
+re17	diphosphate	product
+re17	5'-IMP	product
+re18	gpt_mRNA	reactant
+re18	Gpt	product
+re19	xanthine	reactant
+re19	PRPP	reactant
+re19	xanthosine-5-P	product
+re19	diphosphate	product

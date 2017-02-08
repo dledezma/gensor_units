@@ -1,0 +1,144 @@
+re1	guaD_mRNA	reactant
+re1	GuaD	product
+re2	guanine	reactant
+re2	xanthine	product
+re2	ammonium	product
+re3	aphA_mRNA	reactant
+re3	AphA	product
+re4	phosphate monoester	reactant
+re4	phosphate	product
+re4	alcohol	product
+re5	mononucleotide	reactant
+re5	nucleoside	product
+re5	phosphate	product
+re6	5'-ribonucleotide	reactant
+re6	nucleoside	product
+re6	phosphate	product
+re7	guanylate	reactant
+re7	phosphate	product
+re7	guanosine	product
+re8	5'-UMP	reactant
+re8	phosphate	product
+re8	uridine	product
+re9	cytidylate	reactant
+re9	phosphate	product
+re9	cytidine	product
+re10	5'-IMP	reactant
+re10	phosphate	product
+re10	inosine	product
+re11	ribonucleoside 3'-phosphate	reactant
+re11	nucleoside	product
+re11	phosphate	product
+re12	3'-AMP	reactant
+re12	phosphate	product
+re12	adenosine	product
+re13	3'-CMP	reactant
+re13	phosphate	product
+re13	cytidine	product
+re14	deoxynucleoside monophosphate	reactant
+re14	deoxynucleoside	product
+re14	phosphate	product
+re15	dGMP	reactant
+re15	deoxyguanosine	product
+re15	phosphate	product
+re16	dAMP	reactant
+re16	deoxyadenosine	product
+re16	phosphate	product
+re17	dUMP	reactant
+re17	deoxyuridine	product
+re17	phosphate	product
+re18	dCMP	reactant
+re18	d-cytidine	product
+re18	phosphate	product
+re19	dTMP	reactant
+re19	phosphate	product
+re19	thymidine	product
+re20	deoxynucleoside 3'-phosphate	reactant
+re20	deoxynucleoside	product
+re20	phosphate	product
+re21	3' thymidylic acid	reactant
+re21	phosphate	product
+re21	thymidine	product
+re22	2'-deoxycytidine 3'-monophosphate	reactant
+re22	d-cytidine	product
+re22	phosphate	product
+re23	2'-deoxy-3'GMP	reactant
+re23	deoxyguanosine	product
+re23	phosphate	product
+re24	2'-deoxyuridine 3'-monophosphate	reactant
+re24	deoxyuridine	product
+re24	phosphate	product
+re25	2'-deoxy-3'AMP	reactant
+re25	deoxyadenosine	product
+re25	phosphate	product
+re26	phosphothreonine	reactant
+re26	phosphate	product
+re26	threonine	product
+re27	serine-3P	reactant
+re27	phosphate	product
+re27	serine	product
+re28	Phosphotyrosine	reactant
+re28	phosphate	product
+re28	tyrosine	product
+re29	umpH_mRNA	reactant
+re29	UmpH	product
+re30	umpG_mRNA	reactant
+re30	UmpG	product
+re31	yrfG_mRNA	reactant
+re31	YrfG	product
+re32	xdhA_mRNA	reactant
+re32	XdhA	product
+re33	XdhA	reactant
+re33	XdhC	reactant
+re33	XdhB	reactant
+re33	XdhA-XdhB-XdhC	product
+re34	xanthine	reactant
+re34	urate	product
+re35	hypoxanthine	reactant
+re35	xanthine	product
+re36	xdhB_mRNA	reactant
+re36	XdhB	product
+re37	xdhC_mRNA	reactant
+re37	XdhC	product
+re38	deoD_mRNA	reactant
+re38	DeoD	product
+re39	nebularine	reactant
+re39	phosphate	reactant
+re39	ribose-1-phosphate	product
+re39	purine base	product
+re40	phosphate	reactant
+re40	guanosine	reactant
+re40	ribose-1-phosphate	product
+re40	guanine	product
+re41	deoxyguanosine	reactant
+re41	phosphate	reactant
+re41	deoxy-D-ribose 1-phosphate	product
+re41	guanine	product
+re42	phosphate	reactant
+re42	inosine	reactant
+re42	ribose-1-phosphate	product
+re42	hypoxanthine	product
+re43	deoxyinosine	reactant
+re43	phosphate	reactant
+re43	deoxy-D-ribose 1-phosphate	product
+re43	hypoxanthine	product
+re44	phosphate	reactant
+re44	adenosine	reactant
+re44	ribose-1-phosphate	product
+re44	adenine	product
+re45	deoxyadenosine	reactant
+re45	phosphate	reactant
+re45	deoxy-D-ribose 1-phosphate	product
+re45	adenine	product
+re46	xapA_mRNA	reactant
+re46	XapA	product
+re47	xanthosine	reactant
+re47	phosphate	reactant
+re47	ribose-1-phosphate	product
+re47	xanthine	product
+re48	ribose-1-phosphate	reactant
+re48	vitamin PP	reactant
+re48	nicotinamide ribose	product
+re48	phosphate	product
+re49	adenosine	reactant
+re49	inosine	product

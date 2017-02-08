@@ -1,0 +1,32 @@
+re1	cdd_mRNA	reactant
+re1	Cdd	product
+re2	cytidine	reactant
+re2	ammonium	product
+re2	uridine	product
+re3	d-cytidine	reactant
+re3	deoxyuridine	product
+re3	ammonium	product
+re4	rihC_mRNA	reactant
+re4	RihC	product
+re5	uridine	reactant
+re5	ribofuranose	product
+re5	uracil	product
+re6	xanthosine	reactant
+re6	ribofuranose	product
+re6	xanthine	product
+re7	inosine	reactant
+re7	ribofuranose	product
+re7	hypoxanthine	product
+re8	adenosine	reactant
+re8	ribofuranose	product
+re8	adenine	product
+re9	cytidine	reactant
+re9	ribofuranose	product
+re9	cytosine	product
+re10	rihA_mRNA	reactant
+re10	RihA	product
+re11	rihB_mRNA	reactant
+re11	RihB	product
+re12	pyrimidine nucleoside	reactant
+re12	pyrimidine base	product
+re12	ribofuranose	product

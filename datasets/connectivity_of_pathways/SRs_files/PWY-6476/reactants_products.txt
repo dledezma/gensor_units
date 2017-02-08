@@ -1,0 +1,6 @@
+re1	mocA_mRNA	reactant
+re1	MocA	product
+re2	cytidine-triphosphate	reactant
+re2	MoCo (dioxyo)	reactant
+re2	MoO2(OH)Dtpp-mCDP	product
+re2	diphosphate	product
