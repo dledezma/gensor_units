@@ -1,0 +1,8 @@
+re1	alaA_mRNA	reactant
+re1	AlaA	product
+re2	ketoglutarate	reactant
+re2	alanine	reactant
+re2	L-glutamate	product
+re2	pyruvate	product
+re3	alaC_mRNA	reactant
+re3	AlaC	product

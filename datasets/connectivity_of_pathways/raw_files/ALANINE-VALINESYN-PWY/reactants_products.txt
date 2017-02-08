@@ -1,0 +1,36 @@
+re1	ilvE_mRNA	reactant
+re1	IlvE	product
+re2	phenylpyruvate	reactant
+re2	L-glutamate	reactant
+re2	ketoglutarate	product
+re2	phenylalanine	product
+re3	ketoglutarate	reactant
+re3	valine	reactant
+re3	2-ketovaline	product
+re3	L-glutamate	product
+re4	ketoglutarate	reactant
+re4	iso-leucine	reactant
+re4	2-keto-isoleucine	product
+re4	L-glutamate	product
+re5	ketoglutarate	reactant
+re5	leucine	reactant
+re5	L-glutamate	product
+re5	ketoleucine	product
+re6	ilvE_mRNA	reactant
+re6	BCAT	product
+re7	alr_mRNA	reactant
+re7	Alr	product
+re8	alanine	reactant
+re8	ala	product
+re9	dadX_mRNA	reactant
+re9	DadX	product
+re10	avtA_mRNA	reactant
+re10	AvtA	product
+re11	pyruvate	reactant
+re11	valine	reactant
+re11	2-ketovaline	product
+re11	alanine	product
+re12	aminated amino group donor	reactant
+re12	2-oxobutyrate	reactant
+re12	deaminated amino group donor	product
+re12	butyrine	product
