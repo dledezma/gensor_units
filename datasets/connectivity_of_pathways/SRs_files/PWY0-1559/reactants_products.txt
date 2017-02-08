@@ -1,0 +1,4 @@
+re1	yehT_mRNA	reactant
+re1	YehT	product
+re2	yehU_mRNA	reactant
+re2	YehU	product

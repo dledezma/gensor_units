@@ -1,0 +1,26 @@
+re1	cyoD_mRNA	reactant
+re1	CyoD	product
+re2	CyoC	reactant
+re2	CyoA	reactant
+re2	CyoD	reactant
+re2	CyoB	reactant
+re2	CyoD-CyoA-CyoB-CyoC	product
+re3	ubiquinol_Ext	reactant
+re3	oxygen_Ext	reactant
+re3	ubiquinone	product
+re4	cyoA_mRNA	reactant
+re4	CyoA	product
+re5	cyoB_mRNA	reactant
+re5	CyoB	product
+re6	cyoC_mRNA	reactant
+re6	CyoC	product
+re7	putA_mRNA	reactant
+re7	PutA	product
+re8	ubiquinone	reactant
+re8	proline	reactant
+re8	pyrroline 5-carboxylate	product
+re8	ubiquinol	product
+re9	glutamate-semialdehyde	reactant
+re9	L-glutamate	product
+re10	pyrroline 5-carboxylate	reactant
+re10	glutamate-semialdehyde	product

@@ -1,0 +1,4 @@
+re1	dsdA_mRNA	reactant
+re1	DsdA	product
+re2	serine	reactant
+re2	dehydroalanine	product

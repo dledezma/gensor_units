@@ -1,0 +1,6 @@
+re1	glnL_mRNA	reactant
+re1	GlnL	product
+re2	glnG_mRNA	reactant
+re2	GlnG	product
+re3	glnG_mRNA	reactant
+re3	NtrC	product

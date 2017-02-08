@@ -1,0 +1,32 @@
+re1	ldcA_mRNA	reactant
+re1	LdcA	product
+re2	Ala-D-Glu-meso-A2pm-D-Ala	reactant
+re2	Ala-gamma-D-Glu-Dap	product
+re2	ala	product
+re3	UDP-MurNAc-tetrapeptide	reactant
+re3	UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm	product
+re3	ala	product
+re4	mepS_mRNA	reactant
+re4	MepS	product
+re5	peptidoglycan D-alanyl-DAP crosslink	reactant
+re5	peptidoglycan tetrapeptide, glycan chain 1	product
+re5	peptidoglycan tetrapeptide, glycan chain 2	product
+re6	mpaA_mRNA	reactant
+re6	MpaA	product
+re7	Ala-gamma-D-Glu-Dap	reactant
+re7	Ala-D-Glu	product
+re7	M-DAP	product
+re8	ycjG_mRNA	reactant
+re8	YcjG	product
+re9	Ala-D-Glu	reactant
+re9	ala-glu	product
+re10	pepD_mRNA	reactant
+re10	PepD	product
+re11	ala-glu	reactant
+re11	L-glutamate	product
+re11	alanine	product
+re12	dipeptide	reactant
+re12	amino acids	product
+re13	Cys-Gly	reactant
+re13	cysteine	product
+re13	glycine	product

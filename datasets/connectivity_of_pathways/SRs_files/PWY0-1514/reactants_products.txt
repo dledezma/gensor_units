@@ -1,0 +1,6 @@
+re1	narL_mRNA	reactant
+re1	NarL	product
+re2	narP_mRNA	reactant
+re2	NarP	product
+re3	narQ_mRNA	reactant
+re3	NarQ	product

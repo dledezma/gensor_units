@@ -1,0 +1,2 @@
+re2	CATALYSIS	GlpD
+re5	CATALYSIS	CyoD-CyoA-CyoB-CyoC

@@ -1,0 +1,4 @@
+re1	ypdB_mRNA	reactant
+re1	YpdB	product
+re2	ypdA_mRNA	reactant
+re2	YpdA	product
