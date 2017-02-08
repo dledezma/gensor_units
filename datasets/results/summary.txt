@@ -1,4 +1,4 @@
-#From get_metadata.pl on Sat Jun 25 12:01:02 2016 using:
+#From get_summary.pl on Sat Jun 25 12:01:02 2016 using:
 # ~/datasets/results/
 # ~/datasets/input_files/Transcription_Factors.txt
 GU	Total Enzymes	Enzymes with connectivity	Components	Connectivity	Total Catalysis reactions	Secondary reactions	Feedback
