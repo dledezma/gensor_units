@@ -1,0 +1,20 @@
+re1	cysE_mRNA	reactant
+re1	CysE	product
+re2	acetyl-CoA	reactant
+re2	serine	reactant
+re2	acetylserine	product
+re2	coenzyme A	product
+re3	CysK	reactant
+re3	CysE	reactant
+re3	CysE-CysK	product
+re4	cysK_mRNA	reactant
+re4	CysK	product
+re5	acetylserine	reactant
+re5	sulfide	reactant
+re5	cysteine	product
+re5	acetate	product
+re6	cysteine	reactant
+re6	dehydroalanine	product
+re6	sulfide	product
+re7	cysM_mRNA	reactant
+re7	CysM	product

@@ -1,0 +1,20 @@
+re1	coaD_mRNA	reactant
+re1	CoaD	product
+re2	phosphopantotheine	reactant
+re2	3-dephospho-CoA	product
+re2	diphosphate	product
+re3	coaE_mRNA	reactant
+re3	CoaE	product
+re4	3-dephospho-CoA	reactant
+re4	coenzyme A	product
+re5	dfp_mRNA	reactant
+re5	Dfp	product
+re6	cytidine-triphosphate	reactant
+re6	4'-P-Pantothenate	reactant
+re6	cysteine	reactant
+re6	4-P-N-pantothenoylcysteine	product
+re6	diphosphate	product
+re6	cytidylate	product
+re7	4-P-N-pantothenoylcysteine	reactant
+re7	phosphopantotheine	product
+re7	CO2	product

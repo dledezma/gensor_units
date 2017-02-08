@@ -1,0 +1,10 @@
+re1	cynT_mRNA	reactant
+re1	CynT	product
+re2	carbonate	reactant
+re2	CO2	product
+re3	cynS_mRNA	reactant
+re3	CynS	product
+re4	carbonate	reactant
+re4	cyanate	reactant
+re4	carbamate	product
+re4	CO2	product

@@ -1,0 +1,15 @@
+re1	adhP_mRNA	reactant
+re1	AdhP	product
+re2	1-Alcohol	reactant
+re2	RCHO	product
+re3	EtOH	reactant
+re3	ethanal	product
+re4	adhE_mRNA	reactant
+re4	AdhE	product
+re5	pyruvate formate lyase, active form	reactant
+re5	pyruvate formate-lyase	product
+re6	coenzyme A	reactant
+re6	ethanal	reactant
+re6	acetyl-CoA	product
+re7	mhpF_mRNA	reactant
+re7	MhpF	product

@@ -1,0 +1,25 @@
+re1	rfbC_mRNA	reactant
+re1	RfbC	product
+re2	RfbC	reactant
+re2	RfbD	reactant
+re2	RfbC-RfbD	product
+re3	dTDP-beta-L-rhamnose	reactant
+re3	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re4	dTDP-4-keto-L-rhamnose	reactant
+re4	dTDP-beta-L-rhamnose	product
+re5	TDP-4-oxo-6-deoxy--alpha-D-glucose	reactant
+re5	dTDP-4-keto-L-rhamnose	product
+re6	rfbD_mRNA	reactant
+re6	RfbD	product
+re7	rfbB_mRNA	reactant
+re7	RfbB	product
+re8	TDP-glucose	reactant
+re8	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re9	rfbA_mRNA	reactant
+re9	RfbA	product
+re10	D-glucose 1-phosphate	reactant
+re10	dTTP	reactant
+re10	diphosphate	product
+re10	TDP-glucose	product
+re11	rffH_mRNA	reactant
+re11	RffH	product
