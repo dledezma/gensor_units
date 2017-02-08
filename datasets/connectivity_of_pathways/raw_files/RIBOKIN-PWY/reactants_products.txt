@@ -1,0 +1,8 @@
+re1	rbsK_mRNA	reactant
+re1	RbsK	product
+re2	alpha D-ribose	reactant
+re2	alpha-D-ribose 5-phosphate	product
+re3	rbsD_mRNA	reactant
+re3	RbsD	product
+re4	beta-D-ribopyranose	reactant
+re4	beta-D-ribofuranose	product
