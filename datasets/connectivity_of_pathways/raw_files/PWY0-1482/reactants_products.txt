@@ -1,0 +1,4 @@
+re1	basS_mRNA	reactant
+re1	BasS	product
+re2	basR_mRNA	reactant
+re2	BasR	product

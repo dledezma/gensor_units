@@ -1,0 +1,4 @@
+re1	uhpA_mRNA	reactant
+re1	UhpA	product
+re2	uhpB_mRNA	reactant
+re2	UhpB	product

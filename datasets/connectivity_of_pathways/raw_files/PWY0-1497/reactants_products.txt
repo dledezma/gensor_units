@@ -1,0 +1,8 @@
+re1	rstA_mRNA	reactant
+re1	RstA	product
+re2	rstA_mRNA	reactant
+re2	UrpT	product
+re3	rstB_mRNA	reactant
+re3	RstB	product
+re4	rstB_mRNA	reactant
+re4	UspT	product

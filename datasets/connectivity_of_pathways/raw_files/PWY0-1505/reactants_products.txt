@@ -1,0 +1,4 @@
+re1	arcA_mRNA	reactant
+re1	ArcA	product
+re2	arcB_mRNA	reactant
+re2	ArcB	product

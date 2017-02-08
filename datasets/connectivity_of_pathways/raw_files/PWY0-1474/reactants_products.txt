@@ -1,0 +1,4 @@
+re1	atoS_mRNA	reactant
+re1	AtoS	product
+re2	atoC_mRNA	reactant
+re2	AtoC	product

@@ -1,0 +1,4 @@
+re1	kdpE_mRNA	reactant
+re1	KdpE	product
+re2	kdpD_mRNA	reactant
+re2	KdpD	product

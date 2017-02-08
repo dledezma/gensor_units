@@ -1,0 +1,44 @@
+re1	rutA_mRNA	reactant
+re1	RutA	product
+re2	Reduced FMN	reactant
+re2	oxygen	reactant
+re2	uracil	reactant
+re2	ureidoperacrylic acid	product
+re2	flavin mononucleotide	product
+re3	Reduced FMN	reactant
+re3	thymine	reactant
+re3	oxygen	reactant
+re3	(Z)-2-methylureidoperacrylic acid	product
+re3	flavin mononucleotide	product
+re4	rutD_mRNA	reactant
+re4	RutD	product
+re5	aminoacrylate	reactant
+re5	malonate-S-ald	product
+re5	ammonium	product
+re6	rutE_mRNA	reactant
+re6	RutE	product
+re7	malonate-S-ald	reactant
+re7	hydracrylic acid	product
+re8	ydfG_mRNA	reactant
+re8	YdfG	product
+re9	serine	reactant
+re9	FGly	product
+re10	allo-threonine	reactant
+re10	3-oxothreonine	product
+re11	rutB_mRNA	reactant
+re11	RutB	product
+re12	(Z)-2-methylureidoperacrylic acid	reactant
+re12	(Z)-2-methyl-peroxyaminoacrylate	product
+re12	carbamate	product
+re13	ureidoperacrylic acid	reactant
+re13	peroxy aminoacrylate	product
+re13	carbamate	product
+re14	3-ureidoacrylate	reactant
+re14	aminoacrylate	product
+re14	carbamate	product
+re15	rutC_mRNA	reactant
+re15	RutC	product
+re16	peroxy aminoacrylate	reactant
+re16	A(H2)	reactant
+re16	aminoacrylate	product
+re16	acceptors	product

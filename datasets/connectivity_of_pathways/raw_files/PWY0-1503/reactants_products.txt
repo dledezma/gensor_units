@@ -1,0 +1,4 @@
+re1	glrK_mRNA	reactant
+re1	GlrK	product
+re2	glrR_mRNA	reactant
+re2	GlrR	product

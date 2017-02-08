@@ -1,0 +1,17 @@
+re1	rcsD_mRNA	reactant
+re1	RcsD	product
+re2	rcsB_mRNA	reactant
+re2	RcsB	product
+re3	RcsB	reactant
+re3	BglJ	reactant
+re3	BglJ-RcsB	product
+re4	RcsB	reactant
+re4	GadE	reactant
+re4	RcsB-GadE	product
+re5	RcsB	reactant
+re5	RcsA	reactant
+re5	RcsB-RcsA	product
+re6	rcsA_mRNA	reactant
+re6	RcsA	product
+re7	rcsC_mRNA	reactant
+re7	RcsC	product

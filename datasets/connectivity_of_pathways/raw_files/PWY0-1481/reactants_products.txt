@@ -1,0 +1,4 @@
+re1	baeR_mRNA	reactant
+re1	BaeR	product
+re2	baeS_mRNA	reactant
+re2	BaeS	product

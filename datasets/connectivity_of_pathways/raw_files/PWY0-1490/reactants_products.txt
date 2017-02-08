@@ -1,0 +1,4 @@
+re1	evgA_mRNA	reactant
+re1	EvgA	product
+re2	evgS_mRNA	reactant
+re2	EvgS	product
