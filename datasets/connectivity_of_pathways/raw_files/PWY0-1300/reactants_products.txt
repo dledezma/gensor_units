@@ -1,0 +1,11 @@
+re1	mngB_mRNA	reactant
+re1	MngB	product
+re2	2(alpha-D-mannosyl-6-phosphate)-D-glycerate	reactant
+re2	mannopyranose-6-P	product
+re2	glycerate	product
+re3	garK_mRNA	reactant
+re3	GarK	product
+re4	glycerate	reactant
+re4	2-P-D-glycerate	product
+re5	glxK_mRNA	reactant
+re5	GlxK	product

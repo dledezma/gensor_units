@@ -1,0 +1,6 @@
+re1	fucO_mRNA	reactant
+re1	FucO	product
+re2	glycol	reactant
+re2	glycoaldehyde	product
+re3	1,2-propanediol	reactant
+re3	lactaldehyde	product

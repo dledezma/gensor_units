@@ -1,0 +1,2 @@
+re2	CATALYSIS	FucO
+re3	CATALYSIS	FucO

@@ -1,0 +1,7 @@
+re1	gadA_mRNA	reactant
+re1	GadA	product
+re2	L-glutamate	reactant
+re2	GABA	product
+re2	CO2	product
+re3	gadB_mRNA	reactant
+re3	GadB	product

@@ -1,0 +1,20 @@
+re1	cdd_mRNA	reactant
+re1	Cdd	product
+re2	cytidine	reactant
+re2	ammonium	product
+re2	uridine	product
+re3	d-cytidine	reactant
+re3	deoxyuridine	product
+re3	ammonium	product
+re4	udp_mRNA	reactant
+re4	Udp	product
+re5	phosphate	reactant
+re5	uridine	reactant
+re5	ribose-1-phosphate	product
+re5	uracil	product
+re6	deoB_mRNA	reactant
+re6	DeoB	product
+re7	deoxy-D-ribose 1-phosphate	reactant
+re7	2-deoxy-D-ribose 5-phosphate	product
+re8	ribose-1-phosphate	reactant
+re8	ribose-5P	product

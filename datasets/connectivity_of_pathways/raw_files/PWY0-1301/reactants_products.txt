@@ -1,0 +1,5 @@
+re1	melA_mRNA	reactant
+re1	MelA	product
+re2	melibiose	reactant
+re2	galactopyranose	product
+re2	glucopyranose	product
