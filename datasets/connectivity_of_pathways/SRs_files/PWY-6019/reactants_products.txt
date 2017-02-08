@@ -1,0 +1,9 @@
+re1	psuG_mRNA	reactant
+re1	PsuG	product
+re2	ribofuranose 5-phosphate	reactant
+re2	uracil	reactant
+re2	pseudouridine 5'-phosphate	product
+re3	psuK_mRNA	reactant
+re3	PsuK	product
+re4	pseudouridine	reactant
+re4	pseudouridine 5'-phosphate	product

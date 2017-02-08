@@ -1,0 +1,36 @@
+re1	mtn_mRNA	reactant
+re1	Mtn	product
+re2	adenosylhomocysteine	reactant
+re2	S-Ribosylhomocysteine	product
+re2	adenine	product
+re3	methylthioadenosine	reactant
+re3	5-methylthioribose	product
+re3	adenine	product
+re4	5'-deoxyadenosine	reactant
+re4	5'-deoxyribose	product
+re4	adenine	product
+re5	luxS_mRNA	reactant
+re5	LuxS	product
+re6	S-Ribosylhomocysteine	reactant
+re6	homo-cys	product
+re6	AI-2	product
+re7	metK_mRNA	reactant
+re7	MetK	product
+re8	methionine	reactant
+re8	diphosphate	product
+re8	phosphate	product
+re8	SAM	product
+re9	metH_mRNA	reactant
+re9	MetH	product
+re10	N5-methyl-tetrahydrofolate	reactant
+re10	homo-cys	reactant
+re10	THF polyglutamate	product
+re10	methionine	product
+re11	5-methyltetrahydropteroyl tri-L-glutamate	reactant
+re11	homo-cys	reactant
+re11	H4PteGlu(n)	product
+re11	methionine	product
+re12	metE_mRNA	reactant
+re12	MetE	product
+re13	SAM	reactant
+re13	adenosylhomocysteine	product

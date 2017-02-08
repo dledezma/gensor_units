@@ -1,0 +1,8 @@
+re1	btuR_mRNA	reactant
+re1	BtuR	product
+re2	cobinamide	reactant
+re2	AdoCbi	product
+re2	P3,i	product
+re3	B12s	reactant
+re3	calomide	product
+re3	P3,i	product

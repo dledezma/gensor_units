@@ -1,0 +1,7 @@
+re1	menA_mRNA	reactant
+re1	MenA	product
+re2	octaprenyl diphosphate	reactant
+re2	DHNA	reactant
+re2	diphosphate	product
+re2	DMKH2-8	product
+re2	CO2	product

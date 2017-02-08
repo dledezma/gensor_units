@@ -1,0 +1,54 @@
+re1	acpH_mRNA	reactant
+re1	AcpH	product
+re2	AcpP	reactant
+re2	acyl-carrier protein	product
+re2	phosphopantotheine	product
+re3	acpS_mRNA	reactant
+re3	AcpS	product
+re4	acyl-carrier protein	reactant
+re4	coenzyme A	reactant
+re4	3',5'-ADP	product
+re4	AcpP	product
+re5	coenzyme A	reactant
+re5	EntB	reactant
+re5	holo EntB monomer	product
+re5	3',5'-ADP	product
+re6	acpT_mRNA	reactant
+re6	AcpT	product
+re7	acpP_mRNA	reactant
+re7	AcpP	product
+re8	entB_mRNA	reactant
+re8	EntB	product
+re9	isochorismate	reactant
+re9	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	product
+re9	pyruvate	product
+re10	EntD	reactant
+re10	EntE	reactant
+re10	EntB	reactant
+re10	EntF	reactant
+re10	EntB-EntD-EntF-EntE	product
+re11	2-pyrocatechuate	reactant
+re11	serine	reactant
+re11	enterobactin	product
+re11	diphosphate	product
+re12	2-pyrocatechuate	reactant
+re12	2,3-dihydroxybenzoyl-AMP	product
+re12	diphosphate	product
+re13	2,3-dihydroxybenzoyl-AMP	reactant
+re13	holo EntB monomer	reactant
+re13	2,3-dihydroxybenzoyl-EntB	product
+re14	serine	reactant
+re14	diphosphate	product
+re14	seryl-AMP	product
+re15	holo-[EntF peptidyl-carrier protein]	reactant
+re15	seryl-AMP	reactant
+re15	seryl-[EntF peptidyl-carrier protein]	product
+re16	seryl-[EntF peptidyl-carrier protein]	reactant
+re16	2,3-dihydroxybenzoyl-EntB	reactant
+re16	DHB-seryl-[EntF peptidyl-carrier protein]	product
+re16	holo EntB monomer	product
+re17	DHB-seryl-[EntF peptidyl-carrier protein]	reactant
+re17	holo-[EntF peptidyl-carrier protein]	product
+re17	enterobactin	product
+re18	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	reactant
+re18	2-pyrocatechuate	product

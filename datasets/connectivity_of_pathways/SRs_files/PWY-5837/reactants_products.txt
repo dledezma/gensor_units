@@ -1,0 +1,34 @@
+re1	menE_mRNA	reactant
+re1	MenE	product
+re2	2-succinylbenzoate	reactant
+re2	coenzyme A	reactant
+re2	succinylbenzoyl-CoA	product
+re2	diphosphate	product
+re3	menC_mRNA	reactant
+re3	MenC	product
+re4	SHCHC	reactant
+re4	2-succinylbenzoate	product
+re5	menF_mRNA	reactant
+re5	MenF	product
+re6	chorismate	reactant
+re6	isochorismate	product
+re7	menD_mRNA	reactant
+re7	MenD	product
+re8	ketoglutarate	reactant
+re8	isochorismate	reactant
+re8	SEPHCHC	product
+re8	CO2	product
+re9	menH_mRNA	reactant
+re9	MenH	product
+re10	SEPHCHC	reactant
+re10	pyruvate	product
+re10	SHCHC	product
+re11	menB_mRNA	reactant
+re11	MenB	product
+re12	succinylbenzoyl-CoA	reactant
+re12	DHNA-CoA	product
+re13	menI_mRNA	reactant
+re13	MenI	product
+re14	DHNA-CoA	reactant
+re14	coenzyme A	product
+re14	DHNA	product

@@ -1,0 +1,2 @@
+re2	CATALYSIS	BtuR
+re3	CATALYSIS	BtuR
