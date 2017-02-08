@@ -1,0 +1,13 @@
+re1	mobA_mRNA	reactant
+re1	MobA	product
+re2	MoCo (dioxyo)	reactant
+re2	H2Dtpp-mP	reactant
+re2	bis-MPT	product
+re3	guanosine-triphosphate	reactant
+re3	bis-MPT	reactant
+re3	diphosphate	product
+re3	bis-MGD	product
+re4	guanosine-triphosphate	reactant
+re4	MoCo (dioxyo)	reactant
+re4	diphosphate	product
+re4	MPT-GMP	product

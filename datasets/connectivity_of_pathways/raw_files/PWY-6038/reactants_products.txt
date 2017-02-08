@@ -1,0 +1,10 @@
+re1	citD_mRNA	reactant
+re1	CitD	product
+re2	CitD	reactant
+re2	CitF	reactant
+re2	CitE	reactant
+re2	CitD-CitF-CitE	product
+re3	citF_mRNA	reactant
+re3	CitF	product
+re4	citE_mRNA	reactant
+re4	CitE	product

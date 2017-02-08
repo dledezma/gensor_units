@@ -1,0 +1,15 @@
+re1	aroB_mRNA	reactant
+re1	AroB	product
+re2	DAHP	reactant
+re2	5-de-H-quinate	product
+re2	phosphate	product
+re3	aroG_mRNA	reactant
+re3	AroG	product
+re4	P-enol-pyruvate	reactant
+re4	erythrose-4P	reactant
+re4	phosphate	product
+re4	DAHP	product
+re5	aroH_mRNA	reactant
+re5	AroH	product
+re6	aroF_mRNA	reactant
+re6	AroF	product

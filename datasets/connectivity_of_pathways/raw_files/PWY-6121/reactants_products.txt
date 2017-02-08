@@ -1,0 +1,31 @@
+re1	purF_mRNA	reactant
+re1	PurF	product
+re2	glutamine	reactant
+re2	PRPP	reactant
+re2	5-phosphoribosylamine	product
+re2	L-glutamate	product
+re2	diphosphate	product
+re3	purD_mRNA	reactant
+re3	PurD	product
+re4	5-phosphoribosylamine	reactant
+re4	glycine	reactant
+re4	5'-p-ribosylglycinamide	product
+re4	phosphate	product
+re5	purN_mRNA	reactant
+re5	PurN	product
+re6	10-formyl-THF mono-L-glutamate	reactant
+re6	5'-p-ribosylglycinamide	reactant
+re6	THF polyglutamate	product
+re6	FGAR	product
+re7	purL_mRNA	reactant
+re7	PurL	product
+re8	glutamine	reactant
+re8	FGAR	reactant
+re8	L-glutamate	product
+re8	phosphate	product
+re8	FGAM	product
+re9	purM_mRNA	reactant
+re9	PurM	product
+re10	FGAM	reactant
+re10	5-aminoimidazole ribotide	product
+re10	phosphate	product

@@ -1,0 +1,31 @@
+re1	purC_mRNA	reactant
+re1	PurC	product
+re2	aspartate	reactant
+re2	CAIR	reactant
+re2	phosphate	product
+re2	SAICAR	product
+re3	purB_mRNA	reactant
+re3	PurB	product
+re4	adenylo-succinate	reactant
+re4	fumarate	product
+re5	SAICAR	reactant
+re5	fumarate	product
+re5	AICAR	product
+re6	purH_mRNA	reactant
+re6	PurH	product
+re7	10-formyl-THF mono-L-glutamate	reactant
+re7	AICAR	reactant
+re7	THF polyglutamate	product
+re7	FAICAR	product
+re8	5'-IMP	reactant
+re8	FAICAR	product
+re9	purE_mRNA	reactant
+re9	PurE	product
+re10	N5-CAIR	reactant
+re10	CAIR	product
+re11	purK_mRNA	reactant
+re11	PurK	product
+re12	5-aminoimidazole ribotide	reactant
+re12	carbonate	reactant
+re12	phosphate	product
+re12	N5-CAIR	product
