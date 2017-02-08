@@ -1,0 +1,7 @@
+re1	gltB_mRNA	reactant
+re1	GltB	product
+re2	GltB	reactant
+re2	GltD	reactant
+re2	GltD-GltB	product
+re3	gltD_mRNA	reactant
+re3	GltD	product

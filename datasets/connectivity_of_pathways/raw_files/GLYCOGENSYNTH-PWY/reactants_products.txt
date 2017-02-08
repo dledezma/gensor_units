@@ -1,0 +1,26 @@
+re1	glgA_mRNA	reactant
+re1	GlgA	product
+re2	ADP-glucose	reactant
+re2	amylose	reactant
+re2	amylose	product
+re3	glgB_mRNA	reactant
+re3	GlgB	product
+re4	amylose	reactant
+re4	glycogen	product
+re5	glgC_mRNA	reactant
+re5	GlgC	product
+re6	D-glucose 1-phosphate	reactant
+re6	diphosphate	product
+re6	ADP-glucose	product
+re7	pgm_mRNA	reactant
+re7	Pgm	product
+re8	D-glucose 1-phosphate	reactant
+re8	glucose-6-P	product
+re9	phosphorylated phosphoglucomutase	reactant
+re9	D-glucose 1-phosphate	reactant
+re9	alpha-glucose 1,6-bisphosphate	product
+re9	phosphoglucomutase	product
+re10	alpha-glucose 1,6-bisphosphate	reactant
+re10	phosphoglucomutase	reactant
+re10	phosphorylated phosphoglucomutase	product
+re10	glucose-6-P	product

@@ -1,0 +1,10 @@
+re1	nagB_mRNA	reactant
+re1	NagB	product
+re2	alpha-D-glucosamine phosphate	reactant
+re2	fructose-6-P	product
+re2	ammonium	product
+re3	nagA_mRNA	reactant
+re3	NagA	product
+re4	N-acetyl-alpha-D-glucosamine 6-phosphate	reactant
+re4	alpha-D-glucosamine phosphate	product
+re4	acetate	product

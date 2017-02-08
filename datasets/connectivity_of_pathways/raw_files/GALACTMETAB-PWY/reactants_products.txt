@@ -1,0 +1,24 @@
+re1	galK_mRNA	reactant
+re1	GalK	product
+re2	alpha-D-galactose	reactant
+re2	galactose-1-P	product
+re3	galT_mRNA	reactant
+re3	GalT	product
+re4	galactose-1-P	reactant
+re4	UDPG	reactant
+re4	D-glucose 1-phosphate	product
+re4	UDP-galactose	product
+re5	galE_mRNA	reactant
+re5	GalE	product
+re6	UDPG	reactant
+re6	UDP-galactose	product
+re7	galU_mRNA	reactant
+re7	GalU	product
+re8	D-glucose 1-phosphate	reactant
+re8	uridine-triphosphate	reactant
+re8	diphosphate	product
+re8	UDPG	product
+re9	galM_mRNA	reactant
+re9	GalM	product
+re10	beta-D-galactose	reactant
+re10	alpha-D-galactose	product

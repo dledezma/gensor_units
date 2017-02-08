@@ -1,0 +1,87 @@
+re1	malQ_mRNA	reactant
+re1	MalQ	product
+re2	glucopyranose	reactant
+re2	maltohexaose	reactant
+re2	maltopentaose	product
+re2	maltose	product
+re3	glucopyranose	reactant
+re3	maltopentaose	reactant
+re3	maltotetraose	product
+re3	maltose	product
+re4	maltohexaose	reactant
+re4	maltose	reactant
+re4	glucopyranose	product
+re4	maltoheptaose	product
+re5	maltotriose	reactant
+re5	maltose	reactant
+re5	glucopyranose	product
+re5	maltotetraose	product
+re6	glgP_mRNA	reactant
+re6	GlgP	product
+re7	phosphate	reactant
+re7	glycogen	reactant
+re7	D-glucose 1-phosphate	product
+re7	alpha-limit dextrin	product
+re8	glgX_mRNA	reactant
+re8	GlgX	product
+re9	alpha-limit dextrin	reactant
+re9	debranched alpha-limit dextrin	product
+re9	maltotetraose	product
+re10	malZ_mRNA	reactant
+re10	MalZ	product
+re11	maltotriose	reactant
+re11	glucopyranose	product
+re11	maltose	product
+re12	amylose	reactant
+re12	glucopyranose	product
+re12	amylose	product
+re13	maltopentaose	reactant
+re13	glucopyranose	product
+re13	maltotetraose	product
+re14	maltohexaose	reactant
+re14	glucopyranose	product
+re14	maltopentaose	product
+re15	maltoheptaose	reactant
+re15	glucopyranose	product
+re15	maltohexaose	product
+re16	malP_mRNA	reactant
+re16	MalP	product
+re17	debranched alpha-limit dextrin	reactant
+re17	phosphate	reactant
+re17	D-glucose 1-phosphate	product
+re18	maltoheptaose	reactant
+re18	phosphate	reactant
+re18	D-glucose 1-phosphate	product
+re18	maltohexaose	product
+re19	maltohexaose	reactant
+re19	phosphate	reactant
+re19	D-glucose 1-phosphate	product
+re19	maltopentaose	product
+re20	maltopentaose	reactant
+re20	phosphate	reactant
+re20	D-glucose 1-phosphate	product
+re20	maltotetraose	product
+re21	maltotetraose	reactant
+re21	phosphate	reactant
+re21	D-glucose 1-phosphate	product
+re21	maltotriose	product
+re22	phosphate	reactant
+re22	amylose	reactant
+re22	D-glucose 1-phosphate	product
+re22	amylose	product
+re23	pgm_mRNA	reactant
+re23	Pgm	product
+re24	D-glucose 1-phosphate	reactant
+re24	glucose-6-P	product
+re25	phosphorylated phosphoglucomutase	reactant
+re25	D-glucose 1-phosphate	reactant
+re25	alpha-glucose 1,6-bisphosphate	product
+re25	phosphoglucomutase	product
+re26	alpha-glucose 1,6-bisphosphate	reactant
+re26	phosphoglucomutase	reactant
+re26	phosphorylated phosphoglucomutase	product
+re26	glucose-6-P	product
+re27	glk_mRNA	reactant
+re27	Glk	product
+re28	glucopyranose	reactant
+re28	glucose-6-P	product

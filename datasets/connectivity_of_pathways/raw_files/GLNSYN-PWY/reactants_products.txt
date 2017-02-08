@@ -1,0 +1,6 @@
+re1	glnA_mRNA	reactant
+re1	GlnA	product
+re2	L-glutamate	reactant
+re2	ammonium	reactant
+re2	phosphate	product
+re2	glutamine	product
