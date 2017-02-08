@@ -1,0 +1,16 @@
+re1	chbG_mRNA	reactant
+re1	ChbG	product
+re2	diacetylchitobiose 6-phosphate	reactant
+re2	N-monoacetylchitobiose 6'-phosphate	product
+re2	acetate	product
+re3	chitobiose	reactant
+re3	N-monoacetylchitobiose	product
+re3	acetate	product
+re4	chbF_mRNA	reactant
+re4	ChbF	product
+re5	N-monoacetylchitobiose 6'-phosphate	reactant
+re5	N-acetyl-alpha-D-glucosamine 6-phosphate	product
+re5	chitosamine	product
+re6	beta-D-cellobiose-6'-p	reactant
+re6	glucopyranose	product
+re6	glucose-6-P	product

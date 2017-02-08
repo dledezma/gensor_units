@@ -1,0 +1,5 @@
+re1	adiA_mRNA	reactant
+re1	AdiA	product
+re2	arginine	reactant
+re2	agmatine	product
+re2	CO2	product

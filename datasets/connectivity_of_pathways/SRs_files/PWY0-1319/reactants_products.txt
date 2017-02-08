@@ -1,0 +1,135 @@
+re1	gpsA_mRNA	reactant
+re1	GpsA	product
+re2	DHAP	reactant
+re2	glycerol-3-phosphate	product
+re3	plsC_mRNA	reactant
+re3	PlsC	product
+re4	(Z)-octadec-11-enoylglycerol 3-phosphate	reactant
+re4	palmitoleoyl-[acp]	reactant
+re4	18:1-16:1-PA	product
+re4	AcpP	product
+re5	1-palmitoylglycerol 3-phosphate	reactant
+re5	palmitoleoyl-[acp]	reactant
+re5	16:0-16:1-PA	product
+re5	AcpP	product
+re6	1-palmitoylglycerol 3-phosphate	reactant
+re6	myristoyl-[acp]	reactant
+re6	1-palmitoyl-2-myristoyl phosphatidate	product
+re6	AcpP	product
+re7	1-myristoylglycerol 3-phosphate	reactant
+re7	palmitoleoyl-[acp]	reactant
+re7	1-myristoyl-2-palmitoleoyl phosphatidate	product
+re7	AcpP	product
+re8	1-myristoylglycerol 3-phosphate	reactant
+re8	myristoyl-[acp]	reactant
+re8	dimyristoyl phosphatidate	product
+re8	AcpP	product
+re9	1-palmitoylglycerol 3-phosphate	reactant
+re9	18:0-ACP	reactant
+re9	PA(16:0/16:0)	product
+re9	AcpP	product
+re10	2-lysophosphatidate	reactant
+re10	acyl-ACP	reactant
+re10	phosphatidate	product
+re10	AcpP	product
+re11	2-lysophosphatidate	reactant
+re11	acyl-CoA	reactant
+re11	phosphatidate	product
+re11	coenzyme A	product
+re12	1-palmitoylglycerol 3-phosphate	reactant
+re12	cis-vaccenoyl-CoA	reactant
+re12	16:0-18:1-PA	product
+re12	coenzyme A	product
+re13	(Z)-octadec-11-enoylglycerol 3-phosphate	reactant
+re13	cis-vaccenoyl-CoA	reactant
+re13	18:1-18:1-PA	product
+re13	coenzyme A	product
+re14	1-palmitoylglycerol 3-phosphate	reactant
+re14	myristoyl-CoA	reactant
+re14	1-palmitoyl-2-myristoyl phosphatidate	product
+re14	coenzyme A	product
+re15	1-myristoylglycerol 3-phosphate	reactant
+re15	myristoyl-CoA	reactant
+re15	dimyristoyl phosphatidate	product
+re15	coenzyme A	product
+re16	1-myristoylglycerol 3-phosphate	reactant
+re16	16:1-delta9-CoA	reactant
+re16	1-myristoyl-2-palmitoleoyl phosphatidate	product
+re16	coenzyme A	product
+re17	1-palmitoylglycerol 3-phosphate	reactant
+re17	16:1-delta9-CoA	reactant
+re17	16:0-16:1-PA	product
+re17	coenzyme A	product
+re18	(Z)-octadec-11-enoylglycerol 3-phosphate	reactant
+re18	16:1-delta9-CoA	reactant
+re18	18:1-16:1-PA	product
+re18	coenzyme A	product
+re19	2,3,4-saturated fatty acyl-[acp]	reactant
+re19	acyl-sn-glycerol-3P	reactant
+re19	phosphatidate	product
+re19	AcpP	product
+re20	cdsA_mRNA	reactant
+re20	CdsA	product
+re21	cytidine-triphosphate	reactant
+re21	phosphatidate	reactant
+re21	CDP-diglyceride	product
+re21	diphosphate	product
+re22	plsB_mRNA	reactant
+re22	PlsB	product
+re23	glycerol-3-phosphate	reactant
+re23	18:0-ACP	reactant
+re23	1-palmitoylglycerol 3-phosphate	product
+re23	AcpP	product
+re24	glycerol-3-phosphate	reactant
+re24	myristoyl-[acp]	reactant
+re24	1-myristoylglycerol 3-phosphate	product
+re24	AcpP	product
+re25	glycerol-3-phosphate	reactant
+re25	cis-vaccenoyl-[acp]	reactant
+re25	(Z)-octadec-11-enoylglycerol 3-phosphate	product
+re25	AcpP	product
+re26	glycerol-3-phosphate	reactant
+re26	acyl-ACP	reactant
+re26	2-lysophosphatidate	product
+re26	AcpP	product
+re27	glycerol-3-phosphate	reactant
+re27	acyl-CoA	reactant
+re27	2-lysophosphatidate	product
+re27	coenzyme A	product
+re28	acpP_mRNA	reactant
+re28	AcpP	product
+re29	entB_mRNA	reactant
+re29	EntB	product
+re30	isochorismate	reactant
+re30	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	product
+re30	pyruvate	product
+re31	EntD	reactant
+re31	EntE	reactant
+re31	EntB	reactant
+re31	EntF	reactant
+re31	EntB-EntD-EntF-EntE	product
+re32	2-pyrocatechuate	reactant
+re32	serine	reactant
+re32	enterobactin	product
+re32	diphosphate	product
+re33	2-pyrocatechuate	reactant
+re33	2,3-dihydroxybenzoyl-AMP	product
+re33	diphosphate	product
+re34	2,3-dihydroxybenzoyl-AMP	reactant
+re34	holo EntB monomer	reactant
+re34	2,3-dihydroxybenzoyl-EntB	product
+re35	serine	reactant
+re35	diphosphate	product
+re35	seryl-AMP	product
+re36	holo-[EntF peptidyl-carrier protein]	reactant
+re36	seryl-AMP	reactant
+re36	seryl-[EntF peptidyl-carrier protein]	product
+re37	seryl-[EntF peptidyl-carrier protein]	reactant
+re37	2,3-dihydroxybenzoyl-EntB	reactant
+re37	DHB-seryl-[EntF peptidyl-carrier protein]	product
+re37	holo EntB monomer	product
+re38	DHB-seryl-[EntF peptidyl-carrier protein]	reactant
+re38	holo-[EntF peptidyl-carrier protein]	product
+re38	enterobactin	product
+re39	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate	reactant
+re39	2-pyrocatechuate	product

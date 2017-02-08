@@ -1,0 +1,10 @@
+re1	acs_mRNA	reactant
+re1	Acs	product
+re2	coenzyme A	reactant
+re2	acetate	reactant
+re2	diphosphate	product
+re2	acetyl-CoA	product
+re3	propanoate	reactant
+re3	coenzyme A	reactant
+re3	propanoyl-CoA	product
+re3	diphosphate	product

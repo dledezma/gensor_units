@@ -1,0 +1,12 @@
+re1	aldA_mRNA	reactant
+re1	AldA	product
+re2	glycoaldehyde	reactant
+re2	glycolate	product
+re3	lactaldehyde	reactant
+re3	lactate	product
+re4	fucO_mRNA	reactant
+re4	FucO	product
+re5	glycol	reactant
+re5	glycoaldehyde	product
+re6	1,2-propanediol	reactant
+re6	lactaldehyde	product

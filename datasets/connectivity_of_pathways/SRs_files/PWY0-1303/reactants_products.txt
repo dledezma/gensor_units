@@ -1,0 +1,19 @@
+re1	speE_mRNA	reactant
+re1	SpeE	product
+re2	putrescine	reactant
+re2	dcSAM	reactant
+re2	methylthioadenosine	product
+re2	spermidine	product
+re3	BioDex 1-	reactant
+re3	dcSAM	reactant
+re3	aminopropylcadaverine	product
+re3	methylthioadenosine	product
+re4	cadA_mRNA	reactant
+re4	CadA	product
+re5	lysine	reactant
+re5	BioDex 1-	product
+re5	CO2	product
+re6	ldcC_mRNA	reactant
+re6	LdcC	product
+re7	ldcC_mRNA	reactant
+re7	LDC2	product

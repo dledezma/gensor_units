@@ -1,0 +1,20 @@
+re1	ackA_mRNA	reactant
+re1	AckA	product
+re2	acetate	reactant
+re2	acetyl-P	product
+re3	propanoate	reactant
+re3	propanoyl-P	product
+re4	pta_mRNA	reactant
+re4	Pta	product
+re5	acetyl-CoA	reactant
+re5	phosphate	reactant
+re5	coenzyme A	product
+re5	acetyl-P	product
+re6	propanoyl-CoA	reactant
+re6	phosphate	reactant
+re6	propanoyl-P	product
+re6	coenzyme A	product
+re7	eutD_mRNA	reactant
+re7	EutD	product
+re8	acetate	reactant
+re8	acetyl-CoA	product

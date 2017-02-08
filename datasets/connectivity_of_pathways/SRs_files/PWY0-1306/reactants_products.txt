@@ -1,0 +1,4 @@
+re1	lgoD_mRNA	reactant
+re1	LgoD	product
+re2	aldehydo-L-galactonate	reactant
+re2	tagaturonate	product

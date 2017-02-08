@@ -1,0 +1,4 @@
+re1	fruK_mRNA	reactant
+re1	FruK	product
+re2	beta-D-fructofuranose-1-P	reactant
+re2	fructose 1,6-biphosphate	product
