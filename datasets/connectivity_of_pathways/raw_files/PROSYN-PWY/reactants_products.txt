@@ -1,0 +1,16 @@
+re1	proC_mRNA	reactant
+re1	ProC	product
+re2	pyrroline 5-carboxylate	reactant
+re2	proline	product
+re3	proA_mRNA	reactant
+re3	ProA	product
+re4	gamma-L-glutamyl-5-P	reactant
+re4	glutamate-semialdehyde	product
+re4	phosphate	product
+re5	ProB	reactant
+re5	ProA	reactant
+re5	ProB-ProA	product
+re6	proB_mRNA	reactant
+re6	ProB	product
+re7	L-glutamate	reactant
+re7	gamma-L-glutamyl-5-P	product

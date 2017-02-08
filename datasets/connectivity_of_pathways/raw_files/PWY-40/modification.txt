@@ -1,0 +1,2 @@
+re2	CATALYSIS	SpeA
+re4	CATALYSIS	SpeB

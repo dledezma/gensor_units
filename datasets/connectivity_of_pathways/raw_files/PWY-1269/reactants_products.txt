@@ -1,0 +1,23 @@
+re1	kdsB_mRNA	reactant
+re1	KdsB	product
+re2	cytidine-triphosphate	reactant
+re2	3-Kdo	reactant
+re2	diphosphate	product
+re2	CMP-Kdo	product
+re3	kdsC_mRNA	reactant
+re3	KdsC	product
+re4	Kdo-8P	reactant
+re4	phosphate	product
+re4	3-Kdo	product
+re5	kdsA_mRNA	reactant
+re5	KdsA	product
+re6	arabinofuranose 5P	reactant
+re6	P-enol-pyruvate	reactant
+re6	phosphate	product
+re6	Kdo-8P	product
+re7	kdsD_mRNA	reactant
+re7	KdsD	product
+re8	aldehydo-arabinose-5P	reactant
+re8	ribulose-5P	product
+re9	gutQ_mRNA	reactant
+re9	GutQ	product

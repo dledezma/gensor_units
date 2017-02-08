@@ -1,0 +1,7 @@
+re1	panD_mRNA	reactant
+re1	PanD	product
+re2	PanD	reactant
+re2	PanD-PanD	product
+re3	aspartate	reactant
+re3	beta-alanine	product
+re3	CO2	product

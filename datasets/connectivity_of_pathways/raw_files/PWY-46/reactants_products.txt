@@ -1,0 +1,5 @@
+re1	speC_mRNA	reactant
+re1	SpeC	product
+re2	Ornithine	reactant
+re2	putrescine	product
+re2	CO2	product
