@@ -1,0 +1,14 @@
+re1	arsC_mRNA	reactant
+re1	ArsC	product
+re2	reduced glutaredoxin	reactant
+re2	arsenate	reactant
+re2	oxidized glutaredoxin	product
+re2	arsenite	product
+re3	nrdH_mRNA	reactant
+re3	NrdH	product
+re4	grxA_mRNA	reactant
+re4	GrxA	product
+re5	grxC_mRNA	reactant
+re5	GrxC	product
+re6	grxB_mRNA	reactant
+re6	GrxB	product

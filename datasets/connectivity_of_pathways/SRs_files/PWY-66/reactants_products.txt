@@ -1,0 +1,8 @@
+re1	gmd_mRNA	reactant
+re1	Gmd	product
+re2	GDP-mannose	reactant
+re2	GDP-4-keto-6-deoxymannose	product
+re3	fcl_mRNA	reactant
+re3	Fcl	product
+re4	GDP-4-keto-6-deoxymannose	reactant
+re4	GDP-beta-L-fucose	product

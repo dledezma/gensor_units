@@ -1,0 +1,14 @@
+re1	mhpD_mRNA	reactant
+re1	MhpD	product
+re2	2-oxopentenoate	reactant
+re2	2-oxo-4-hydroxyvalerate	product
+re3	mhpE_mRNA	reactant
+re3	MhpE	product
+re4	2-oxo-4-hydroxyvalerate	reactant
+re4	pyruvate	product
+re4	ethanal	product
+re5	mhpF_mRNA	reactant
+re5	MhpF	product
+re6	coenzyme A	reactant
+re6	ethanal	reactant
+re6	acetyl-CoA	product

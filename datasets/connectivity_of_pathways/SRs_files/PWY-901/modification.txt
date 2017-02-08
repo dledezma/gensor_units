@@ -1,0 +1,2 @@
+re2	CATALYSIS	HchA
+re4	CATALYSIS	Dld

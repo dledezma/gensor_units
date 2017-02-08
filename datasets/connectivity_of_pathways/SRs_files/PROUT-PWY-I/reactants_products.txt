@@ -1,0 +1,10 @@
+re1	putA_mRNA	reactant
+re1	PutA	product
+re2	ubiquinone	reactant
+re2	proline	reactant
+re2	pyrroline 5-carboxylate	product
+re2	ubiquinol	product
+re3	glutamate-semialdehyde	reactant
+re3	L-glutamate	product
+re4	pyrroline 5-carboxylate	reactant
+re4	glutamate-semialdehyde	product

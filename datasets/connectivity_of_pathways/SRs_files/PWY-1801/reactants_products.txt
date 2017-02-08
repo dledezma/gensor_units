@@ -1,0 +1,14 @@
+re1	frmB_mRNA	reactant
+re1	FrmB	product
+re2	S-formylglutathione	reactant
+re2	glutathione	product
+re2	formate	product
+re3	yeiG_mRNA	reactant
+re3	YeiG	product
+re4	lactoylglutathione	reactant
+re4	glutathione	product
+re4	lactate	product
+re5	frmA_mRNA	reactant
+re5	FrmA	product
+re6	HMGSH	reactant
+re6	S-formylglutathione	product

@@ -1,0 +1,4 @@
+re1	scpA_mRNA	reactant
+re1	ScpA	product
+re2	CH3-malonyl-CoA	reactant
+re2	suc-coa	product

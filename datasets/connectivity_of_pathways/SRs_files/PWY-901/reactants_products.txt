@@ -1,0 +1,10 @@
+re1	hchA_mRNA	reactant
+re1	HchA	product
+re2	oxopropanal	reactant
+re2	lactate	product
+re3	dld_mRNA	reactant
+re3	Dld	product
+re4	ubiquinone	reactant
+re4	lactate	reactant
+re4	ubiquinol	product
+re4	pyruvate	product

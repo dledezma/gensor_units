@@ -1,0 +1,14 @@
+re1	ispA_mRNA	reactant
+re1	IspA	product
+re2	isopentenyl-pp	reactant
+re2	DMPP	reactant
+re2	diphosphate	product
+re2	geranyl-PP	product
+re3	isopentenyl-pp	reactant
+re3	geranyl-PP	reactant
+re3	diphosphate	product
+re3	farnesyl-PP	product
+re4	idi_mRNA	reactant
+re4	Idi	product
+re5	isopentenyl-pp	reactant
+re5	DMPP	product

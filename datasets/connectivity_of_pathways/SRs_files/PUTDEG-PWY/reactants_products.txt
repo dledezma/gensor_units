@@ -1,0 +1,14 @@
+re1	patD_mRNA	reactant
+re1	PatD	product
+re2	ABAL	reactant
+re2	GABA	product
+re3	patA_mRNA	reactant
+re3	PatA	product
+re4	alpha,omega-diamine	reactant
+re4	ketoglutarate	reactant
+re4	L-glutamate	product
+re4	ABAL	product
+re5	ketoglutarate	reactant
+re5	putrescine	reactant
+re5	L-glutamate	product
+re5	ABAL	product

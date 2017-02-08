@@ -1,0 +1,9 @@
+re1	gss_mRNA	reactant
+re1	Gss	product
+re2	glutathione	reactant
+re2	spermidine	reactant
+re2	glutathionylspermidine	product
+re2	phosphate	product
+re3	glutathionylspermidine	reactant
+re3	glutathione	product
+re3	spermidine	product
