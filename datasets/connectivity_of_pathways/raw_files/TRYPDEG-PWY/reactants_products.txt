@@ -1,0 +1,8 @@
+re1	tnaA_mRNA	reactant
+re1	TnaA	product
+re2	tryptophan	reactant
+re2	dehydroalanine	product
+re2	indole	product
+re3	cysteine	reactant
+re3	dehydroalanine	product
+re3	sulfide	product

@@ -1,0 +1,9 @@
+re1	treC_mRNA	reactant
+re1	TreC	product
+re2	alpha,alpha-trehalose 6-phosphate	reactant
+re2	glucopyranose	product
+re2	glucose-6-P	product
+re3	glk_mRNA	reactant
+re3	Glk	product
+re4	glucopyranose	reactant
+re4	glucose-6-P	product

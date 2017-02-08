@@ -1,0 +1,36 @@
+re1	cysH_mRNA	reactant
+re1	CysH	product
+re2	reduced thioredoxin	reactant
+re2	PAPS	reactant
+re2	thioredoxin disulfide	product
+re2	3',5'-ADP	product
+re2	sulfite	product
+re3	cysJ_mRNA	reactant
+re3	CysJ	product
+re4	riboflavin	reactant
+re4	reduced riboflavin	product
+re5	CysI	reactant
+re5	CysJ	reactant
+re5	CysJ-CysI	product
+re6	sulfite	reactant
+re6	sulfide	product
+re7	cysI_mRNA	reactant
+re7	CysI	product
+re8	cysD_mRNA	reactant
+re8	CysD	product
+re9	CysD	reactant
+re9	CysN	reactant
+re9	CysD-CysN	product
+re10	H2SO4	reactant
+re10	adenylyl-sulfate	product
+re10	diphosphate	product
+re11	cysN_mRNA	reactant
+re11	CysN	product
+re12	cysC_mRNA	reactant
+re12	CysC	product
+re13	adenylyl-sulfate	reactant
+re13	PAPS	product
+re14	trxA_mRNA	reactant
+re14	TrxA	product
+re15	trxC_mRNA	reactant
+re15	TrxC	product

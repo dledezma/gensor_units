@@ -1,0 +1,2 @@
+re2	CATALYSIS	TnaA
+re3	CATALYSIS	TnaA

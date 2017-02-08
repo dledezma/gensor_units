@@ -1,0 +1,32 @@
+re1	gpt_mRNA	reactant
+re1	Gpt	product
+re2	xanthine	reactant
+re2	PRPP	reactant
+re2	xanthosine-5-P	product
+re2	diphosphate	product
+re3	guanine	reactant
+re3	PRPP	reactant
+re3	diphosphate	product
+re3	guanylate	product
+re4	hypoxanthine	reactant
+re4	PRPP	reactant
+re4	diphosphate	product
+re4	5'-IMP	product
+re5	xapA_mRNA	reactant
+re5	XapA	product
+re6	xanthosine	reactant
+re6	phosphate	reactant
+re6	ribose-1-phosphate	product
+re6	xanthine	product
+re7	phosphate	reactant
+re7	inosine	reactant
+re7	ribose-1-phosphate	product
+re7	hypoxanthine	product
+re8	phosphate	reactant
+re8	guanosine	reactant
+re8	ribose-1-phosphate	product
+re8	guanine	product
+re9	ribose-1-phosphate	reactant
+re9	vitamin PP	reactant
+re9	nicotinamide ribose	product
+re9	phosphate	product

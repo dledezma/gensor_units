@@ -1,0 +1,6 @@
+re1	metK_mRNA	reactant
+re1	MetK	product
+re2	methionine	reactant
+re2	diphosphate	product
+re2	phosphate	product
+re2	SAM	product
