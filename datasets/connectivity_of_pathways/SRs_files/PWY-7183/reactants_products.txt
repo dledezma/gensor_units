@@ -1,0 +1,6 @@
+re1	upp_mRNA	reactant
+re1	Upp	product
+re2	uracil	reactant
+re2	PRPP	reactant
+re2	diphosphate	product
+re2	5'-UMP	product

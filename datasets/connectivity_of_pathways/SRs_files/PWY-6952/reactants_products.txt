@@ -1,0 +1,36 @@
+re1	glpQ_mRNA	reactant
+re1	GlpQ	product
+re2	glycerol-3-P-OR	reactant
+re2	glycerol-3-phosphate	product
+re2	alcohol	product
+re3	diglycerol phosphate	reactant
+re3	glycerol-3-phosphate	product
+re3	glycerol	product
+re4	ugpQ_mRNA	reactant
+re4	UgpQ	product
+re5	glycerophosphoserine	reactant
+re5	glycerol-3-phosphate	product
+re5	serine	product
+re6	1-glycerophosphorylethanolamine	reactant
+re6	glycerol-3-phosphate	product
+re6	colamine	product
+re7	glpD_mRNA	reactant
+re7	GlpD	product
+re8	glycerol-3-phosphate	reactant
+re8	ubiquinone	reactant
+re8	ubiquinol	product
+re8	DHAP	product
+re9	glpA_mRNA	reactant
+re9	GlpA	product
+re10	GlpC	reactant
+re10	GlpA	reactant
+re10	GlpB	reactant
+re10	GlpA-GlpB-GlpC	product
+re11	glycerol-3-phosphate	reactant
+re11	vitamin K2	reactant
+re11	menaquinol	product
+re11	DHAP	product
+re12	glpB_mRNA	reactant
+re12	GlpB	product
+re13	glpC_mRNA	reactant
+re13	GlpC	product

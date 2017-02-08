@@ -1,0 +1,71 @@
+re1	moaA_mRNA	reactant
+re1	MoaA	product
+re2	guanosine-triphosphate	reactant
+re2	diphosphate	product
+re2	cPMP	product
+re3	moaD_mRNA	reactant
+re3	MoaD	product
+re4	MoaD	reactant
+re4	MoaE	reactant
+re4	MoaD-MoaE	product
+re5	thiocarboxylated small subunit of molybdopterin synthase	reactant
+re5	cPMP	reactant
+re5	small subunit of molybdopterin synthase	product
+re5	H2Dtpp-mP	product
+re6	moaE_mRNA	reactant
+re6	MoaE	product
+re7	mog_mRNA	reactant
+re7	Mog	product
+re8	H2Dtpp-mP	reactant
+re8	diphosphate	product
+re8	H2Dtpp-mADP	product
+re9	moeA_mRNA	reactant
+re9	MoeA	product
+re10	H2Dtpp-mADP	reactant
+re10	molybdate	reactant
+re10	MoCo (dioxyo)	product
+re11	moeB_mRNA	reactant
+re11	MoeB	product
+re12	small subunit of molybdopterin synthase	reactant
+re12	carboxy-adenylated small subunit of molybdopterin synthase	product
+re12	diphosphate	product
+re13	ynjE_mRNA	reactant
+re13	YnjE	product
+re14	carboxy-adenylated small subunit of molybdopterin synthase	reactant
+re14	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re14	A(H2)	reactant
+re14	thiocarboxylated small subunit of molybdopterin synthase	product
+re14	protein cysteines	product
+re14	acceptors	product
+re15	iscS_mRNA	reactant
+re15	IscS	product
+re16	cystein desulfurase	reactant
+re16	cysteine	reactant
+re16	S-sulfanyl-[L-cysteine desulfurase]	product
+re16	alanine	product
+re17	unsulfurated [sulfur donor]	reactant
+re17	cysteine	reactant
+re17	sulfurated sulfur donor	product
+re17	alanine	product
+re18	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re18	unsulfurated [sulfur donor]	reactant
+re18	sulfurated sulfur donor	product
+re18	protein cysteines	product
+re19	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re19	ThiI	reactant
+re19	sulfurylated sulfur-carrier protein ThiI	product
+re19	protein cysteines	product
+re20	protein cysteines	reactant
+re20	cysteine	reactant
+re20	[L-cysteine desulfurase] L-cysteine persulfide	product
+re20	alanine	product
+re21	sufS_mRNA	reactant
+re21	SufS	product
+re22	3-sulfinoalanine	reactant
+re22	alanine	product
+re22	sulfite	product
+re23	selenocysteine	reactant
+re23	A(H2)	reactant
+re23	acceptors	product
+re23	selenide	product
+re23	alanine	product

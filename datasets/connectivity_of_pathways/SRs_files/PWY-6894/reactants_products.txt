@@ -1,0 +1,15 @@
+re1	thiL_mRNA	reactant
+re1	ThiL	product
+re2	thiamin-P	reactant
+re2	ThPP	product
+re3	thiE_mRNA	reactant
+re3	ThiE	product
+re4	cThz*-P	reactant
+re4	HMP-PP	reactant
+re4	diphosphate	product
+re4	thiamin-P	product
+re4	CO2	product
+re5	HMP-PP	reactant
+re5	THZ-P	reactant
+re5	diphosphate	product
+re5	thiamin-P	product
