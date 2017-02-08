@@ -1,0 +1,14 @@
+re1	pfkA_mRNA	reactant
+re1	PfkA	product
+re2	sedoheptulose-7-P	reactant
+re2	sedoheptulose 1,7-bisphosphate	product
+re3	fructose-6-P	reactant
+re3	fructose 1,6-biphosphate	product
+re4	fbaA_mRNA	reactant
+re4	FbaA	product
+re5	fructose 1,6-biphosphate	reactant
+re5	glyceraldehyde-P	product
+re5	DHAP	product
+re6	sedoheptulose 1,7-bisphosphate	reactant
+re6	erythrose-4P	product
+re6	DHAP	product

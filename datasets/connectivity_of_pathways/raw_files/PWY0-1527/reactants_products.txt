@@ -1,0 +1,6 @@
+re1	curA_mRNA	reactant
+re1	CurA	product
+re2	dihydrocurcumin	reactant
+re2	tetrahydrocurcumin	product
+re3	curcumin	reactant
+re3	dihydrocurcumin	product

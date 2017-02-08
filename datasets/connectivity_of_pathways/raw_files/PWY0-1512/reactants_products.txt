@@ -1,0 +1,4 @@
+re1	cusR_mRNA	reactant
+re1	CusR	product
+re2	cusS_mRNA	reactant
+re2	CusS	product

@@ -1,0 +1,12 @@
+re1	cmoB_mRNA	reactant
+re1	CmoB	product
+re2	5-hydroxyuridine34 in tRNA	reactant
+re2	Cx-SAM	reactant
+re2	5-oxyacetyluridine34 in tRNA	product
+re2	adenosylhomocysteine	product
+re3	cmoA_mRNA	reactant
+re3	CmoA	product
+re4	prephenate	reactant
+re4	SAM	reactant
+re4	phenylpyruvate	product
+re4	Cx-SAM	product

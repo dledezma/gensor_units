@@ -1,0 +1,35 @@
+re1	phnL_mRNA	reactant
+re1	PhnL	product
+re2	PhnL	reactant
+re2	PhnG	reactant
+re2	PhnI	reactant
+re2	PhnH	reactant
+re2	PhnL-PhnH-PhnG-PhnI	product
+re3	MePn	reactant
+re3	alpha-D-ribose-1-methylphosphonate-5-triphosphate	product
+re3	adenine	product
+re4	phnH_mRNA	reactant
+re4	PhnH	product
+re5	PhnJ	reactant
+re5	PhnG	reactant
+re5	PhnI	reactant
+re5	PhnH	reactant
+re5	PhnJ-PhnI-PhnH-PhnG	product
+re6	phnG_mRNA	reactant
+re6	PhnG	product
+re7	phnI_mRNA	reactant
+re7	PhnI	product
+re8	phnM_mRNA	reactant
+re8	PhnM	product
+re9	alpha-D-ribose-1-methylphosphonate-5-triphosphate	reactant
+re9	alpha-D-ribose-1-methylphosphonate 5-phosphate	product
+re9	diphosphate	product
+re10	phnJ_mRNA	reactant
+re10	PhnJ	product
+re11	alpha-D-ribose-1-methylphosphonate 5-phosphate	reactant
+re11	5-phospho-alpha-D-ribose 1,2-cyclic phosphate	product
+re11	methane	product
+re12	phnP_mRNA	reactant
+re12	PhnP	product
+re13	5-phospho-alpha-D-ribose 1,2-cyclic phosphate	reactant
+re13	ribose-1,5-bisphosphate	product

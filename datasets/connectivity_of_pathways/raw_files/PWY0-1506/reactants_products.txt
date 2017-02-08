@@ -1,0 +1,4 @@
+re1	torS_mRNA	reactant
+re1	TorS	product
+re2	torR_mRNA	reactant
+re2	TorR	product
