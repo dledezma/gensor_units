@@ -14,13 +14,13 @@ perl ~/perl_scripts/enzyme_count_v2.pl ~/datasets/GUs_secondary_reactions/ ~/dat
 perl ~/perl_scripts/get_catalysis_reactions.pl ~/datasets/GUs_secondary_reactions/ ~/datasets/results/catalysis_reactions.txt
 
 #Get all short paths (for components)
-perl ~/perl_scripts/get_short_paths_v3.pl ~/datasets/GUs_secondary_reactions/ ~/datasets/results/all_short_paths.txt 0
+perl ~/perl_scripts/get_short_paths_v6.pl ~/datasets/GUs_secondary_reactions/ ~/datasets/results/all_short_paths.txt 0
 
 #Get components
 perl ~/perl_scripts/find_components.pl ~/datasets/results/all_short_paths.txt ~/datasets/results/components.txt
 
 #Get short paths (for connectivity)
-perl ~/perl_scripts/get_short_paths_v3.pl ~/datasets/GUs_secondary_reactions/ ~/datasets/results/short_paths_conn.txt 1
+perl ~/perl_scripts/get_short_paths_v6.pl ~/datasets/GUs_secondary_reactions/ ~/datasets/results/short_paths_conn.txt 1
 
 #Get connectivity 
 perl ~/perl_scripts/get_connectivity_v1.pl ~/datasets/results/short_paths_conn.txt ~/datasets/GUs_secondary_reactions/ ~/datasets/results/connectivity.txt
