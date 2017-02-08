@@ -1,0 +1,14 @@
+re1	pdxK_mRNA	reactant
+re1	PdxK	product
+re2	pyridoxamine	reactant
+re2	pyridoxamine phosphate	product
+re3	pyramin	reactant
+re3	HMP-P	product
+re4	pyridoxol	reactant
+re4	pyridoxine-P	product
+re5	pyridoxal	reactant
+re5	vitamin B6	product
+re6	thiD_mRNA	reactant
+re6	ThiD	product
+re7	HMP-P	reactant
+re7	HMP-PP	product

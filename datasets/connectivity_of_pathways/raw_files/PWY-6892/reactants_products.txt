@@ -1,0 +1,84 @@
+re1	thiG_mRNA	reactant
+re1	ThiG	product
+re2	ThiG	reactant
+re2	ThiH	reactant
+re2	ThiG-ThiH	product
+re3	thiocarboxy-[ThiS-Protein]	reactant
+re3	iminoacetate	reactant
+re3	DOXP	reactant
+re3	ThiS sulfur-carrier protein	product
+re3	cThz*-P	product
+re4	dxs_mRNA	reactant
+re4	Dxs	product
+re5	glyceraldehyde-P	reactant
+re5	pyruvate	reactant
+re5	DOXP	product
+re5	CO2	product
+re6	thiF_mRNA	reactant
+re6	ThiF	product
+re7	cysteine	reactant
+re7	ThiS	reactant
+re7	alanine	product
+re7	ThiS	product
+re8	ThiS	reactant
+re8	diphosphate	product
+re8	ThiS	product
+re9	sulfurylated sulfur-carrier protein ThiI	reactant
+re9	reduced ferredoxin	reactant
+re9	ThiS	reactant
+re9	thiocarboxy-[ThiS-Protein]	product
+re9	oxidized ferredoxin	product
+re9	ThiI	product
+re10	ThiS sulfur-carrier protein	reactant
+re10	diphosphate	product
+re10	ThiS	product
+re11	thiH_mRNA	reactant
+re11	ThiH	product
+re12	tyrosine	reactant
+re12	SAM	reactant
+re12	5'-deoxyadenosine	product
+re12	iminoacetate	product
+re12	methionine	product
+re12	4-cresol	product
+re13	iscS_mRNA	reactant
+re13	IscS	product
+re14	cystein desulfurase	reactant
+re14	cysteine	reactant
+re14	S-sulfanyl-[L-cysteine desulfurase]	product
+re14	alanine	product
+re15	unsulfurated [sulfur donor]	reactant
+re15	cysteine	reactant
+re15	sulfurated sulfur donor	product
+re15	alanine	product
+re16	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re16	unsulfurated [sulfur donor]	reactant
+re16	sulfurated sulfur donor	product
+re16	protein cysteines	product
+re17	[L-cysteine desulfurase] L-cysteine persulfide	reactant
+re17	ThiI	reactant
+re17	sulfurylated sulfur-carrier protein ThiI	product
+re17	protein cysteines	product
+re18	protein cysteines	reactant
+re18	cysteine	reactant
+re18	[L-cysteine desulfurase] L-cysteine persulfide	product
+re18	alanine	product
+re19	sufS_mRNA	reactant
+re19	SufS	product
+re20	3-sulfinoalanine	reactant
+re20	alanine	product
+re20	sulfite	product
+re21	selenocysteine	reactant
+re21	A(H2)	reactant
+re21	acceptors	product
+re21	selenide	product
+re21	alanine	product
+re22	thiI_mRNA	reactant
+re22	ThiI	product
+re23	'activated' tRNA	reactant
+re23	cysteine	reactant
+re23	tRNA containing a thionucleotide	product
+re23	serine	product
+re24	fdx_mRNA	reactant
+re24	Fdx	product
+re25	thiS_mRNA	reactant
+re25	ThiS	product

@@ -1,0 +1,15 @@
+re1	thiD_mRNA	reactant
+re1	ThiD	product
+re2	pyramin	reactant
+re2	HMP-P	product
+re3	HMP-P	reactant
+re3	HMP-PP	product
+re4	thiC_mRNA	reactant
+re4	ThiC	product
+re5	5-aminoimidazole ribotide	reactant
+re5	SAM	reactant
+re5	5'-deoxyadenosine	product
+re5	carbon monoxide	product
+re5	methionine	product
+re5	formate	product
+re5	HMP-P	product

@@ -1,0 +1,33 @@
+re1	thiM_mRNA	reactant
+re1	ThiM	product
+re2	5-(2-hydroxyethyl)-4-methylthiazole	reactant
+re2	THZ-P	product
+re3	thiE_mRNA	reactant
+re3	ThiE	product
+re4	cThz*-P	reactant
+re4	HMP-PP	reactant
+re4	diphosphate	product
+re4	thiamin-P	product
+re4	CO2	product
+re5	HMP-PP	reactant
+re5	THZ-P	reactant
+re5	diphosphate	product
+re5	thiamin-P	product
+re6	thiL_mRNA	reactant
+re6	ThiL	product
+re7	thiamin-P	reactant
+re7	ThPP	product
+re8	pdxK_mRNA	reactant
+re8	PdxK	product
+re9	pyridoxamine	reactant
+re9	pyridoxamine phosphate	product
+re10	pyramin	reactant
+re10	HMP-P	product
+re11	pyridoxol	reactant
+re11	pyridoxine-P	product
+re12	pyridoxal	reactant
+re12	vitamin B6	product
+re13	thiD_mRNA	reactant
+re13	ThiD	product
+re14	HMP-P	reactant
+re14	HMP-PP	product

@@ -1,0 +1,23 @@
+re1	lyxK_mRNA	reactant
+re1	LyxK	product
+re2	xylulose	reactant
+re2	xylulose 5P	product
+re3	3-keto-L-gulonate	reactant
+re3	3-keto-L-gulonate 6-P	product
+re4	yiaK_mRNA	reactant
+re4	YiaK	product
+re5	2,3-dioxo-L-gulonate	reactant
+re5	3-keto-L-gulonate	product
+re6	sgbH_mRNA	reactant
+re6	SgbH	product
+re7	3-keto-L-gulonate 6-P	reactant
+re7	xylulose 5P	product
+re7	CO2	product
+re8	sgbU_mRNA	reactant
+re8	SgbU	product
+re9	xylulose 5P	reactant
+re9	ribulose-5-P	product
+re10	sgbE_mRNA	reactant
+re10	SgbE	product
+re11	ribulose-5-P	reactant
+re11	xylulose-P	product

@@ -1,0 +1,26 @@
+re1	cmk_mRNA	reactant
+re1	Cmk	product
+re2	cytidylate	reactant
+re2	cytidine-diphosphate	product
+re3	dCMP	reactant
+re3	dCDP	product
+re4	ndk_mRNA	reactant
+re4	Ndk	product
+re5	nucleoside diphosphate	reactant
+re5	nucleoside triphosphate	product
+re6	uridine-diphosphate	reactant
+re6	uridine-triphosphate	product
+re7	cytidine-diphosphate	reactant
+re7	cytidine-triphosphate	product
+re8	dUDP	reactant
+re8	dUTP	product
+re9	dCDP	reactant
+re9	dCTP	product
+re10	dTDP	reactant
+re10	dTTP	product
+re11	dADP	reactant
+re11	dATP	product
+re12	dGDP	reactant
+re12	dGTP	product
+re13	guanosine-diphosphate	reactant
+re13	guanosine-triphosphate	product

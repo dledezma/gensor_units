@@ -1,0 +1,14 @@
+re1	codA_mRNA	reactant
+re1	CodA	product
+re2	cytosine	reactant
+re2	ammonium	product
+re2	uracil	product
+re3	isoguanine	reactant
+re3	xanthine	product
+re3	ammonium	product
+re4	upp_mRNA	reactant
+re4	Upp	product
+re5	uracil	reactant
+re5	PRPP	reactant
+re5	diphosphate	product
+re5	5'-UMP	product
