@@ -1,0 +1,12 @@
+re1	aldA_mRNA	reactant
+re1	AldA	product
+re2	glycoaldehyde	reactant
+re2	glycolate	product
+re3	lactaldehyde	reactant
+re3	lactate	product
+re4	lldD_mRNA	reactant
+re4	LldD	product
+re5	acceptors	reactant
+re5	lactate	reactant
+re5	pyruvate	product
+re5	A(H2)	product

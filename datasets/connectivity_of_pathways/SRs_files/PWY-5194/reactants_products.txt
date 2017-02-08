@@ -1,0 +1,15 @@
+re1	cysG_mRNA	reactant
+re1	CysG	product
+re2	precorrin-1	reactant
+re2	SAM	reactant
+re2	adenosylhomocysteine	product
+re2	precorrin-2	product
+re3	uroporphyrinogen-III	reactant
+re3	SAM	reactant
+re3	adenosylhomocysteine	product
+re3	precorrin-1	product
+re4	precorrin-2	reactant
+re4	Precorrin	product
+re5	Precorrin	reactant
+re5	Fe+2	reactant
+re5	siroheme	product

@@ -1,0 +1,40 @@
+re1	tdcE_mRNA	reactant
+re1	TdcE	product
+re2	2-oxobutyrate	reactant
+re2	coenzyme A	reactant
+re2	propanoyl-CoA	product
+re2	formate	product
+re3	coenzyme A	reactant
+re3	pyruvate	reactant
+re3	acetyl-CoA	product
+re3	formate	product
+re4	pflB_mRNA	reactant
+re4	PflB	product
+re5	pta_mRNA	reactant
+re5	Pta	product
+re6	acetyl-CoA	reactant
+re6	phosphate	reactant
+re6	coenzyme A	product
+re6	acetyl-P	product
+re7	propanoyl-CoA	reactant
+re7	phosphate	reactant
+re7	propanoyl-P	product
+re7	coenzyme A	product
+re8	tdcD_mRNA	reactant
+re8	TdcD	product
+re9	propanoate	reactant
+re9	propanoyl-P	product
+re10	ackA_mRNA	reactant
+re10	AckA	product
+re11	acetate	reactant
+re11	acetyl-P	product
+re12	tdcB_mRNA	reactant
+re12	TdcB	product
+re13	serine	reactant
+re13	dehydroalanine	product
+re14	threonine	reactant
+re14	(2Z)-2-aminobut-2-enoate	product
+re15	(2Z)-2-aminobut-2-enoate	reactant
+re15	2-oxobutyrate	product
+re16	acetate	reactant
+re16	acetyl-CoA	product

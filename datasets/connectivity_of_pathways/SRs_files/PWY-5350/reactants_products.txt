@@ -1,0 +1,24 @@
+re1	glpE_mRNA	reactant
+re1	GlpE	product
+re2	reduced thioredoxin	reactant
+re2	thiosulfate	reactant
+re2	thioredoxin disulfide	product
+re2	sulfide	product
+re2	sulfite	product
+re3	thiosulfate	reactant
+re3	cyanide	reactant
+re3	thiocyanate	product
+re3	sulfite	product
+re4	pspE_mRNA	reactant
+re4	PspE	product
+re5	sseA_mRNA	reactant
+re5	SseA	product
+re6	mercaptopyruvate	reactant
+re6	cyanide	reactant
+re6	thiocyanate	product
+re6	pyruvate	product
+re7	mercaptopyruvate	reactant
+re7	pyruvate	product
+re7	sulfide	product
+re8	ygaP_mRNA	reactant
+re8	YgaP	product

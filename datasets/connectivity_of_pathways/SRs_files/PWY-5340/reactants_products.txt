@@ -1,0 +1,14 @@
+re1	cysD_mRNA	reactant
+re1	CysD	product
+re2	CysD	reactant
+re2	CysN	reactant
+re2	CysD-CysN	product
+re3	H2SO4	reactant
+re3	adenylyl-sulfate	product
+re3	diphosphate	product
+re4	cysN_mRNA	reactant
+re4	CysN	product
+re5	cysC_mRNA	reactant
+re5	CysC	product
+re6	adenylyl-sulfate	reactant
+re6	PAPS	product

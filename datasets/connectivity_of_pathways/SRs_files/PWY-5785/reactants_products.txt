@@ -1,0 +1,21 @@
+re1	ispU_mRNA	reactant
+re1	IspU	product
+re2	isopentenyl-pp	reactant
+re2	farnesyl-PP	reactant
+re2	UPP (ambiguous)	product
+re2	diphosphate	product
+re3	bacA_mRNA	reactant
+re3	BacA	product
+re4	UPP (ambiguous)	reactant
+re4	ditrans,polycis-undecaprenyl phosphate	product
+re4	phosphate	product
+re5	ybjG_mRNA	reactant
+re5	YbjG	product
+re6	pgpB_mRNA	reactant
+re6	PgpB	product
+re7	1-phosphatidyl-glycerol-P	reactant
+re7	phosphatidylglycerol	product
+re7	phosphate	product
+re8	DGPP	reactant
+re8	phosphatidate	product
+re8	phosphate	product

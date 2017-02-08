@@ -1,0 +1,5 @@
+re1	ubiC_mRNA	reactant
+re1	UbiC	product
+re2	chorismate	reactant
+re2	4-hydroxybenzoate	product
+re2	pyruvate	product
