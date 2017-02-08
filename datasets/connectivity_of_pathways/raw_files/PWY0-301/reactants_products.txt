@@ -1,0 +1,17 @@
+re1	ulaE_mRNA	reactant
+re1	UlaE	product
+re2	xylulose 5P	reactant
+re2	ribulose-5-P	product
+re3	ulaD_mRNA	reactant
+re3	UlaD	product
+re4	3-keto-L-gulonate 6-P	reactant
+re4	xylulose 5P	product
+re4	CO2	product
+re5	ulaF_mRNA	reactant
+re5	UlaF	product
+re6	ribulose-5-P	reactant
+re6	xylulose-P	product
+re7	ulaG_mRNA	reactant
+re7	UlaG	product
+re8	ascorbate 6-phosphate	reactant
+re8	3-keto-L-gulonate 6-P	product

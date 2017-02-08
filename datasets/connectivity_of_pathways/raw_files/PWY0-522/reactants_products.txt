@@ -1,0 +1,27 @@
+re1	lplA_mRNA	reactant
+re1	LplA	product
+re2	[lipoyl-carrier protein]-L-lysine	reactant
+re2	lipoyl-AMP	reactant
+re2	lipoyl-domain	product
+re3	lipoic acid	reactant
+re3	AceF	reactant
+re3	diphosphate	product
+re3	AceF	product
+re4	lipoic acid	reactant
+re4	SucB	reactant
+re4	diphosphate	product
+re4	SucB	product
+re5	gcv protein H	reactant
+re5	lipoic acid	reactant
+re5	[glycine-cleavage complex H protein] N6-lipoyl-L-lysine	product
+re5	diphosphate	product
+re6	lipoic acid	reactant
+re6	diphosphate	product
+re6	lipoyl-AMP	product
+re7	gcv protein H	reactant
+re7	lipoyl-AMP	reactant
+re7	[glycine-cleavage complex H protein] N6-lipoyl-L-lysine	product
+re8	[lipoyl-carrier protein]-L-lysine	reactant
+re8	C-8 acid	reactant
+re8	octanoylated protein lipoyl-domain	product
+re8	diphosphate	product

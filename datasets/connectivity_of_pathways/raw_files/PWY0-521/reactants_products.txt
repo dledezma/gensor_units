@@ -1,0 +1,13 @@
+re1	frlB_mRNA	reactant
+re1	FrlB	product
+re2	fructoselysine-6-P	reactant
+re2	beta-D-glucose-6-P	product
+re2	lysine	product
+re3	frlD_mRNA	reactant
+re3	FrlD	product
+re4	fructoselysine	reactant
+re4	fructoselysine-6-P	product
+re5	frlC_mRNA	reactant
+re5	FrlC	product
+re6	fructoselysine	reactant
+re6	psicoselysine	product

@@ -1,0 +1,10 @@
+re1	deoB_mRNA	reactant
+re1	DeoB	product
+re2	deoxy-D-ribose 1-phosphate	reactant
+re2	2-deoxy-D-ribose 5-phosphate	product
+re3	ribose-1-phosphate	reactant
+re3	ribose-5P	product
+re4	phnN_mRNA	reactant
+re4	PhnN	product
+re5	ribose-1,5-bisphosphate	reactant
+re5	PRPP	product

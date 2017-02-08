@@ -1,0 +1,4 @@
+re1	prs_mRNA	reactant
+re1	Prs	product
+re2	ribose-5P	reactant
+re2	PRPP	product

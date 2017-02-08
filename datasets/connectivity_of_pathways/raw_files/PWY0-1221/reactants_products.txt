@@ -1,0 +1,24 @@
+re1	puuD_mRNA	reactant
+re1	PuuD	product
+re2	gamma-glu-GABA	reactant
+re2	L-glutamate	product
+re2	GABA	product
+re3	puuC_mRNA	reactant
+re3	PuuC	product
+re4	3-hydroxypropanal	reactant
+re4	hydracrylic acid	product
+re5	4-(gamma-glutamylamino)butanal	reactant
+re5	gamma-glu-GABA	product
+re6	puuB_mRNA	reactant
+re6	PuuB	product
+re7	gamma-Glu-Put	reactant
+re7	oxygen	reactant
+re7	4-(gamma-glutamylamino)butanal	product
+re7	perhydrol	product
+re7	ammonium	product
+re8	puuA_mRNA	reactant
+re8	PuuA	product
+re9	L-glutamate	reactant
+re9	putrescine	reactant
+re9	gamma-Glu-Put	product
+re9	phosphate	product

@@ -1,0 +1,20 @@
+re1	rfaE_mRNA	reactant
+re1	RfaE	product
+re2	beta-D-heptose-1-phosphate	reactant
+re2	ADP-D-beta-D-heptose	product
+re2	diphosphate	product
+re3	glycero-D-heptose 7-P	reactant
+re3	beta-D-heptose-1,7-bisphosphate	product
+re4	gmhB_mRNA	reactant
+re4	GmhB	product
+re5	beta-D-heptose-1,7-bisphosphate	reactant
+re5	beta-D-heptose-1-phosphate	product
+re5	phosphate	product
+re6	rfaD_mRNA	reactant
+re6	RfaD	product
+re7	ADP-D-beta-D-heptose	reactant
+re7	ADP-L-glycero-D-manno-heptose	product
+re8	lpcA_mRNA	reactant
+re8	LpcA	product
+re9	sedoheptulose-7-P	reactant
+re9	glycero-D-heptose 7-P	product

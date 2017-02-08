@@ -1,0 +1,74 @@
+re1	murQ_mRNA	reactant
+re1	MurQ	product
+re2	MurNAc-6-P	reactant
+re2	N-acetyl-alpha-D-glucosamine 6-phosphate	product
+re2	lactate	product
+re3	anmK_mRNA	reactant
+re3	AnmK	product
+re4	1,6-anhMurNAc	reactant
+re4	MurNAc-6-P	product
+re5	nagZ_mRNA	reactant
+re5	NagZ	product
+re6	glcNAc-1,6-anhMurNAc	reactant
+re6	1,6-anhMurNAc	product
+re6	NAcGlc	product
+re7	N-acetyl-beta-D-hexosaminide	reactant
+re7	N-acetyl-beta-D-hexosamine	product
+re7	alcohol	product
+re8	ampD_mRNA	reactant
+re8	AmpD	product
+re9	GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala	reactant
+re9	Ala-D-Glu-meso-A2pm-D-Ala	product
+re9	glcNAc-1,6-anhMurNAc	product
+re10	amiD_mRNA	reactant
+re10	AmiD	product
+re11	nagA_mRNA	reactant
+re11	NagA	product
+re12	N-acetyl-alpha-D-glucosamine 6-phosphate	reactant
+re12	alpha-D-glucosamine phosphate	product
+re12	acetate	product
+re13	glmM_mRNA	reactant
+re13	GlmM	product
+re14	alpha-D-glucosamine phosphate	reactant
+re14	glucosamine-1P	product
+re15	phosphorylated phosphoglucosamine mutase	reactant
+re15	alpha-D-glucosamine phosphate	reactant
+re15	glucosamine 1,6-diphosphate	product
+re15	phosphoglucosamine mutase	product
+re16	glucosamine 1,6-diphosphate	reactant
+re16	phosphoglucosamine mutase	reactant
+re16	phosphorylated phosphoglucosamine mutase	product
+re16	glucosamine-1P	product
+re17	glmU_mRNA	reactant
+re17	GlmU	product
+re18	N-acetyl-alpha-D-glucosamine 1-phosphate	reactant
+re18	uridine-triphosphate	reactant
+re18	diphosphate	product
+re18	UDP-GlcNAc	product
+re19	glucosamine-1P	reactant
+re19	acetyl-CoA	reactant
+re19	N-acetyl-alpha-D-glucosamine 1-phosphate	product
+re19	coenzyme A	product
+re20	ldcA_mRNA	reactant
+re20	LdcA	product
+re21	Ala-D-Glu-meso-A2pm-D-Ala	reactant
+re21	Ala-gamma-D-Glu-Dap	product
+re21	ala	product
+re22	UDP-MurNAc-tetrapeptide	reactant
+re22	UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm	product
+re22	ala	product
+re23	mepS_mRNA	reactant
+re23	MepS	product
+re24	peptidoglycan D-alanyl-DAP crosslink	reactant
+re24	peptidoglycan tetrapeptide, glycan chain 1	product
+re24	peptidoglycan tetrapeptide, glycan chain 2	product
+re25	mpl_mRNA	reactant
+re25	Mpl	product
+re26	Ala-D-Glu-meso-A2pm-D-Ala	reactant
+re26	UDP-MurNAc	reactant
+re26	UDP-MurNAc-tetrapeptide	product
+re26	phosphate	product
+re27	Ala-gamma-D-Glu-Dap	reactant
+re27	UDP-MurNAc	reactant
+re27	UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm	product
+re27	phosphate	product
