@@ -1,0 +1,5 @@
+re1	treA_mRNA	reactant
+re1	TreA	product
+re2	trehalose	reactant
+re2	alpha-glucose	product
+re2	beta-glucose	product

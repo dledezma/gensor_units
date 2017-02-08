@@ -1,0 +1,7 @@
+re20	CATALYSIS	NarG-NarH-NarI
+re20	CATALYSIS	NarY-NarZ-NarV
+re21	CATALYSIS	NarG-NarH-NarI
+re22	CATALYSIS	NarG-NarH-NarI
+re22	CATALYSIS	NarY-NarZ-NarV
+re3	CATALYSIS	NuoA-NuoH-NuoJ-NuoK-NuoL-NuoM-NuoN-NuoI-NuoG-NuoF-NuoE-NuoC-NuoB
+re4	CATALYSIS	NuoA-NuoH-NuoJ-NuoK-NuoL-NuoM-NuoN-NuoI-NuoG-NuoF-NuoE-NuoC-NuoB

@@ -1,0 +1,6 @@
+re1	qseB_mRNA	reactant
+re1	QseB	product
+re2	qseC_mRNA	reactant
+re2	QseC	product
+re3	qseC_mRNA	reactant
+re3	YgiY	product

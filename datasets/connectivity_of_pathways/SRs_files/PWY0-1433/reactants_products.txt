@@ -1,0 +1,19 @@
+re1	folM_mRNA	reactant
+re1	FolM	product
+re2	H2-MPt	reactant
+re2	H4-MPt	product
+re3	7,8-dihydrofolate	reactant
+re3	THF polyglutamate	product
+re4	folX_mRNA	reactant
+re4	FolX	product
+re5	H2NTP	reactant
+re5	H2MTP	product
+re6	folE_mRNA	reactant
+re6	FolE	product
+re7	guanosine-triphosphate	reactant
+re7	formate	product
+re7	H2NTP	product
+re8	H2MTP	reactant
+re8	H2-MPt	product
+re9	H2NTP	reactant
+re9	7,8-dihydrofolate	product

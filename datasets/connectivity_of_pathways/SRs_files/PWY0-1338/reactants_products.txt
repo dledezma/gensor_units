@@ -1,0 +1,29 @@
+re1	arnA_mRNA	reactant
+re1	ArnA	product
+re2	UDP-4-amino-4-deoxy-L-arabinose	reactant
+re2	10-formyl-THF mono-L-glutamate	reactant
+re2	THF polyglutamate	product
+re2	UDP-L-Ara4FN	product
+re3	udp-glcua	reactant
+re3	UDP-L-Ara4O	product
+re3	CO2	product
+re4	arnB_mRNA	reactant
+re4	ArnB	product
+re5	UDP-4-amino-4-deoxy-L-arabinose	reactant
+re5	ketoglutarate	reactant
+re5	UDP-L-Ara4O	product
+re5	L-glutamate	product
+re6	arnC_mRNA	reactant
+re6	ArnC	product
+re7	ditrans,polycis-undecaprenyl phosphate	reactant
+re7	UDP-L-Ara4FN	reactant
+re7	undecaprenyl phosphate-L-Ara4-Formyl-N	product
+re7	uridine-diphosphate	product
+re8	arnT_mRNA	reactant
+re8	ArnT	product
+re9	ditrans,octacis-undecaprenyl phosphate-alpha-L-Ara4N	reactant
+re9	Re endotoxin	reactant
+re9	ditrans,polycis-undecaprenyl phosphate	product
+re9	Ara4N-modified (KDO)2-Lipid A	product
+re10	undecaprenyl phosphate-L-Ara4-Formyl-N	reactant
+re10	ditrans,octacis-undecaprenyl phosphate-alpha-L-Ara4N	product
