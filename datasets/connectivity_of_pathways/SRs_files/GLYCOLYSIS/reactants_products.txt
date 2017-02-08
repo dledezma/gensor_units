@@ -1,0 +1,98 @@
+re1	pykA_mRNA	reactant
+re1	PykA	product
+re2	P-enol-pyruvate	reactant
+re2	pyruvate	product
+re3	pykF_mRNA	reactant
+re3	PykF	product
+re4	eno_mRNA	reactant
+re4	Eno	product
+re5	2-P-D-glycerate	reactant
+re5	P-enol-pyruvate	product
+re6	RhlB	reactant
+re6	Rne	reactant
+re6	Pnp	reactant
+re6	Ppk	reactant
+re6	Eno	reactant
+re6	Ppk-Rne-RhlB-Pnp-Eno	product
+re7	gpmM_mRNA	reactant
+re7	GpmM	product
+re8	2-P-D-glycerate	reactant
+re8	3-P-D-glycerate	product
+re9	pgk_mRNA	reactant
+re9	Pgk	product
+re10	3-P-D-glycerate	reactant
+re10	13-DPG	product
+re11	gapA_mRNA	reactant
+re11	GapA	product
+re12	glyceraldehyde-P	reactant
+re12	phosphate	reactant
+re12	13-DPG	product
+re13	tpiA_mRNA	reactant
+re13	TpiA	product
+re14	glyceraldehyde-P	reactant
+re14	DHAP	product
+re15	fbaA_mRNA	reactant
+re15	FbaA	product
+re16	fructose 1,6-biphosphate	reactant
+re16	glyceraldehyde-P	product
+re16	DHAP	product
+re17	sedoheptulose 1,7-bisphosphate	reactant
+re17	erythrose-4P	product
+re17	DHAP	product
+re18	fbaB_mRNA	reactant
+re18	FbaB	product
+re19	pfkB_mRNA	reactant
+re19	PfkB	product
+re20	fructose-6-P	reactant
+re20	fructose 1,6-biphosphate	product
+re21	tagatofuranose 6-phosphate	reactant
+re21	tagatofuranose 1,6-diphosphate	product
+re22	pfkA_mRNA	reactant
+re22	PfkA	product
+re23	sedoheptulose-7-P	reactant
+re23	sedoheptulose 1,7-bisphosphate	product
+re24	pgi_mRNA	reactant
+re24	Pgi	product
+re25	glucose-6-P	reactant
+re25	fructose-6-P	product
+re26	ppsA_mRNA	reactant
+re26	PpsA	product
+re27	pyruvate	reactant
+re27	P-enol-pyruvate	product
+re27	phosphate	product
+re28	fbp_mRNA	reactant
+re28	Fbp	product
+re29	fructose 1,6-biphosphate	reactant
+re29	fructose-6-P	product
+re29	phosphate	product
+re30	glpX_mRNA	reactant
+re30	GlpX	product
+re31	ybhA_mRNA	reactant
+re31	YbhA	product
+re32	vitamin B6	reactant
+re32	pyridoxal	product
+re32	phosphate	product
+re33	yggF_mRNA	reactant
+re33	YggF	product
+re34	gpmA_mRNA	reactant
+re34	GpmA	product
+re35	peptidyl L-histidine	reactant
+re35	2,3-bisPGA	reactant
+re35	[protein]-N-phosphohistidine	product
+re35	2/3-phospho-D-glycerate	product
+re36	[protein]-N-phosphohistidine	reactant
+re36	2-P-D-glycerate	reactant
+re36	peptidyl L-histidine	product
+re36	2,3-bisPGA	product
+re37	peptidyl L-histidine	reactant
+re37	2,3-bisPGA	reactant
+re37	[protein]-N-phosphohistidine	product
+re37	3-P-D-glycerate	product
+re38	[protein]-N-phosphohistidine	reactant
+re38	2/3-phospho-D-glycerate	reactant
+re38	peptidyl L-histidine	product
+re38	2,3-bisPGA	product
+re39	3-P-D-glycerate	reactant
+re39	2-P-D-glycerate	product
+re40	tagatofuranose 1,6-diphosphate	reactant
+re40	glyceraldehyde-P	product

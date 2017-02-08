@@ -1,0 +1,24 @@
+re1	rhaA_mRNA	reactant
+re1	RhaA	product
+re2	beta-L-rhamnopyranose	reactant
+re2	keto-L-rhamnulose	product
+re3	beta-L-lyxose	reactant
+re3	xylulose	product
+re4	lyxK_mRNA	reactant
+re4	LyxK	product
+re5	xylulose	reactant
+re5	xylulose 5P	product
+re6	3-keto-L-gulonate	reactant
+re6	3-keto-L-gulonate 6-P	product
+re7	sgbU_mRNA	reactant
+re7	SgbU	product
+re8	xylulose 5P	reactant
+re8	ribulose-5-P	product
+re9	araD_mRNA	reactant
+re9	AraD	product
+re10	ribulose-5-P	reactant
+re10	xylulose-P	product
+re11	sgbE_mRNA	reactant
+re11	SgbE	product
+re12	3-keto-L-gulonate 6-P	reactant
+re12	xylulose 5P	product

@@ -1,0 +1,11 @@
+re1	thrB_mRNA	reactant
+re1	ThrB	product
+re2	homo-ser	reactant
+re2	o-phosphohomoserine	product
+re3	hydroxythreonine	reactant
+re3	phospho-hydroxy-threonine	product
+re4	thrC_mRNA	reactant
+re4	ThrC	product
+re5	o-phosphohomoserine	reactant
+re5	threonine	product
+re5	phosphate	product

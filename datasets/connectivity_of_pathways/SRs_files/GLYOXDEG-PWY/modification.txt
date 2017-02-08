@@ -1,0 +1,2 @@
+re2	CATALYSIS	GlcB
+re5	CATALYSIS	GlcD-GlcE-GlcF

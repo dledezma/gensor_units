@@ -1,0 +1,28 @@
+re1	hemE_mRNA	reactant
+re1	HemE	product
+re2	uroporphyrinogen-III	reactant
+re2	coproporphyrinogen III	product
+re2	CO2	product
+re3	hemG_mRNA	reactant
+re3	HemG	product
+re4	protoporphyrinogen	reactant
+re4	oxygen	reactant
+re4	protoporphyrin	product
+re4	perhydrol	product
+re5	protoporphyrinogen	reactant
+re5	vitamin K2	reactant
+re5	protoporphyrin	product
+re5	menaquinol	product
+re6	hemH_mRNA	reactant
+re6	HemH	product
+re7	protoporphyrin	reactant
+re7	Fe+2	reactant
+re7	protoheme IX	product
+re8	hemF_mRNA	reactant
+re8	HemF	product
+re9	coproporphyrinogen III	reactant
+re9	oxygen	reactant
+re9	protoporphyrinogen	product
+re9	CO2	product
+re10	coproporphyrinogen III	reactant
+re10	protoporphyrinogen	product

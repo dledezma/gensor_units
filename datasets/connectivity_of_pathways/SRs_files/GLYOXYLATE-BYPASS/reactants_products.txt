@@ -1,0 +1,35 @@
+re1	mdh_mRNA	reactant
+re1	Mdh	product
+re2	malate	reactant
+re2	oxalacetate	product
+re3	aceB_mRNA	reactant
+re3	AceB	product
+re4	acetyl-CoA	reactant
+re4	glyoxylate	reactant
+re4	coenzyme A	product
+re4	malate	product
+re5	aceA_mRNA	reactant
+re5	AceA	product
+re6	I-CIT	reactant
+re6	glyoxylate	product
+re6	succinate	product
+re7	gltA_mRNA	reactant
+re7	GltA	product
+re8	oxalacetate	reactant
+re8	acetyl-CoA	reactant
+re8	coenzyme A	product
+re8	citrate	product
+re9	acnA_mRNA	reactant
+re9	AcnA	product
+re10	cis-aconitate	reactant
+re10	I-CIT	product
+re11	citrate	reactant
+re11	cis-aconitate	product
+re12	acnB_mRNA	reactant
+re12	AcnB	product
+re13	methylisocitrate	reactant
+re13	2-methylaconitate	product
+re14	I-CIT	reactant
+re14	malate	product
+re15	I-CIT	reactant
+re15	oxalacetate	product

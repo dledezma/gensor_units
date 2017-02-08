@@ -1,0 +1,14 @@
+re1	idnO_mRNA	reactant
+re1	IdnO	product
+re2	gluconate	reactant
+re2	5-ketogluconate	product
+re3	idnK_mRNA	reactant
+re3	IdnK	product
+re4	gluconate	reactant
+re4	6-p gluconate	product
+re5	idnD_mRNA	reactant
+re5	IdnD	product
+re6	idonate	reactant
+re6	5-ketogluconate	product
+re7	5-ketogluconate	reactant
+re7	gluconate	product

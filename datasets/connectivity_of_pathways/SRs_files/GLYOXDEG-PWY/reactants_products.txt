@@ -1,0 +1,20 @@
+re1	glcB_mRNA	reactant
+re1	GlcB	product
+re2	acetyl-CoA	reactant
+re2	glyoxylate	reactant
+re2	coenzyme A	product
+re2	malate	product
+re3	glcD_mRNA	reactant
+re3	GlcD	product
+re4	GlcF	reactant
+re4	GlcE	reactant
+re4	GlcD	reactant
+re4	GlcD-GlcE-GlcF	product
+re5	acceptors	reactant
+re5	glycolate	reactant
+re5	glyoxylate	product
+re5	A(H2)	product
+re6	glcE_mRNA	reactant
+re6	GlcE	product
+re7	glcF_mRNA	reactant
+re7	GlcF	product

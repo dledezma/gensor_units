@@ -1,0 +1,63 @@
+re1	waaC_mRNA	reactant
+re1	WaaC	product
+re2	ADP-L-glycero-D-manno-heptose	reactant
+re2	Re endotoxin	reactant
+re2	heptosyl-Kdo2-lipid A	product
+re3	ADP-L-glycero-D-manno-heptose	reactant
+re3	(Kdo)2-lipid IVA	reactant
+re3	heptosyl-Kdo2-lipid IVA	product
+re4	waaF_mRNA	reactant
+re4	WaaF	product
+re5	ADP-L-glycero-D-manno-heptose	reactant
+re5	heptosyl-Kdo2-lipid A	reactant
+re5	heptosyl-heptosyl-Kdo2-lipidA	product
+re6	waaG_mRNA	reactant
+re6	WaaG	product
+re7	heptosyl-heptosyl-Kdo2-lipidA	reactant
+re7	UDPG	reactant
+re7	glucosyl-(heptosyl)2-Kdo2-lipid A	product
+re7	uridine-diphosphate	product
+re8	waaP_mRNA	reactant
+re8	WaaP	product
+re9	glucosyl-(heptosyl)2-Kdo2-lipid A	reactant
+re9	glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate	product
+re10	waaQ_mRNA	reactant
+re10	WaaQ	product
+re11	glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate	reactant
+re11	ADP-L-glycero-D-manno-heptose	reactant
+re11	glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate	product
+re12	waaY_mRNA	reactant
+re12	WaaY	product
+re13	glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate	reactant
+re13	glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate	product
+re14	waaB_mRNA	reactant
+re14	WaaB	product
+re15	glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate	reactant
+re15	UDP-galactose	reactant
+re15	galactosyl-glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate	product
+re15	uridine-diphosphate	product
+re16	waaO_mRNA	reactant
+re16	WaaO	product
+re17	galactosyl-glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate	reactant
+re17	UDPG	reactant
+re17	galactosyl-(glucosyl)2-(heptosyl)3-Kdo2-lipid A-bisphosphate	product
+re17	uridine-diphosphate	product
+re18	waaJ_mRNA	reactant
+re18	WaaJ	product
+re19	galactosyl-(glucosyl)2-(heptosyl)3-Kdo2-lipid A-bisphosphate	reactant
+re19	UDPG	reactant
+re19	galactosyl-(glucosyl)3-(heptosyl)3-Kdo2-lipid A-bisphosphate	product
+re19	uridine-diphosphate	product
+re20	lipopolysaccharide	reactant
+re20	UDPG	reactant
+re20	D-glucosyl-lipopolysaccharide	product
+re20	uridine-diphosphate	product
+re21	waaU_mRNA	reactant
+re21	WaaU	product
+re22	lipopolysaccharide	reactant
+re22	UDP-GlcNAc	reactant
+re22	N-acetyl-alpha-D-glucosaminyl-lipopolysaccharide	product
+re22	uridine-diphosphate	product
+re23	galactosyl-(glucosyl)3-(heptosyl)3-Kdo2-lipid A-bisphosphate	reactant
+re23	ADP-L-glycero-D-manno-heptose	reactant
+re23	lipid A-core	product
