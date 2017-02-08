@@ -1,0 +1,36 @@
+re1	cobU_mRNA	reactant
+re1	CobU	product
+re2	guanosine-triphosphate	reactant
+re2	adenosylcobinamide-P	reactant
+re2	adenosylcobinamide-GDP	product
+re2	diphosphate	product
+re3	AdoCbi	reactant
+re3	adenosylcobinamide-P	product
+re4	cobT_mRNA	reactant
+re4	CobT	product
+re5	dimethylbenzimidazole	reactant
+re5	NaMN	reactant
+re5	DMB-ribose-5'-P	product
+re5	niacin	product
+re6	btuR_mRNA	reactant
+re6	BtuR	product
+re7	cobinamide	reactant
+re7	AdoCbi	product
+re7	P3,i	product
+re8	B12s	reactant
+re8	calomide	product
+re8	P3,i	product
+re9	cobC_mRNA	reactant
+re9	CobC	product
+re10	adenosylcobalamin 5'-phosphate	reactant
+re10	phosphate	product
+re10	calomide	product
+re11	DMB-ribose-5'-P	reactant
+re11	alpha-ribazole	product
+re11	phosphate	product
+re12	cobS_mRNA	reactant
+re12	CobS	product
+re13	adenosylcobinamide-GDP	reactant
+re13	DMB-ribose-5'-P	reactant
+re13	adenosylcobalamin 5'-phosphate	product
+re13	guanylate	product

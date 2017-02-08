@@ -1,0 +1,22 @@
+re1	caiA_mRNA	reactant
+re1	CaiA	product
+re2	crotonobetainyl-CoA	reactant
+re2	A(H2)	reactant
+re2	gamma-butyrobetaine-CoA	product
+re2	acceptors	product
+re3	caiB_mRNA	reactant
+re3	CaiB	product
+re4	gamma-butyrobetaine-CoA	reactant
+re4	vitamin Bt	reactant
+re4	gamma-butyrobetaine	product
+re4	carnityl-CoA	product
+re5	caiD_mRNA	reactant
+re5	CaiD	product
+re6	carnityl-CoA	reactant
+re6	crotonobetainyl-CoA	product
+re7	caiC_mRNA	reactant
+re7	CaiC	product
+re8	vitamin Bt	reactant
+re8	coenzyme A	reactant
+re8	carnityl-CoA	product
+re8	diphosphate	product

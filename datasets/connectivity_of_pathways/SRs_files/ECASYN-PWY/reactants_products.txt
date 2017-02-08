@@ -1,0 +1,50 @@
+re1	rffM_mRNA	reactant
+re1	RffM	product
+re2	UDP-ManNAcA	reactant
+re2	lipid I	reactant
+re2	uridine-diphosphate	product
+re2	lipid II	product
+re3	rffT_mRNA	reactant
+re3	RffT	product
+re4	TDP-Fuc4NAc	reactant
+re4	lipid II	reactant
+re4	lipid III	product
+re4	dTDP	product
+re5	rfe_mRNA	reactant
+re5	Rfe	product
+re6	ditrans,polycis-undecaprenyl phosphate	reactant
+re6	UDP-GlcNAc	reactant
+re6	lipid I	product
+re6	5'-UMP	product
+re7	rffC_mRNA	reactant
+re7	RffC	product
+re8	dTDP-thomosamine	reactant
+re8	acetyl-CoA	reactant
+re8	TDP-Fuc4NAc	product
+re8	coenzyme A	product
+re9	rffA_mRNA	reactant
+re9	RffA	product
+re10	dTDP-thomosamine	reactant
+re10	ketoglutarate	reactant
+re10	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re10	L-glutamate	product
+re11	rfbA_mRNA	reactant
+re11	RfbA	product
+re12	D-glucose 1-phosphate	reactant
+re12	dTTP	reactant
+re12	diphosphate	product
+re12	TDP-glucose	product
+re13	rffH_mRNA	reactant
+re13	RffH	product
+re14	rffG_mRNA	reactant
+re14	RffG	product
+re15	TDP-glucose	reactant
+re15	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re16	wecC_mRNA	reactant
+re16	WecC	product
+re17	UDP-ManNAc	reactant
+re17	UDP-ManNAcA	product
+re18	wecB_mRNA	reactant
+re18	WecB	product
+re19	UDP-GlcNAc	reactant
+re19	UDP-ManNAc	product

@@ -1,0 +1,52 @@
+re1	gmd_mRNA	reactant
+re1	Gmd	product
+re2	GDP-mannose	reactant
+re2	GDP-4-keto-6-deoxymannose	product
+re3	fcl_mRNA	reactant
+re3	Fcl	product
+re4	GDP-4-keto-6-deoxymannose	reactant
+re4	GDP-beta-L-fucose	product
+re5	pgi_mRNA	reactant
+re5	Pgi	product
+re6	glucose-6-P	reactant
+re6	fructose-6-P	product
+re7	manA_mRNA	reactant
+re7	ManA	product
+re8	mannopyranose-6-P	reactant
+re8	fructose-6-P	product
+re9	cpsG_mRNA	reactant
+re9	CpsG	product
+re10	mannose-1-P	reactant
+re10	mannopyranose-6-P	product
+re11	cpsB_mRNA	reactant
+re11	CpsB	product
+re12	guanosine-triphosphate	reactant
+re12	mannose-1-P	reactant
+re12	diphosphate	product
+re12	GDP-mannose	product
+re13	galU_mRNA	reactant
+re13	GalU	product
+re14	D-glucose 1-phosphate	reactant
+re14	uridine-triphosphate	reactant
+re14	diphosphate	product
+re14	UDPG	product
+re15	pgm_mRNA	reactant
+re15	Pgm	product
+re16	D-glucose 1-phosphate	reactant
+re16	glucose-6-P	product
+re17	phosphorylated phosphoglucomutase	reactant
+re17	D-glucose 1-phosphate	reactant
+re17	alpha-glucose 1,6-bisphosphate	product
+re17	phosphoglucomutase	product
+re18	alpha-glucose 1,6-bisphosphate	reactant
+re18	phosphoglucomutase	reactant
+re18	phosphorylated phosphoglucomutase	product
+re18	glucose-6-P	product
+re19	galE_mRNA	reactant
+re19	GalE	product
+re20	UDPG	reactant
+re20	UDP-galactose	product
+re21	ugd_mRNA	reactant
+re21	Ugd	product
+re22	UDPG	reactant
+re22	udp-glcua	product

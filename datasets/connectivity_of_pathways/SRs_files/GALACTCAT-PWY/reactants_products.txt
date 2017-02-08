@@ -1,0 +1,13 @@
+re1	dgoK_mRNA	reactant
+re1	DgoK	product
+re2	2-keto-3-deoxygalactonate	reactant
+re2	2-keto-3-deoxy-D-galactonate 6-phosphate	product
+re3	dgoA_mRNA	reactant
+re3	DgoA	product
+re4	2-keto-3-deoxy-D-galactonate 6-phosphate	reactant
+re4	glyceraldehyde-P	product
+re4	pyruvate	product
+re5	dgoD_mRNA	reactant
+re5	DgoD	product
+re6	galactonate	reactant
+re6	2-keto-3-deoxygalactonate	product
