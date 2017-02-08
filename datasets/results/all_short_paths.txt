@@ -1,0 +1,8 @@
+# From ~/scripts/get_short_paths_v6.pl on Wed Feb  1 21:52:42 2017
+# Input = ~/datasets/GUs_secondary_reactions/
+# Limit of short paths = 0
+# [1] > GENSOR Unit
+# [2] > reactions (reaction GU ID) involved in path
+# [3] > all possible paths in object name
+# [4] > all possible paths in object Ecocyc ID
+# NOTE: FILE HAD TO BE EDITED TO ACCOMODATE GITHUB SPACE LIMITS. COLUMNS 3 AND 4 WERE OMITTED, FOR ORIGINAL FILE PLEASE CONTACT DANIELA LEDEZMA @ dledezma@lcg.unam.mx
