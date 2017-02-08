@@ -1,0 +1,8 @@
+re1	wecC_mRNA	reactant
+re1	WecC	product
+re2	UDP-ManNAc	reactant
+re2	UDP-ManNAcA	product
+re3	wecB_mRNA	reactant
+re3	WecB	product
+re4	UDP-GlcNAc	reactant
+re4	UDP-ManNAc	product

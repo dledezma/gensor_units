@@ -1,0 +1,26 @@
+re1	rffC_mRNA	reactant
+re1	RffC	product
+re2	dTDP-thomosamine	reactant
+re2	acetyl-CoA	reactant
+re2	TDP-Fuc4NAc	product
+re2	coenzyme A	product
+re3	rffA_mRNA	reactant
+re3	RffA	product
+re4	dTDP-thomosamine	reactant
+re4	ketoglutarate	reactant
+re4	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re4	L-glutamate	product
+re5	rfbA_mRNA	reactant
+re5	RfbA	product
+re6	D-glucose 1-phosphate	reactant
+re6	dTTP	reactant
+re6	diphosphate	product
+re6	TDP-glucose	product
+re7	rffH_mRNA	reactant
+re7	RffH	product
+re8	rfbB_mRNA	reactant
+re8	RfbB	product
+re9	TDP-glucose	reactant
+re9	TDP-4-oxo-6-deoxy--alpha-D-glucose	product
+re10	rffG_mRNA	reactant
+re10	RffG	product

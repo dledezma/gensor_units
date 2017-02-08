@@ -1,0 +1,4 @@
+re1	galE_mRNA	reactant
+re1	GalE	product
+re2	UDPG	reactant
+re2	UDP-galactose	product
