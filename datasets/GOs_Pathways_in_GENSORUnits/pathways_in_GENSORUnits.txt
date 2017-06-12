@@ -1,4 +1,4 @@
-#From ~/gensor_units/Perl_scripts/get_GU_pathways.pl on Mon Jun 12 17:27:56 2017 using: ~/gensor_units/datasets/input_files/Transcription_Factors.txt
+#From ~/gensor_units/Perl_scripts/get_GU_pathways.pl on Mon Jun 12 17:27:56 2017 using: ~/gensor_units/datasets/GOs_Pathways_in_GENSORUnits/genes_in_GUs.txt
 # [1] > GU name
 # [2] > Total pathways
 # [3] > Regulon size
