@@ -4,7 +4,7 @@
 ## 1) main_pipeline.sh
 Pipeline used to assemble GENSOR Units, obtain presence of feedback and connectivity values. Composed of 11 scripts:
 
-&nbsp;a) gu_assembly_v4.pl - Consults RegulonDB datasets (~/datasets/input_files/) to obtain, for each TF, its known effectors, active/inactive conformations, regulated genes and effect of regulatory interactions. Connects to Pathway Tools through perlcyc api, for each target gene obtains: gene products, catalysed reactions, reactants and products of reactions, complexes of which gene products are part of. Produces a directory for each TF with five tab-delimited files that contain all the retrieved information (~/datasets/GUs_raw_files/).
+&nbsp;a) gu_assembly_v4.pl - Consults RegulonDB datasets (\~/datasets/input_files/) to obtain, for each TF, its known effectors, active/inactive conformations, regulated genes and effect of regulatory interactions. Connects to Pathway Tools through perlcyc api, for each target gene obtains: gene products, catalysed reactions, reactants and products of reactions, complexes of which gene products are part of. Produces a directory for each TF with five tab-delimited files that contain all the retrieved information (\~/datasets/GUs_raw_files/).
 
 &nbsp;b) secondary_reaction_comparison.pl - Calls add_secondary_reactions_v4.pl (c) iteratively allowing 0 to 25 intermediate reactions. Produces a file (~/datasets/results/SRs_comparison.txt) with the comparison of secondary reactions added to the GENSOR Unit using X allowed intermediate reactions (Figure S2). 
 
